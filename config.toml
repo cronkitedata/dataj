@@ -1,0 +1,47 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Empirical reporting'
+
+
+relativeURLs = true
+description = "Website for the data reporting class at the Cronkite School for investigative reporting masters' students, Spring 2022"
+# publishDir = "docs"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+   [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = false
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = false
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+    [markup.tableOfContents]
+      endLevel = 3
+      ordered = false
+      startlevel = 2
+
+[taxonomies]
+   series = "series"

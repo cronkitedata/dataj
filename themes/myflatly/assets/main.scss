@@ -1,0 +1,19 @@
+// Your variable overrides can go here, e.g.:
+// $h1-font-size: 3rem;
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap";
+
+$font-family-sans-serif:      Lato, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$h1-font-size:                3rem !default;
+$h2-font-size:                2.5rem !default;
+$h3-font-size:                2rem !default;
+$body-color:                $gray-900 !default;
+
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "bootswatch";
+
+// Put overrides here where they are not using variables. 
