@@ -1,0 +1,12 @@
+
+
+/*unsmush the lines but create a class to re-smush them in sidebar, nav*/
+li {
+   margin-bottom: 1.25rem;
+
+}
+li-m0 {
+   margin-bottom: 0;
+}
+
+
