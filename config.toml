@@ -2,51 +2,58 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Empirical reporting'
 theme = "myflatly"
-
-
+# I think this affects whether you use bundles or not. I'm very confused about this and need to check it before going much further.
 relativeURLs = false
 description = "Website for the data reporting class at the Cronkite School for investigative reporting masters' students, Spring 2022"
 # publishDir = "docs"
 
-[menu]
-
-  [[menu.main]]
-     name = "Syllabus"
-     url = "/syllabus.html/"
 
 
-  [[menu.main]]
+[[menu.main]]
+    identifier = "syllabus"
+    name = "Syllabus"
+    url = "/syllabus/"
+    weight = 1
+
+[[menu.main]]
     identifier = "schedule"
     name = "Schedule"
-    url = "/schedule.html"
+    url = "/schedule/"
+    weight= 2
 
-
-   [[menu.main]]
+[[menu.main]]
     identifier = "weeks"
     name = "Week details"
-    url = "#"
-    isParent = true
-    hasChildren = true
+    url = "/weeks/"
+    weight = 3
 
-
-
-
-   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-
-
-   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-
-
-  [[menu.main]]
+  
+[[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight =  9
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/coursedocs/"
+    hasChildren = true
+    weight = 4
+
+[[menu.main]]
+    identifier = "replication"
+    name = "Replication project"
+    url = "/coursedocs/replication/"
+    weight =  1
+    parent = "projects"
+
+[[menu.main]]
+    identifier = "memo"
+    name = "Story memo"
+    url = "/coursedocs/memo/"
+    weight =  2
+    parent =  "projects"
 
 
 [markup]
@@ -70,7 +77,7 @@ description = "Website for the data reporting class at the Cronkite School for i
       unsafe = true
       xhtml = false
     [markup.tableOfContents]
-      endLevel = 3
+      endLevel = 4
       ordered = false
       startlevel = 2
 

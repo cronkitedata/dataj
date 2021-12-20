@@ -1,3 +1,21 @@
-<div class="container col-md-3">
-  I'll put a sidebar here.
+<div class="container col-md-3 border-start  border-2 pt-4 ps-2">
+
+  <div class="alert alert-info opacity-75 fw-bold mb-3">
+     Important links
+  </div>
+  <p> <a href="https://asu.instructure.com/courses/92120/" class="link-info text-decoration-none ">Canvas</a></p>
+  <p> <a href="https://asu-2217-jmc465-75289.slack.com/" class="link-info text-decoration-none ">Slack </a></p>
+
+   <!-- this already has a built in nav id=TableOfContents -->
+  {{if .Params.toc }}
+
+  <div class="alert alert-info opacity-75 fw-bold">
+    On this page
+  </div>
+  {{.TableOfContents}}
+
+  {{end}}
+
+  <p>  Put a few other links here and something else to keep them busy. </p>
+
 </div>

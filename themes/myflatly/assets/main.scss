@@ -21,7 +21,7 @@ $body-color:                  #494e52;
 @import "_bootswatch";
 
 // 
-// 
+// THESE ARE MY CHANGES BASED ON THE VARIABLES LOADED ABOVE.
 
 .text-purple {
   color: $purple
@@ -60,3 +60,44 @@ blockquote{
     font-weight: lighter;
     margin-top:1em;
   }
+
+
+.subtitle {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.3rem;
+  color: #5f6d6d;
+}
+
+// table of contents sidebar nav
+#TableOfContents {
+  margin-top: 2rem;
+}
+
+#TableOfContents a {
+  text-decoration: none;
+  // padding: .125rem 0;
+  color: $info;
+  // transition: all 50ms ease-in-out; /* 💡 This small transition makes setting of the active state smooth */
+}
+
+//this isn't working. I'm not going to worry about it. It's generally 
+// working ok - it just scrolls just above where I want it to! I can't figure out how to offset the 
+// Location in the page by the size of the nav-bar. 
+
+/* #TableOfContents a:target::before {
+  display: block;
+  content: "Here's what I'm adding with target";
+  height: 3rem;
+  margin: -3rem 0 0 0;
+} */
+
+#TableOfContents  ul  li, ol {
+  list-style: none;
+  font-weight: bold;
+}
+ 
+#TableOfContents  ul li  ul  li {
+   font-weight: lighter;
+ }
+ 

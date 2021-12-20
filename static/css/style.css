@@ -1,5 +1,9 @@
 /*It's too dark and is hard on the eyes. Trying a little lighter shade of text. */
 
+/* Otherwise, navbar will cover content*/
+#content {
+   padding-top: 2rem;
+}
 
 /* unsmush the lines but create a class to re-smush them in sidebar, nav*/
 li {
@@ -21,10 +25,20 @@ h1 {
    font-weight:800;
 }
 
-h3 {
+/* h3 {
    font-weight: bold;
    margin-left: 1rem;
 }
+ */
+
+
+h3 {
+   font-weight: normal;
+   font-size: 1.125rem; 
+   color: #272b2b;
+   margin: 1.1rem auto;
+}
+
 
 .subtitle {
    font-weight: bold;

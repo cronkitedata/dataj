@@ -9,6 +9,7 @@ draft: false
 layout: single
 toc: true
 show_date: false
+weight: 2
 --- 
 
 
@@ -17,7 +18,7 @@ M-W 10:00-11:50 Cronkite 404b (behind the elevators)<br>
 **Slack Workspace**: https://asu-2217-jmc465-75289.slack.com/
 
 Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 / Room 361 Cronkite <br>
-Office hours: Just Slack me. I’m usually around any time other than Monday through Wednesday.
+Office hours: Just Slack me. I’m usually around any time between Monday and Wednesday.
 
 
 <figure class="figure float-end sm-3 ps-4 " width="40%">
@@ -82,7 +83,7 @@ The class uses a point system that initially adds up to 1,000 points for the sem
 
 Doing well in this class means working slowly, methodically and consistently throughout the semester.
 
-{{< figure src="/img/mwtweet-edited.png" attr="Matt Waite">}}
+{{< figure src="/img/mwtweet-edited.png" alt="Matt Waite quote: Not due today, not doing it today">}}
 
 
 Most weeks, you’ll have group labs to turn in along with some kind of individual homework assignment. These will not be graded individually. They’ll be marked "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality – assignments free of major errors that addressed the asignment’s core instructions. I’ll promptly provide individual feedback on the assignment in Canvas.
