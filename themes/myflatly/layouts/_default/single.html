@@ -2,10 +2,11 @@
 <h1 id="title">{{ .Title }}</h1>
 
 <!--put something in here if you don't want the date to be shown - make it a thing in the yaml. -->
+{{ if eq .Params.show_date true}}
 <h3 class="text-muted"> {{.Date.Format "Monday January 2"}} </h3>
+{{ end }}
 
-
-<div class="container col-8">
+<div class="container col-sm-9">
 <article id="content">
       {{ .Content }}
 </article>

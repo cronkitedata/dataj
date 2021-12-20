@@ -1,18 +1,37 @@
 {{ define "main" }}
  
   <h1>{{.Title}}</h1>
+
   {{ with .Params.subtitle }}
   <span class="subtitle">{{.}}</span>
   {{ end }}
         
-  <div class="container mt-2">
-   <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-    {{.Content}}
-  </div>
-  <div>
-  {{ range first 10 .Site.RegularPages }}
-       {{ .Render "summary"}}
-  {{ end }}
-  </div>
+  <div class="container col-sm-9">
+    <div class="row">
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{.Content}}
+    </div>
 
-  {{ end }}
+    <div class="row">
+      {{ range first 1 (where .Site.RegularPages "Section" "updates") }}
+        <h2 class="ms-0 text-purple ">{{.Title}} <br>
+        <span class="fw-light text-muted fs-6">{{ .Date.Format "January 2"}} </span> </h2>
+        <div>
+          <!-- I think at this point, the .Content is from the pages-->
+          {{ .Content }}
+        </div>
+      {{ end }}
+
+      {{ range after 2 (where .Site.RegularPages "Section" "updates")}}       
+
+        <p>
+           {{ .Date.Format "January 2"}} : <a href="{{.PermaLink}}"> {{.Title}}  </a>
+        <p>
+
+      {{ end }}
+    </div>
+
+
+
+  </div>
+{{ end }}

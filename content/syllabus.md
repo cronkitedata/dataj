@@ -3,12 +3,14 @@ title: "Empirical Reporting"
 subtitle: "(Otherwise known as MCO 510, Data Journalism, Spring 2022)"
 date:   "2021-12-11"
 summary: "TLDR: Sorry, you just have to read it."
-classdate: "2022-01-11"
+#classdate: "2022-01-11"
 #publishDate: 
-draft: true
+draft: false
 layout: single
 toc: true
+show_date: false
 --- 
+
 
 M-W 10:00-11:50 Cronkite 404b (behind the elevators)<br>
 **Canvas**: https://asu.instructure.com/courses/92120/<br>
@@ -18,8 +20,8 @@ Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 / Room 361 Cronkite <br>
 Office hours: Just Slack me. I’m usually around any time other than Monday through Wednesday.
 
 
-<figure class="figure float-end ms-3 ps-4 " width="50%">
-<img src="/img/wormhoudt.png" width="100%" class="figure-img img-fluid" ></img>
+<figure class="figure float-end sm-3 ps-4 " width="40%">
+<img src="/img/wormhoudt.png" width="80%" class="figure-img img-fluid" ></img>
 <figcaption class="figure-caption">By Chris Wormhoudt via Unsplash</figcaption>
 </figure>
 
@@ -61,9 +63,6 @@ There will be a lot of recommended books and readings in each week’s assignmen
 ## Grading
 
 
-**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Details are in the Canvas module with your Cronkite Integrity Pledge. This is required within the first month of the class.
-{.alert .alert-info}
-<!-- I have to fix this - I'm not sure why it has no margin -->
 
 The class uses a point system that initially adds up to 1,000 points for the semester. In the past, we’ve found that we sometimes have to drop an assignment, making the total add up to something less than 1,000. I hope we can keep on track this semester, but be prepared for it to change.
 
@@ -72,6 +71,11 @@ The class uses a point system that initially adds up to 1,000 points for the sem
 * Data replication project: 200 points (2/20, 3/4, 3/20)
 * Final story memo : 250 points (3/27, 4/11, 4/17, 4/24)
 * Mini-projects: 150 points (1/21, 4/9, 5/2)
+
+**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Details are in the Canvas module with your Cronkite Integrity Pledge. This is required within the first month of the class.
+{.alert .alert-info .opacity-75}
+
+
 
 ### Daily work (300)
 

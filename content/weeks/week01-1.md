@@ -38,9 +38,9 @@ Unless I suggest otherwise, you’re expected to have done more than just skimme
 
 * Cronkite Academic Integrity pledge in Canvas
 
-### Sunday, 1/15
+### Tuesday, 1/17
 
-* First try on numeracy assessment (see syllabus)
+* First try on numeracy assessment (see [syllabus](/syllabus.html/)
 
 ## Preparation & learning materials
 
