@@ -1,12 +1,31 @@
 
 
-/*unsmush the lines but create a class to re-smush them in sidebar, nav*/
+/* unsmush the lines but create a class to re-smush them in sidebar, nav*/
 li {
-   margin-bottom: 1.25rem;
+   margin-top: .5rem;
 
 }
+
+
 li-m0 {
-   margin-bottom: 0;
+   margin-top: 0;
 }
 
+h2 {
+   font-weight: bold;
+}
 
+h1 {
+   font-weight:800;
+}
+
+h3 {
+   text-decoration: underline;
+}
+
+.subtitle {
+   font-weight: bold;
+   font-style: italic;
+   font-size: 1.3rem;
+   color: #5f6d6d;
+}

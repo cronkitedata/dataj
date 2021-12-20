@@ -5,6 +5,7 @@
 
     {{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
     
+    <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     
