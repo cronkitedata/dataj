@@ -2,17 +2,22 @@
 // $h1-font-size: 3rem; #5c5962;
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
-$web-font-path: "https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,900&display=swap";
+$web-font-path: "https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,700,900&display=swap";
+
+// I want to make boxes that are light colored and have black text, ad thought
+// I could do it with the alert alert-info etc but that seems too complicated for me. 
+
+$lt-blue: #add8e6  ;
+//$info : $lt-blue; 
 
 
 $font-family-sans-serif:      "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 
-$h1-font-size:                2.5rem ;
+$h1-font-size:                2.2rem ;
 $h2-font-size:                1.5rem ;
-$h3-font-size:                1.1rem ;
+$h3-font-size:                1.25rem ;
 // I don't understand which of these it's using. Seems to be the plain one. 
-$bs-body-color:               #38daa4 !important; 
 $body-color:                  #494e52;
 
 
@@ -22,6 +27,18 @@ $body-color:                  #494e52;
 
 // 
 // THESE ARE MY CHANGES BASED ON THE VARIABLES LOADED ABOVE.
+
+h1 { 
+  font-weight:900;
+}
+
+.ltblue-box {
+  display: inline-block;
+  background-color: $lt-blue;
+  padding: 2rem ;
+  font-size: .95rem;
+  margin: 2rem 0 2rem 0;
+}
 
 .text-purple {
   color: $purple
@@ -74,12 +91,24 @@ blockquote{
   margin-top: 2rem;
 }
 
-#TableOfContents a {
+#TableOfContents a, .sidebar-links a {
   text-decoration: none;
-  // padding: .125rem 0;
-  color: $info;
-  // transition: all 50ms ease-in-out; /* 💡 This small transition makes setting of the active state smooth */
+  color: $primary;
 }
+
+#TableOfContents a:hover, .sidebar-links a:hover {
+  color: $success;
+}
+
+#TableOfContents  ul  li, ol {
+  list-style: none;
+  font-weight: bold;
+}
+ 
+#TableOfContents  ul li  ul  li {
+   font-weight: lighter;
+ }
+ 
 
 //this isn't working. I'm not going to worry about it. It's generally 
 // working ok - it just scrolls just above where I want it to! I can't figure out how to offset the 
@@ -91,13 +120,3 @@ blockquote{
   height: 3rem;
   margin: -3rem 0 0 0;
 } */
-
-#TableOfContents  ul  li, ol {
-  list-style: none;
-  font-weight: bold;
-}
- 
-#TableOfContents  ul li  ul  li {
-   font-weight: lighter;
- }
- 

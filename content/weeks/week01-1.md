@@ -1,10 +1,11 @@
 ---
-title: "Week 1-1"
-date:   "2021-12-18"
+title: "Week 01-1 Introductions"
+date: "2022-01-10"
 summary: "A full list of the agenda, upcoming due dates and preparation required for the first day of class"
 draft: true
 layout: single
 toc: true
+weight: 1
 --- 
 
 
@@ -28,34 +29,47 @@ Unless I suggest otherwise, you’re expected to have done more than just skimme
 
 ## Upcoming deadlines
 
-### Sunday 1/9
+Sunday 1/9
+{.text-dark}
 
 * [Survey of skills](https://forms.gle/9eub49FvEbkdYaMY8) and interests via Google drive. You must sign into Google Docs using your ASU email to get access - I can't give access outside of the university for this one.
 
-* Sign into the [Slack account for the class](https://asu-2221-mco510-23712.slack.com/) and join #dj-announcements, #dj-sos and #dj-classroom, along with any other channels you might want to monitor. Go to Canvas and put your user name into the text box to let me know that you've completed this. (This is more important than it sounds. There are a lot of common names out there, and I've sent messages to the wrong people once or twice.)
+* Sign into the [Slack account for the class](https://asu-2221-mco510-23712.slack.com/) and join ```#dj-announcements```, ```#dj-sos``` and ```#dj-classroom``` along with any other channels you might want to monitor. Go to Canvas and put your user name into the text box to let me know that you've completed this. (This is more important than it sounds. There are a lot of common names out there, and I've sent messages to the wrong people once or twice.)
 
-### Friday, 1/13
-
+Friday, 1/13
+{.text-dark}
 * Cronkite Academic Integrity pledge in Canvas
 
-### Tuesday, 1/17
+Tuesday, 1/17
+{.text-dark}
 
-* First try on numeracy assessment (see [syllabus](/syllabus.html/)
+* First try on numeracy assessment (see [syllabus](/syllabus/)
 
 ## Preparation & learning materials
 
 ### Reading / viewing
 
-* [Syllabus](/syllabus.html) and [schedule](/schedule.html). Be prepared to bring questions, comments or complaints to class on Monday.
+* [Syllabus](/syllabus/) and [schedule](/schedule). Be prepared to bring questions, comments or complaints to class on Monday.
  
 <!--ASU seems to have gotten rid of MediaAmp, and I don't know where the content is now . I'll put it in as a private youtube when I get a chance-->
 * Welcome from Ron Nixon, global investigations editor, Associated Press
 
+
+
+<!--
+<div class="embed-responsive embed-responsive-16by9 col-10">
+
+-->
+<div class="class="ratio ratio-16x9" >
+  <iframe  src="https://www.youtube.com/embed/olF0RQS02HA" allowfullscreen>
+  </iframe>
+</div>
 <!--ASU seems to have gotten rid of MediaAmp, and I don't know where the content is now . I'll put it in as a private youtube when I get a chance
 <iframe style="width: 400px; height: 225px; display: inline-block;" title="Video player for Welcome from Ron Nixon" data-media-type="video" src="https://canvas.asu.edu/media_objects_iframe/m-4VJC77uXj5ZPPueQQn9upyk1jsjuCo1Z?type=video" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-4VJC77uXj5ZPPueQQn9upyk1jsjuCo1Z"></iframe>
 -->
 
 * [The Journalistic Method: Five principles for blending analysis and narrative](https://journalistsresource.org/tip-sheets/journalistic-method-tip-sheet-blending-analysis-narrative/), by Nicholas Lemann, former dean of the Columbia University Graduate School of Journalism.
+
 
 ### Setting up Slack
 

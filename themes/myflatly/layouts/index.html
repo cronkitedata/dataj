@@ -7,14 +7,23 @@
   {{ end }}
         
   <div class="container col-sm-9">
-    <div class="row">
-    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-      {{.Content}}
-    </div>
+    
+
 
     <div class="row">
+      <div class="container col-12">
+        
+
+        
+         <!-- because I think you can't float images in a row.-->
+      {{.Content}}
+      </div>
+    </div>
+  
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+    <div class="row">
       {{ range first 1 (where .Site.RegularPages "Section" "updates") }}
-        <h2 class="ms-0 text-purple ">{{.Title}} <br>
+        <h2 class="ms-0 ">{{.Title}} <br>
         <span class="fw-light text-muted fs-6">{{ .Date.Format "January 2"}} </span> </h2>
         <div>
           <!-- I think at this point, the .Content is from the pages-->

@@ -13,11 +13,11 @@ weight: 2
 --- 
 
 
+Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 / Room 361 Cronkite <br>
 M-W 10:00-11:50 Cronkite 404b (behind the elevators)<br>
 **Canvas**: https://asu.instructure.com/courses/92120/<br>
 **Slack Workspace**: https://asu-2217-jmc465-75289.slack.com/
 
-Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 / Room 361 Cronkite <br>
 Office hours: Just Slack me. I’m usually around any time between Monday and Wednesday.
 
 
@@ -100,6 +100,18 @@ We will NOT have an R assessment, since your two projects are required to be don
 
 There are three separate assignments for this project, which challenges you to reproduce some sentences published in real stories using the same data used by the reporters. I’ll provide the stories and the data. Your first job is to identify paragraphs in the story that depended on the dataset that you’ve been given. The second gives you a chance to turn in a draft of your work so that I can help you. The last one is the final version.
 
+
+<div class=" alert float-end w-50 m-3 p-3 alert-info opacity-75">
+
+This course follows ASU's grading policies:
+{.fw-bold}
+
+* "A" is reserved for "excellent" or "outstanding" work, which goes beyond the requirements in quality, depth, effort, or presentation.<br>
+* "B" means "good" -- really! That means it's on time, accurate, written or presented in a professional way, and answers the requirements of the assignment. <br>
+* "C" is considered "Acceptable" work, in that it has met some, but not all, of the requirements.
+
+</div>
+
 ### Story memo / pitch (250)
 
 In this project, you’ll develop a story pitch using a combination of story backgrounding and data analysis. I’ll give you a choice of three datatsets that I know will work for this assignment. You may propose your own, but it must be easy to obtain, relatively clean, and complicated or large enough that there is something for you to analyze beyond a basic statistic. Generally, the dataset will be of individual records (accidents, inspections, deaths or events), not statistical compilations. You’ll understand this better as we move along.
@@ -109,4 +121,95 @@ Althouth this is one-quarter of your grade, it’s split among four assignments 
 ### Smaller mini-projects (150)
 
 There are three graded assignments sprinkled througout the semester, each work 50 points. They include a close reading of a data journalism project; designing your own database for stories that don’t have data ready-made; and creating a creative explainer about anything you did during the course. These will be explained further as you move ahead.
+
+## Course policies
+
+ <blockquote class="blockquote">
+    <p>Showing up is 80 percent of life.</p>
+    <span> <a href="https://quoteinvestigator.com/2013/06/10/showing-up/" class="text-decoration-none link-secondary">Woody Allen </a></span>
+  </blockquote> 
+
+This is an immersioin, in-person class and is not offered via Zoom or ASU Sync.  The minimal requirement is to arrive on time, prepared, and ready to work. Please refrain from eating, napping, using social media, shopping, or working on something else. Be polite to your classmates and any guests by paying attention and respecting their time.
+
+### Attendance and deadlines
+
+There are no excused absences  in this course, except for true medical or other emergencies or religious observances.  You might decide it’s more important to schedule a job interview, attend a family event, or  interview a source than to attend class or complete your work. You might decide to skip class in order to accommodate another class -- something your professors are not supposed to have you do. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines. 
+
+As in all journalism work, you are expected to meet deadlines.  Assignments submitted even one minute past the deadline will not be accepted and will receive zero credit. 
+
+That said, **give yourself a break**. You may miss one class and get an extension on one routine (ungraded) assignment without penalty. Notify me on Slack when you plan to take it.  
+
+In the event of extreme circumstances, such as a natural disaster, a death in the family or severe illness, notify me right away. I am required to notify the Dean of Students when this happens, who will then coordinate the support services and accommodations needed across the university.
+
+
+### Accuracy
+
+If you pursue reporting with data-driven techniques, you’ll often create original information that no one else can confirm. In fact, your sources are often happy to explain a result you present to them, even if it’s entirely wrong. This puts an even bigger burden on you to understand your sources, to question your assumptions and find holes in your work. If an answer seems too newsworthy, walk through everything you’ve done step by step. Seek out errors; ask experts or colleagues to challenge your results. We’ll spend a lot of time on practices that will help protect you from errors but your own skepticism (and sometimes even fear) is the best defense.
+
+I don’t expect your work to be polished and exact. However, work that shows a fundamental misunderstanding of the source, contains a severe miscalculation or misinterpretation, or ignores clear warning signs will receive an E. This is the equivalent of having to retract an entire story because it was based on an obvious falsehood.
+
+<div class="container ltblue-box">
+
+Having trouble? 
+{.fs-2}
+
+<figure class="figure float-end sm-6 ps-4 " width="60%">
+<img src="/img/moller.png" width="100%" class="figure-img img-fluid" ></img>
+<figcaption class="figure-caption">By Fabian Moller via Unsplash</figcaption>
+</figure>
+
+
+Learning data skills requires a lot of trial and error -- a LOT of error. It's frustrating and maddening at times and you won't be alone. But there are some strategies that you can use to help get you past roadblocks.
+
+* Slow down! Unlike the rest of journalism, going faster doesn't help. Separate the problem into pieces and solve it one step at a time. 
+* If you've been working on something for more than 20 minutes **without making any progress**, don't waste more time on it. If you're making just a little progress, keep going. But take a break and come back to it if you're stuck. Get help if you're really stuck.
+* Remember the goal: We're not trying to become social scientists, computer programmers or data analysts. We're journalists. Simplify your questions, focusing on newsworthiness rather than academic research.
+* Practice on something you're working on outside of school or for another class.
+
+</div>
+
+### Collaborations
+
+All work submitted under your name must be your work and your work alone. When you are assigned work in teams, contributors should be credited when an individual was primarily responsible for a portion of the work. For example, if one student takes the lead on analyzing data and another on writing the results, you should give credit where it is due.
+
+### Extra Credit
+
+Simple. There is none. Why? This course is made up of a lot of little pieces. They can’t be replaced by attending a lecture.
+
+<figure class="figure"  >
+<img src="/img/brodeur.png" height="90%" class="figure-img img-fluid" ></img>
+<figcaption class="figure-caption">via Unsplash</figcaption>
+</figure>
+
+## FAQ
+
+**Q: I don’t have any experience. What do I need to succeed?**
+
+For undergraduate and 3+1 graduate students, I expect that you have had exposure to Freedom of Information concepts; the one-credit introduction to programming course and the numeracy exam you had to pass in JMC 201. Beyond that, I expect a minimal familiarity with spreadsheets in general, and Excel in particular. 
+
+**Q: What is the Slack Channel**
+
+Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including Cronkite News and News 21. You should set up alerts for key channels to be sure you’ll get class announcements. There is an assignment for the first day with guidelines to set it up.
+
+**Q: How should I communicate with you?**
+
+Slack or in person is best. All assignments MUST be turned in via Canvas assignments. Do NOT email assignments. There are too many moving parts in this course, and I can’t guarantee I’ll keep track of anything submitted outside Canvas and Slack.
+
+**Q: How will I know how I’m doing?**
+
+Pay attention to the feedback on  your routine homework and labs. I'll give you a sense of whether your work is excellent, good or acceptable. If it's not where you'd like it, let's talk about how to improve. 
+
+**Q: How do I ask good questions?**
+
+In technical work, asking a good question is an art. Try to:
+
+* Describe what you are trying to do – what does success look like? What question are you trying to answer? 
+* Provide a snippet of the code or the Excel formula that you’re trying
+* Take a screen shot or quote the error message if there is one
+
+**Q: I already know how to code and analyze data. Why do I have to take this class?**
+
+Even if you know how to code, I presume you are at Cronkite because you want to apply all of your skills to a journalism career. You probably knew how to use a phone or take a picture before you came to j-school, but you may not have used them the way you do now. That said, talk with me if you’re concerned that you won’t be challenged enough. We’ll find ways to make the time productive and take you to the next level in data reporting.
+
+*Additional Cronkite policies, including the Academic Integrity Policy, are included on the Canvas page for this class. These policies apply to all students in all classes.*
 

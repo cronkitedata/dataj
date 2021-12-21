@@ -8,33 +8,14 @@
 /* unsmush the lines but create a class to re-smush them in sidebar, nav*/
 li {
    margin-top: .5rem;
-
 }
-
-
 
 li-m0 {
    margin-top: 0;
 }
 
-h2 {
-   font-weight: bold;
-}
-
-h1 {
-   font-weight:800;
-}
-
-/* h3 {
-   font-weight: bold;
-   margin-left: 1rem;
-}
- */
-
-
 h3 {
    font-weight: normal;
-   font-size: 1.125rem; 
    color: #272b2b;
    margin: 1.1rem auto;
 }
