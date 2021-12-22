@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks on Empirical reporting</title>
+    <link>/weeks/</link>
+    <description>Recent content in Weeks on Empirical reporting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introductions</title>
+      <link>/weeks/week01-1/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/weeks/week01-1/</guid>
+      <description>A full list of the agenda, upcoming due dates and preparation required for the first day of class</description>
+    </item>
+    
+    <item>
+      <title>The journalistic method</title>
+      <link>/weeks/week01-2/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/weeks/week01-2/</guid>
+      <description>Here’s a bit of writing advice I often share with students: engineers don’t look at a bridge the same way pedestrians or drivers do. The former understand the bridge as a language of angles and load bearing structures. Writers should read books in that same way.
+&amp;mdash; jelani cobb (@jelani9) December 20, 2021  Agenda  Discussion: Empirical reporting and the journalistic method Lab: Reading the data-driven story  Upcoming deadlines Friday, 1/13</description>
+    </item>
+    
+    <item>
+      <title>Defining data</title>
+      <link>/weeks/week02-1/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/weeks/week02-1/</guid>
+      <description>data /ˈdeɪ.tə/ :
+ information in an electronic form that can be stored and used by a computer, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary   (I reversed the order of these!)
+Agenda  Reviewing what is &amp;ldquo;data&amp;rdquo;? Lab - The life of a dataset warmup Replication in data journalism and the data diary  Upcoming deadlines Friday 1/21</description>
+    </item>
+    
+    <item>
+      <title>Spreadsheet refresher</title>
+      <link>/weeks/week03-1/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/weeks/week03-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

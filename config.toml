@@ -5,7 +5,7 @@ theme = "myflatly"
 # I think this affects whether you use bundles or not. I'm very confused about this and need to check it before going much further.
 relativeURLs = false
 description = "Website for the data reporting class at the Cronkite School for investigative reporting masters' students, Spring 2022"
-# publishDir = "docs"
+publishDir = "docs"
 
 
 

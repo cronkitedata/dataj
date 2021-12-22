@@ -1,0 +1,37 @@
+/*It's too dark and is hard on the eyes. Trying a little lighter shade of text. */
+
+
+/* to fix the scrolling with links? */
+
+html { scroll-padding-top: 4rem ;}
+
+/* Otherwise, navbar will cover content*/
+#content {
+   padding-top: 2rem;
+}
+
+/* unsmush the lines but create a class to re-smush them in sidebar, nav*/
+li {
+   margin-top: .5rem;
+}
+
+li-m0 {
+   margin-top: 0;
+}
+
+h3 {
+   font-weight: normal;
+   color: #272b2b;
+   margin: 1.1rem auto;
+}
+
+
+.subtitle {
+   font-weight: bold;
+   font-style: italic;
+   font-size: 1.3rem;
+   color: #5f6d6d;
+}
+
+
+
