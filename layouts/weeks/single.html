@@ -1,13 +1,31 @@
 {{ define "main" }}
+
 <h1 id="title">{{ .Title }}</h1>
 <h3 class="text-muted"> {{.Date.Format "Monday January 2"}} </h3>
 
 
-<div class="container col-sm-9">
+<div class="container col-md-9">
+
+<!-- page content -->
+
 <article id="content">
       {{ .Content }}
 </article>
+
+<!-- nav to next page. Geez. Next and previous 
+     refer to weight, so next is really prev and prev is really next  -->
+
+<div class="container">
+      {{ if .NextInSection }}
+      <a href=" {{ .NextInSection.Permalink }} " class="btn btn-outline-primary"> Prev </a>
+       {{ end }}
+
+      {{ if .PrevInSection }}
+      <a href=" {{ .PrevInSection.Permalink }} " class="btn btn-outline-primary"> Next </a>
+      {{ end }}
+
+</div>
+
 </div>
 
 {{ end }}
-

@@ -52,9 +52,9 @@ American journalists have been using empirical methods since the birth of the Re
 
 This lab is geared at learning how to read and view journalism as a writer and producer, by closely examining HOW a story was conceived and executed rather than whether you liked it or thought it was "good". This is designed to orient you toward the "reporting" part of the data reporting equation.
 
-"[Putting the "j" back in "data journalism"](https://cronkitedata.github.io/cronkite-docs/general/07-the-j-in-data-journalism.html). This quick tipsheet goes through how to read a story as a writer, as well as how to look for news in data.
+* Chapter 1, Course textbook: Reading like a writer. Generally, when I assign these textbook chapters, you are not required to study the works listed in the additional reading or exercise sections unless I specifically assign them. 
 
-"[The Disproportionate Risk of Driving While Black](https://www.nytimes.com/2015/10/25/us/racial-disparity-traffic-stops-driving-black.html)", Sharon LaFraniere and Andrew Lehren, New York TImes, October 2015. We'll review this story in a group exercise on Wednesday, so be sure to review it fully. Pay attention to the data sources, the way that they were analyzed, and the writing and graphics, and the examples used. If great journalism is "the selection, not the compression, of facts," then think about how those facts and examples might have been found and why they were selected. After class, I'll provide an annotated version that goes through some of the sources and questions.  
+* "[The Disproportionate Risk of Driving While Black](https://www.nytimes.com/2015/10/25/us/racial-disparity-traffic-stops-driving-black.html)", Sharon LaFraniere and Andrew Lehren, New York TImes, October 2015. We'll review this story in a group exercise on Wednesday, so be sure to review it fully. Pay attention to the data sources, the way that they were analyzed, and the writing and graphics, and the examples used. If great journalism is "the selection, not the compression, of facts," then think about how those facts and examples might have been found and why they were selected. After class, I'll provide an annotated version that goes through some of the sources and questions.  
 
 ### Self-help for the numeracy quiz
 
@@ -62,7 +62,9 @@ We're not going to review newsroom math in class. It's up to you to make sure th
 
 Be careful about picking out advice from random Google results on this topic - in searching for some resources for you, I found many that were just wrong. 
 
-* Numbers in the Newsroom, by Sarah Cohen. There is a copy of the full book in Canvas. Here is a [shorter tip sheet](/datadocs/danger.pdf) that goes through  much of the math that will be on the quiz. 
+* Chapter 2 of the course textbook provides some of the key formulas that you need. It's an adaptation of a handout I made years ago that formed the basis of a book. 
+
+* That book is called "Numbers in the Newsroom".  There is a copy of the full book in Canvas. Here is a [shorter tip sheet](/datadocs/danger.pdf) that goes through  much of the math that will be on the quiz. 
 
 * [Newsroom Math Cribsheet](https://businessjournalism.org/2017/09/newsroom-math-crib-sheet/), by Steve Doig, used in Cronkite's undergraduate program. 
 

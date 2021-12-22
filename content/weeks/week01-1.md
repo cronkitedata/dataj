@@ -11,15 +11,15 @@ week_order: "01-1"
 --- 
 
 
-  <blockquote class="blockquote-big">
+  <blockquote class="blockquote-big mb-3">
     <p>Maybe stories are just data with a soul</p>
     <span> Brené Brown </span>
   </blockquote>
   
 
-I’ll use this structure to lay out 1) class outlines, 2) key deadlines for this and the upcoming week, 3) Preparation required before class begins, including reading and tutorials.
+I’ll use this structure to lay out weely agendas, upcoming deadlines, readings, tutorials and more.  The full assignments are in Canvas, listed under modules by month. 
 
-Unless I suggest otherwise, you’re expected to have done more than just skimmed through or reviewed the material. You should read, watch or listen closely and follow along on all of the tutorials.
+Unless I suggest otherwise, you’re expected to have done more than just skimmed through or reviewed the material. You should read, watch or listen closely and try to follow along on all of the tutorials.
 
 ## Agenda
 
@@ -45,7 +45,7 @@ Friday, 1/13
 Tuesday, 1/17
 {.text-dark}
 
-* First try on numeracy assessment (see [syllabus](/syllabus/)
+* First try on numeracy assessment (see [syllabus](/syllabus/) )
 
 ## Preparation & learning materials
 
@@ -53,22 +53,12 @@ Tuesday, 1/17
 
 * [Syllabus](/syllabus/) and [schedule](/schedule). Be prepared to bring questions, comments or complaints to class on Monday.
  
-<!--ASU seems to have gotten rid of MediaAmp, and I don't know where the content is now . I'll put it in as a private youtube when I get a chance-->
 * Welcome from Ron Nixon, global investigations editor, Associated Press
 
-
-
-<!--
-<div class="embed-responsive embed-responsive-16by9 col-10">
-
--->
 <div class="class="ratio ratio-16x9" >
   <iframe  src="https://www.youtube.com/embed/olF0RQS02HA" allowfullscreen>
   </iframe>
 </div>
-<!--ASU seems to have gotten rid of MediaAmp, and I don't know where the content is now . I'll put it in as a private youtube when I get a chance
-<iframe style="width: 400px; height: 225px; display: inline-block;" title="Video player for Welcome from Ron Nixon" data-media-type="video" src="https://canvas.asu.edu/media_objects_iframe/m-4VJC77uXj5ZPPueQQn9upyk1jsjuCo1Z?type=video" allowfullscreen="allowfullscreen" allow="fullscreen" data-media-id="m-4VJC77uXj5ZPPueQQn9upyk1jsjuCo1Z"></iframe>
--->
 
 * [The Journalistic Method: Five principles for blending analysis and narrative](https://journalistsresource.org/tip-sheets/journalistic-method-tip-sheet-blending-analysis-narrative/), by Nicholas Lemann, former dean of the Columbia University Graduate School of Journalism.
 

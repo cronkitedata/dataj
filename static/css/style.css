@@ -1,5 +1,10 @@
 /*It's too dark and is hard on the eyes. Trying a little lighter shade of text. */
 
+
+/* to fix the scrolling with links? */
+
+html { scroll-padding-top: 4rem ;}
+
 /* Otherwise, navbar will cover content*/
 #content {
    padding-top: 2rem;
