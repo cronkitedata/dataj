@@ -1,10 +1,39 @@
-# Understanding your data
 
-David Cullier, an expert in public records, recommends following the life cycle of a document or dataset when trying to extract it from a government agency. He wants to know where the information was born, whether it's still alive, and why it existed. 
 
-We can take that metaphor across any form of "data". But first, it's worth remembering the dic
+# Deconstructing data
 
-This reading and viewing is designed to help you recognize different types and sources of data, and to look at a few relatively short pieces of journalism that use data and empirical methods to develop the story. 
+## Key takeaways
+
+* ? get the idea that data is created by events / people all the time, but for their own purposes. 
+* Granular, or individual, data is usually harder to get but more useful for investigative journalists than aggregated data or statistics.
+* You need to understand three things about a dataset before you can reliably work with it: 
+      * The *universe* it represents 
+      * The definition and method of collection of each column (or field, or variable) 
+      * The noun you would use to describe each row (or observation or record). 
+      
+
+## How was your data born? 
+
+In The Art of Access, David Cullier describes a process of tracking down the life and times of a dataset. His purpose is to make sure he knows how to request it from a government agency. But the same idea applies to using data that we acquire elsewhere. 
+
+Almost anything event could be considered one piece of of data -- a form you fill out, a tweet, a street light, or a muscial note.  In the sciences, this flotsam and jetsom that is left behind can be observed and studied. If it was born electronically, they call it "digital trace data". This includes Tweets, satellite imagery of lights on Earth, or the mile-by-mile record of each runner in the New York City Marathon. 
+
+Here's how one scientist describes it: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uuSWQN7uYhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In journalism and in the social sciences, much of our data source was born during some government process -- a safety inspection, a traffic ticket, or the filing of a death certificate. These administrative records form the basis of much investigative reporting, and are the subject of public records and FOIA requests. They were born as part of the government doing its job, without any thought given to how it might be used in another way. Many governments are careful to collect only the information they need to do their jobs for privacy reasons. Reporters are often surprised to learn that, for example, courts probably don't have a record of the ethnicity of a crime victim, or restaurant inspections may not show what kind of food is served. 
+
+The other kind of data is that which is compiled or collected specifically for the purpose of studying something. It might collected in the form of a survey or a poll, or water samples to measure pollution. 
+
+Most journalism uses data collected for one purpose for something entirely different. Understanding its original uses -- what matters to the people who collected it, and what doesn't -- will profoundly affect its accuracy or usefulness. 
+
+
+## Why does your data exist? 
+
+## In what form can you get the data? 
+
+## What does your dataset mean?
 
 #### Data granularity 
 
@@ -25,7 +54,6 @@ Much of the data used by  journalists is "digital trace data" -- the flotsam and
 
 This researcher is generally talking about data we leave behind in public, in social media and through the use of our phones. But you can also think about it as public records you get through FOIA -- that is the "trace data" of government activity -- the artifacts of governing. If something is inspected, if money is spent , if a law is enforced, then it leaves behind trace data.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uuSWQN7uYhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Granular and aggregated data 
 
@@ -73,8 +101,17 @@ Here are some other examples of granular data and the aggregataions you'll often
 * A payment to a doctor -> medical spending **government program**
 * A water sample -> The number of homes with **lead** in their drinking water
 * A vaccination -> vaccination rates for **measles** in a school
+* A tweet -> the sentiment of viewers toward the State of the Union speech.
 
 I've bolded the terms that have to be in the original, granular, record in order to count or sum them into those statistics.
+
+In general, these characteristics -- called *variables* or *fields* -- are going to be columns in your dataset. And it's crucial that you understand what every column means before you use it. 
+
+### Your universe
+
+
+
+
 
 ## Your noun
 

@@ -51,9 +51,6 @@ We are using a bespoke online textbook I made that puts together and updates a l
 * Chapter ? from the course textbook: Data integrity and replication in journalism
 {.text-danger}
 
-* Chapter ? from the course textbook: The data dictionary and first steps with a dataset (NOTE: We'll talk about this both today and next week. Be sure to catch up with it over the weekend if you don't get to it for today. It's important.)
-{.text-danger}
-
 ["Basic steps in working with data"](https://datajournalism.com/read/handbook/one/understanding-data/basic-steps-in-working-with-data), the Data Journalism Handbook, Steve Doig, ASU Prof.
 
 ### Reading and viewing
