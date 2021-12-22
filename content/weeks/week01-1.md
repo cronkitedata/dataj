@@ -1,15 +1,17 @@
 ---
-title: "Week 01-1 Introductions"
+title: "Introductions"
 date: "2022-01-10"
 summary: "A full list of the agenda, upcoming due dates and preparation required for the first day of class"
 draft: true
 layout: single
 toc: true
+show_date: true
 weight: 1
+week_order: "01-1"
 --- 
 
 
-  <blockquote class="blockquote">
+  <blockquote class="blockquote-big">
     <p>Maybe stories are just data with a soul</p>
     <span> Brené Brown </span>
   </blockquote>

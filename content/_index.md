@@ -17,7 +17,6 @@ kind: home
 Welcome to our newly revamped “Data Journalism” course for the masters' students in the Cronkite School’s Masters program in investigative journalism. . It’s time for your journey through what I’m calling “Empirical Journalism”, or the spine of many invstigative stories. I’m looking forward to a productive and lively semester!
 {.mt-3}
 
-This site will give you most of what you need, but whenever there is a conflict between Canvas and this site, Canvas is the right one. Please alert me to conflicts, broken links or other mechanical issues as soon as possible via Slack. (Posting in #dj-sos Slack channel will ensure that everyone gets the answer, but you don’t have to. )
 
 
 -- Sarah Cohen, Professor and Knight Chair in Journalism

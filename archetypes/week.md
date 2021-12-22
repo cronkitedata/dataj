@@ -1,11 +1,10 @@
 ---
-title: " "
-date:   {{ .Date }}
-summary: " "
-classdate: {{ .Date }}
-#publishDate: 
+title: 
+date:  {.Date}
 draft: true
 layout: single
 toc: true
-show_comments: false
+show_date: true
+weight: 
+week_order: 
 --- 

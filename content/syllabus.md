@@ -21,7 +21,7 @@ M-W 10:00-11:50 Cronkite 404b (behind the elevators)<br>
 Office hours: Just Slack me. I’m usually around any time between Monday and Wednesday.
 
 
-<figure class="figure float-end sm-3 ps-4 " width="40%">
+<figure class="figure float-end sm-3 ps-4 " width="30%">
 <img src="/img/wormhoudt.png" width="80%" class="figure-img img-fluid" ></img>
 <figcaption class="figure-caption">By Chris Wormhoudt via Unsplash</figcaption>
 </figure>

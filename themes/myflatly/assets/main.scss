@@ -17,6 +17,7 @@ $font-family-sans-serif:      "Roboto", -apple-system, BlinkMacSystemFont, "Sego
 $h1-font-size:                2.2rem ;
 $h2-font-size:                1.5rem ;
 $h3-font-size:                1.25rem ;
+$h4-font-size:                1.1rem;
 // I don't understand which of these it's using. Seems to be the plain one. 
 $body-color:                  #494e52;
 
@@ -32,6 +33,11 @@ h1 {
   font-weight:900;
 }
 
+h4 {
+  color: $secondary;
+  margin-top: 1rem;
+}
+
 .ltblue-box {
   display: inline-block;
   background-color: $lt-blue;
@@ -44,33 +50,35 @@ h1 {
   color: $purple
 }
 
-blockquote{
+.blockquote-big {
     font-size: 1.2rem;
-    width:60%;
-    margin: 1rem 1rem; 
+    width:90%;
+    margin: .5rem 1rem; 
     font-style: normal;
-    padding:  1.2rem 1.2rem 1.2rem 3rem;
-    border-left:8px solid $success ;
-    line-height:1.6;
+    padding:  1rem 1.2rem 1.2rem 3rem;
+    border-left:6px solid $success ;
+    line-height:1.4;
     position: relative;
     background: $gray-100;
     color: $gray-700;
   }
   
-  blockquote::before{
+  .blockquote-big::before{
     content: "\201C";
     color:   $success;
-    font-size:  4rem;
+    font-size:  3rem;
     position: absolute;
     left: 10px;
     top:-10px;
   }
   
-  blockquote::after{
+  .blockquote-big::after{
     content: '';
   }
   
-  blockquote span{
+  //this screws up my ability to bold within a graf, but I can just use <strong>
+
+  .blockquote-big span{
     display:block;
     color: $gray-600;
     font-style: italic;
@@ -109,6 +117,10 @@ blockquote{
    font-weight: lighter;
  }
  
+ .sidebar-links a:active {
+   color : $yellow;
+   font-weight: bolder;
+ }
 
 //this isn't working. I'm not going to worry about it. It's generally 
 // working ok - it just scrolls just above where I want it to! I can't figure out how to offset the 
