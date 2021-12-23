@@ -8,3 +8,7 @@
 ## In case I open this in R at some point. 
 .Rhistory
 classwebsite.RProj
+
+## I think ignoring these once they're on github should work
+.gitignore
+robots.txt

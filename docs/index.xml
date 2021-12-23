@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Reporting on Empirical reporting</title>
-    <link>/</link>
+    <link>https://cronkitedata.github.io/dataj/</link>
     <description>Recent content in Data Reporting on Empirical reporting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introductions</title>
-      <link>/weeks/week01-1/</link>
+      <link>https://cronkitedata.github.io/dataj/weeks/week01-1/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/weeks/week01-1/</guid>
+      <guid>https://cronkitedata.github.io/dataj/weeks/week01-1/</guid>
       <description>A full list of the agenda, upcoming due dates and preparation required for the first day of class</description>
     </item>
     
     <item>
       <title>The journalistic method</title>
-      <link>/weeks/week01-2/</link>
+      <link>https://cronkitedata.github.io/dataj/weeks/week01-2/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/weeks/week01-2/</guid>
+      <guid>https://cronkitedata.github.io/dataj/weeks/week01-2/</guid>
       <description>Here’s a bit of writing advice I often share with students: engineers don’t look at a bridge the same way pedestrians or drivers do. The former understand the bridge as a language of angles and load bearing structures. Writers should read books in that same way.
 &amp;mdash; jelani cobb (@jelani9) December 20, 2021  Agenda  Discussion: Empirical reporting and the journalistic method Lab: Reading the data-driven story  Upcoming deadlines Friday, 1/13</description>
     </item>
     
     <item>
       <title>Empirical Reporting</title>
-      <link>/syllabus/</link>
+      <link>https://cronkitedata.github.io/dataj/syllabus/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/syllabus/</guid>
+      <guid>https://cronkitedata.github.io/dataj/syllabus/</guid>
       <description>TLDR: Sorry, you just have to read it.</description>
     </item>
     
     <item>
       <title>Defining data</title>
-      <link>/weeks/week02-1/</link>
+      <link>https://cronkitedata.github.io/dataj/weeks/week02-1/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/weeks/week02-1/</guid>
+      <guid>https://cronkitedata.github.io/dataj/weeks/week02-1/</guid>
       <description>data /ˈdeɪ.tə/ :
  information in an electronic form that can be stored and used by a computer, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary   (I reversed the order of these!)
 Agenda  Reviewing what is &amp;ldquo;data&amp;rdquo;? Lab - The life of a dataset warmup Replication in data journalism and the data diary  Upcoming deadlines Friday 1/21</description>
@@ -48,28 +48,28 @@ Agenda  Reviewing what is &amp;ldquo;data&amp;rdquo;? Lab - The life of a datase
     
     <item>
       <title>Preliminary weekly schedule</title>
-      <link>/schedule/</link>
+      <link>https://cronkitedata.github.io/dataj/schedule/</link>
       <pubDate>Mon, 20 Dec 2021 13:21:30 -0500</pubDate>
       
-      <guid>/schedule/</guid>
+      <guid>https://cronkitedata.github.io/dataj/schedule/</guid>
       <description>TLDR: Sorry, you just have to read it.</description>
     </item>
     
     <item>
       <title>Spreadsheet refresher</title>
-      <link>/weeks/week03-1/</link>
+      <link>https://cronkitedata.github.io/dataj/weeks/week03-1/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/weeks/week03-1/</guid>
+      <guid>https://cronkitedata.github.io/dataj/weeks/week03-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title> </title>
-      <link>/about/</link>
+      <link>https://cronkitedata.github.io/dataj/about/</link>
       <pubDate>Mon, 20 Dec 2021 13:19:44 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://cronkitedata.github.io/dataj/about/</guid>
       <description>Sarah Cohen  This is the poorly named website for my data journalism course at Arizona State University’s Cronkite School. It focuses on documents and data reporting in investigations.
 I began teaching in Arizona in 2018 as the Knight Chair in Journalism. This is my second tour as a Knight chair – the first was at Duke University’s Sanford School of Public Policy, from 2009 to 2012.
 I’ve been a reporter and editor for most of my career, starting out as a beat reporter in Florida covering health care, workplace issues and the local economy.</description>
@@ -77,10 +77,10 @@ I’ve been a reporter and editor for most of my career, starting out as a beat 
     
     <item>
       <title>Ready, set...</title>
-      <link>/updates/welcome/</link>
+      <link>https://cronkitedata.github.io/dataj/updates/welcome/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/updates/welcome/</guid>
+      <guid>https://cronkitedata.github.io/dataj/updates/welcome/</guid>
       <description>This site will give you most of what you need, but whenever there is a conflict between Canvas and this site, Canvas is the right one. Please alert me to conflicts, broken links or other mechanical issues as soon as possible via Slack. (Posting in #dj-sos Slack channel will ensure that everyone gets the answer, but you don’t have to. )
 I&amp;rsquo;ll be posting here from time to time with important announcements, but you&amp;rsquo;ll hear everything first in Slack.</description>
     </item>
