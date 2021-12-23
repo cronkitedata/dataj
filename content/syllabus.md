@@ -22,7 +22,7 @@ Office hours: Just Slack me. I’m usually around any time between Monday and We
 
 
 <figure class="figure float-end sm-3 ps-4 " width="30%">
-<img src="/img/wormhoudt.png" width="80%" class="figure-img img-fluid" ></img>
+<img src="/dataj/img/wormhoudt.png" width="80%" class="figure-img img-fluid" ></img>
 <figcaption class="figure-caption">By Chris Wormhoudt via Unsplash</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ The class uses a point system that initially adds up to 1,000 points for the sem
 
 Doing well in this class means working slowly, methodically and consistently throughout the semester.
 
-{{< figure src="/img/mwtweet-edited.png" alt="Matt Waite quote: Not due today, not doing it today">}}
+{{< figure src="/dataj/img/mwtweet-edited.png" alt="Matt Waite quote: Not due today, not doing it today">}}
 
 
 Most weeks, you’ll have group labs to turn in along with some kind of individual homework assignment. These will not be graded individually. They’ll be marked "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality – assignments free of major errors that addressed the asignment’s core instructions. I’ll promptly provide individual feedback on the assignment in Canvas.
@@ -154,7 +154,7 @@ Having trouble?
 {.fs-2}
 
 <figure class="figure float-end sm-6 ps-4 " width="60%">
-<img src="/img/moller.png" width="100%" class="figure-img img-fluid" ></img>
+<img src="/dataj/img/moller.png" width="100%" class="figure-img img-fluid" ></img>
 <figcaption class="figure-caption">By Fabian Moller via Unsplash</figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ All work submitted under your name must be your work and your work alone. When y
 Simple. There is none. Why? This course is made up of a lot of little pieces. They can’t be replaced by attending a lecture.
 
 <figure class="figure"  >
-<img src="/img/brodeur.png" height="90%" class="figure-img img-fluid" ></img>
+<img src="/dataj/img/brodeur.png" height="90%" class="figure-img img-fluid" ></img>
 <figcaption class="figure-caption">via Unsplash</figcaption>
 </figure>
 

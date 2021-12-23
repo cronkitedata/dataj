@@ -11,7 +11,7 @@ weight: 99
 --- 
 
 <figure class="figure float-end sm-3 ps-4" width="30%">
-<img src="/img/scpicture2.jpg" width="20%" class="figure-img img-fluid" ></img>
+<img src="/dataj/img/scpicture2.jpg" width="20%" class="figure-img img-fluid" ></img>
 <figcaption class="figure-caption">Sarah Cohen</figcaption>
 </figure>
 
