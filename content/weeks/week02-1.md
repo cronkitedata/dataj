@@ -6,7 +6,7 @@ layout: single
 toc: true
 show_date: true
 weight: 3
-week_order: "02-1"
+description: Data isn't just numbers. We'll learn how to think broadly about data for story. 
 --- 
 
 

@@ -6,7 +6,7 @@ layout: single
 toc: true
 show_date: true
 weight: 2
-week_order: "01-2"
+description: Consuming news as a reporter 
 --- 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Introductions"
 date: "2022-01-10"
-summary: "A full list of the agenda, upcoming due dates and preparation required for the first day of class"
+description: "Agenda and preparation for the first day!"
 draft: true
 layout: single
 toc: true

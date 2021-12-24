@@ -17,3 +17,6 @@ to the styles if you do it locally. If it's not, try again going local.
 
 Make sure to use the sub-root for anything with links that I make un-programmatically. 
 Also that any images, etc. are linked off of /dataj/....
+
+
+Found the addDate function and found out how to make a simple comparison for range. It's very confusing language! 

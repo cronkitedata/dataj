@@ -28,7 +28,7 @@
   <div class="container sidebar-links">
    <ul class="list-unstyled">
   {{ range  where .Site.RegularPages "Section" "weeks" }}
-        <li> <a href="{{ .Permalink }}"> {{ .Date.Format "1/2" }} - {{ .Title }}</a>  </li>
+        <li> <a href="{{ .Permalink }}"> {{ .Date.Format "Mon 1/2" }} - {{ .Title }}</a>  </li>
   {{ end }}
    </ul>
    </div> 
