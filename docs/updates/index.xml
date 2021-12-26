@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Empirical reporting</title>
+    <link>https://cronkitedata.github.io/dataj/updates/</link>
+    <description>Recent content in Updates on Empirical reporting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ready, set...</title>
+      <link>https://cronkitedata.github.io/dataj/updates/welcome/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/updates/welcome/</guid>
+      <description>This site will give you most of what you need, but whenever there is a conflict between Canvas and this site, Canvas is the right one. Please alert me to conflicts, broken links or other mechanical issues as soon as possible via Slack. (Posting in #dj-sos Slack channel will ensure that everyone gets the answer, but you don’t have to. )
+I&amp;rsquo;ll be posting here from time to time with important announcements, but you&amp;rsquo;ll hear everything first in Slack.</description>
+    </item>
+    
+  </channel>
+</rss>
