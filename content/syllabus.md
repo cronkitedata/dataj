@@ -50,7 +50,7 @@ A regular mouse is strongly recommended. A basic wired mouse that connects to yo
 
 ### Books and software
 
-You do not need to buy any books or software. This site contains or links to all of the reading, viewing, and texts you need.
+You do not need to buy any books or software. This site contains or links to all of the reading, viewing, and texts you need. We are using We are a [bespoke online textbook](https://cronkitedata.github.io/djtextbook/) I made that puts together and updates a lot of handouts and tutorials I've had scattered around various Canvas sites, Google Drive docs and Github repos. It's a work in progress that will be updated throughout the semester as you have questions and ideas. 
 
 The following free software will be used extensively in this class.
 
@@ -58,6 +58,7 @@ The following free software will be used extensively in this class.
 * A free copy of Microsoft Excel available in https://myapps.asu.edu . When you go to Office 365 there, there will be a link on the upper right to download and install Office. The online version won’t work. We’re only going to use Excel for about two weeks, so you might just want to use the ones in labs if you haven’t already downloaded it.
 * R and RStudio, both free community versions. We’ve tried using the cloud version in the past only to continually run into problems during your project. I don’t recommend it.
 * We might also use OpenRefine (Links to an external site.) for one or two classes. It’s an easy thing to install, but we’ve had mixed success getting it to work in the labs because of permissions. Don’t worry about this until it’s time.
+
 
 There will be a lot of recommended books and readings in each week’s assignments.
 
@@ -67,13 +68,13 @@ There will be a lot of recommended books and readings in each week’s assignmen
 
 The class uses a point system that initially adds up to 1,000 points for the semester. In the past, we’ve found that we sometimes have to drop an assignment, making the total add up to something less than 1,000. I hope we can keep on track this semester, but be prepared for it to change.
 
-* Daily work: 300 points (2/11, 3/25, 4/27)
-* Spreadsheet assessment: 100 points (1/30)
-* Data replication project: 200 points (2/20, 3/4, 3/20)
-* Final story memo : 250 points (3/27, 4/11, 4/17, 4/24)
-* Mini-projects: 150 points (1/21, 4/9, 5/2)
+* Daily work: 300 points  
+* Spreadsheet assessment: 100 points  
+* Data replication project: 200 points  
+* Final story memo : 250 points  
+* Mini-projects: 150 points 
 
-**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Details are in the Canvas module with your Cronkite Integrity Pledge. This is required within the first month of the class.
+**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Details are in the Canvas module with your Cronkite Integrity Pledge. This is required within the first month of the class. Materials are provided to you to remind you of the most essential set of math skills. 
 {.alert .alert-info .opacity-75}
 
 
@@ -83,7 +84,9 @@ The class uses a point system that initially adds up to 1,000 points for the sem
 
 Doing well in this class means working slowly, methodically and consistently throughout the semester.
 
-{{< figure src="/dataj/img/mwtweet-edited.png" alt="Matt Waite quote: Not due today, not doing it today">}}
+<figure class="figure  sm-10 ps-4 " width="60%" alt="Matt Waite quote: Not due today, not doing it today">
+<img src="/dataj/img/mwtweet-edited.png" width="100%" class="figure-img img-fluid" ></img>
+</figure>
 
 
 Most weeks, you’ll have group labs to turn in along with some kind of individual homework assignment. These will not be graded individually. They’ll be marked "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality – assignments free of major errors that addressed the asignment’s core instructions. I’ll promptly provide individual feedback on the assignment in Canvas.
@@ -186,6 +189,10 @@ Simple. There is none. Why? This course is made up of a lot of little pieces. Th
 **Q: I don’t have any experience. What do I need to succeed?**
 
 For undergraduate and 3+1 graduate students, I expect that you have had exposure to Freedom of Information concepts; the one-credit introduction to programming course and the numeracy exam you had to pass in JMC 201. Beyond that, I expect a minimal familiarity with spreadsheets in general, and Excel in particular. 
+
+**Q: This looks like a lot of work. How long do I have to spend on it every week?**
+
+I expect that this course will follow the typical ASU time commitment -- approximately 9 total hours per week. That suggests that, on average, you should expect to spend about 5 or 6 hours per week outside of class on preparation, homework and projects. The time commitment is a little front-loaded as we race to get you the skills you need to apply them later in the semester. But please let me know if you are spending considerably more time on it -- that's not the intention. 
 
 **Q: What is the Slack Channel**
 

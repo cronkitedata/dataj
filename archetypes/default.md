@@ -1,8 +1,6 @@
 ---
 title: " "
-date:   {{ .Date }}
-#classdate: "2022-01-11"
-#publishDate: 
+date:   {{ now.Format "2006-01-02" }}
 draft: true
 layout: single
 toc: true

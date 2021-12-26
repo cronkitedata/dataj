@@ -12,13 +12,15 @@ description: Data isn't just numbers. We'll learn how to think broadly about dat
 
 <blockquote class="blockquote-big">
 <p><strong>data</strong> <code>/ˈdeɪ.tə/</code> :</p>
-<p> information in an electronic form that can be stored and used by a computer, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making </p>
+<p> information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making </p>
  <span> <a href="https://dictionary.cambridge.org/dictionary/english/data" class="text-decoration-none link-secondary">Cambridge Dictionary </a></span>
 </blockquote>
 
-(I reversed the order of these!)
+\* in reverse order
 
 ## Agenda
+
+We have two days' worth of work to do in only one class this week because of the MLK holiday. I suggest getting started on it early. If possible, look ahead a week and get started on that as well. If you don't, this week will sneak up on you really quickly. 
 
 * Reviewing what is "data"? 
 * Lab - The life of a dataset warmup 
@@ -26,16 +28,33 @@ description: Data isn't just numbers. We'll learn how to think broadly about dat
 
 ## Upcoming deadlines
 
+(All in Canvas)
+
 Friday 1/21 
 {.text-dark}
 
 * The life of a dataset 
 * Confirm your Excel installation 
 
-Friday 1/31
+Sunday, 1/23
 {.text-dark}
 
-* Last date to pass the numeracy quiz
+* Refresher from boot camp . I suggest you do some of the preparation for next week before  you tackle it if you're not sure of your spreadsheet skills. 
+
+Friday, 1/28 
+{.text-dark}
+
+* Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long) 
+
+Sunday 1/30
+{.text-dark}
+
+* Spreadsheet assessment . 
+
+Monday 1/31
+{.text-dark}
+
+* Last date to pass the numeracy quiz 
 
 ## Learning materials
 
@@ -43,19 +62,26 @@ It may seem that we're taking a long time to get to the hands-on portion of the 
 
 ### Understanding data and its integrity
 
-We are using a bespoke online textbook I made that puts together and updates a lot of handouts and tutorials I've had scattered around various Canvas sites, Google Drive docs and Github repos. This isn't like a regular textbook - don't get too worried when you see several chapters. Many are less than 1,000 words. 
+* [Chapter 2 from the course textbook](https://cronkitedata.github.io/djtextbook/start-math.html/): Newsroom math
 
-* Chapter ? from the course textbook: What is data? 
-{.text-danger} 
+* [Chapter 3 from the course textbook](https://cronkitedata.github.io/djtextbook/start-replication.html/): What is data? 
 
-* Chapter ? from the course textbook: Data integrity and replication in journalism
-{.text-danger}
+* [Chapter 4 from the course textbook](https://cronkitedata.github.io/djtextbook/start-replication.html/): Data integrity and replication in journalism
 
-["Basic steps in working with data"](https://datajournalism.com/read/handbook/one/understanding-data/basic-steps-in-working-with-data), the Data Journalism Handbook, Steve Doig, ASU Prof.
+* ["Basic steps in working with data"](https://datajournalism.com/read/handbook/one/understanding-data/basic-steps-in-working-with-data), the Data Journalism Handbook, Steve Doig, ASU Prof.
 
 ### Reading and viewing
 
-Just a few short items to illustrate the different kinds of data in the wild. 
+
+
+* Listen to Rob Gebeloff from the New York Times talk about the difference between granular CDC data on infections and the summary data that was used by most reporters throughout the pandemic in The Daily's "[Counting the Infected](https://www.nytimes.com/2020/07/08/podcasts/the-daily/coronavirus-data-united-states.html)"  The Daily, July 8, 2020. The story he references is "[The Fullest Look Yet at the Racial Inequity of Coronavirus](https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html)", Richard A. Oppel Jr., Robert Gebeloff, K.K. Rebecca Lai, Will Wright and Mitch Smith, The New York TImes, July 2020. (His part is the first 20 minutes or so. Pay particular attention to the part beginning at about 8:00 where he talks about the difference between aggregate and granular data, and what it takes to get the latter.)
+
+<div class="mx-auto my-3" style="width:220px">
+<iframe style="border: solid 1px #e4edf2;" src="https://www.stitcher.com/embed/129650/75063201" width="220" height="150" frameborder="0" scrolling="no">
+ </iframe>
+</div>
+
+And just few more *short* items to illustrate the different kinds of data in the wild. 
 
 * "[24 million Americans fear missing next rent payment as benefits dry up](https://www.usatoday.com/in-depth/graphics/2020/07/24/24-million-americans-say-they-have-little-no-chance-being-able-pay-next-months-rent-eviction/5497764002/.)", USA Today, by Kevin Crowe, Theresa Diffendal, and Carlie Procell. July 2020.   The Census Bureau does a lot more than the every-10-year canvas that we're most familiar with. During the pandemic, for example, it's created an experimental survey of households and small businesses specifically to monitor how it's affecting Americans. Unlike the "digital trace data" you read about, this one was made for us to analyze.
 
@@ -63,12 +89,10 @@ Just a few short items to illustrate the different kinds of data in the wild.
 
 * We measured pop music’s falsetto obsession, Vox, August 2019:  
 
-
+<div class="mx-auto my-3" style="width:560px;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qJT2h5uGAC0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-
-* *OPTIONAL via Canvas*:  A chapter from *[The Art of Access: Strategies for Acquiring Public Records](https://www.amazon.com/Art-Access-Strategies-Acquiring-Records/dp/1506380700/ref=pd_sbs_14_t_0/141-5195764-7429116)*, by David Cullier and Charles N. Davis, 2nd edition (2018). In the chapter you have on Canvas, the authors lay out a method for tracing the life and times of a data collection. It's useful advice any time you start working with a dataset. The book is expensive, but it's a good addition to any U.S.-based investigative journalist's bookshelf.
-{.mt-4}
 
 ## Going further
 
@@ -78,5 +102,4 @@ Here are some more examples of datasets coming from unexpected places: historica
 
 ["Locked up and left to die"](https://www.texasobserver.org/locked-up-and-left-to-die/) , by Michael Barajas and Sophie Novack, Texas Observer, Nov. 1, 2021, is based largely on an  ambitious attempts to catalog the contents of more than 400 investigative files on jail deaths.  (I worked with the authors as a mentor on this story through the Fund for Investigative Journalism.)
 
-
-And a shoutout to this [incredible piece by The Wall Street Journal](http://graphics.wsj.com/hamilton/), tracing the roots of the lyrical signatures in *Hamilton* . 
+And a shoutout to this [incredible piece by The Wall Street Journal](http://graphics.wsj.com/hamilton/), tracing the roots of the lyrical signatures in *Hamilton*  

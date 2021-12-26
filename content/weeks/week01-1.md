@@ -2,12 +2,11 @@
 title: "Introductions"
 date: "2022-01-10"
 description: "Agenda and preparation for the first day!"
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true
 weight: 1
-week_order: "01-1"
 --- 
 
 
@@ -36,7 +35,7 @@ Sunday 1/9
 
 * [Survey of skills](https://forms.gle/9eub49FvEbkdYaMY8) and interests via Google drive. You must sign into Google Docs using your ASU email to get access - I can't give access outside of the university for this one.
 
-* Sign into the [Slack account for the class](https://asu-2221-mco510-23712.slack.com/) and join ```#dj-announcements```, ```#dj-sos``` and ```#dj-classroom``` along with any other channels you might want to monitor. Go to Canvas and put your user name into the text box to let me know that you've completed this. (This is more important than it sounds. There are a lot of common names out there, and I've sent messages to the wrong people once or twice.)
+* Sign into the [Slack account for the class](https://asu-2221-mco510-23712.slack.com/). You should be automatically added to ```#dj-announcements```, ```#dj-sos``` and ```#dj-classroom``` , but make sure these are in your channel list.  Go to the Canvas assignment in the modules area under "January" and put your user name into the text box to let me know that you've completed this. (This is more important than it sounds. There are a lot of common names out there, and I've sent messages to the wrong people once or twice.)
 
 Friday, 1/13
 {.text-dark}
@@ -45,7 +44,7 @@ Friday, 1/13
 Tuesday, 1/17
 {.text-dark}
 
-* First try on numeracy assessment (see [syllabus](/syllabus/) )
+* First try on numeracy assessment. The Canvas quiz will be released once you do the Cronkite Integrity pledge. You'll get two tries, and it has to be done by the end of the month. 
 
 ## Preparation & learning materials
 
@@ -59,8 +58,6 @@ Tuesday, 1/17
   <iframe  src="https://www.youtube.com/embed/olF0RQS02HA" allowfullscreen>
   </iframe>
 </div>
-
-* [The Journalistic Method: Five principles for blending analysis and narrative](https://journalistsresource.org/tip-sheets/journalistic-method-tip-sheet-blending-analysis-narrative/), by Nicholas Lemann, former dean of the Columbia University Graduate School of Journalism.
 
 
 ### Setting up Slack

@@ -1,15 +1,16 @@
 // Your variable overrides can go here, e.g.:
 // $h1-font-size: 3rem; #5c5962;
 
+// Here's what they had in the link colors, and I didn't like it. So I changed it: 
+$alt-link-color:                         #326891 ;
+$link-color:                              $alt-link-color ;
+
+
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
 $web-font-path: "https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,700,900&display=swap";
 
-// I want to make boxes that are light colored and have black text, ad thought
-// I could do it with the alert alert-info etc but that seems too complicated for me. 
 
 $lt-blue: #add8e6  ;
-//$info : $lt-blue; 
-
 
 $font-family-sans-serif:      "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
@@ -19,7 +20,7 @@ $h2-font-size:                1.5rem ;
 $h3-font-size:                1.25rem ;
 $h4-font-size:                1.1rem;
 // I don't understand which of these it's using. Seems to be the plain one. 
-$body-color:                  #494e52;
+//$body-color:                  #494e52;
 
 
 @import "_variables";
@@ -28,6 +29,12 @@ $body-color:                  #494e52;
 
 // 
 // THESE ARE MY CHANGES BASED ON THE VARIABLES LOADED ABOVE.
+$hover-color: $cyan ;
+
+
+a:hover {
+  color: $hover-color;
+}
 
 h1 { 
   font-weight:900;
@@ -46,8 +53,12 @@ h4 {
   margin: 2rem 0 2rem 0;
 }
 
-.text-purple {
-  color: $purple
+blockquote {
+  border-left : 6px solid $success;
+  margin: .5rem 1rem;
+  padding: 1rem 1.2rem 1.2rem 3rem;
+  font-style: italic;
+  color: $gray-700;
 }
 
 .blockquote-big {
@@ -99,15 +110,6 @@ h4 {
   margin-top: 2rem;
 }
 
-#TableOfContents a, .sidebar-links a {
-  text-decoration: none;
-  color: $primary;
-}
-
-#TableOfContents a:hover, .sidebar-links a:hover {
-  color: $success;
-}
-
 #TableOfContents  ul  li, ol {
   list-style: none;
   font-weight: bold;
@@ -117,10 +119,6 @@ h4 {
    font-weight: lighter;
  }
  
- .sidebar-links a:active {
-   color : $yellow;
-   font-weight: bolder;
- }
 
 //this isn't working. I'm not going to worry about it. It's generally 
 // working ok - it just scrolls just above where I want it to! I can't figure out how to offset the 
