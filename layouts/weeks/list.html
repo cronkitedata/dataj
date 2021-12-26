@@ -6,7 +6,7 @@
 <div class="container col-sm-9">
   <h2 class="my-3"> Current & Upcoming </h2>
   <div class="row">
-    {{ range first 5 (where .Pages.ByDate "Date"  "ge" $last_week).ByDate }}
+    {{ range first 8 (where .Pages.ByDate "Date"  "ge" $last_week).ByDate }}
       <p><span class="fw-light text-muted fs-6">{{ .Date.Format "Monday January 2"}} </span> <br>
         <a class="fs-4 fw-bold" href="{{.Permalink}}" >{{ .Title }} </a> : 
       {{.Description}} </p>

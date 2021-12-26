@@ -65,9 +65,9 @@ It may seem that we're taking a long time to get to the hands-on portion of the 
 
 ### Understanding data and its integrity
 
-* [Chapter 2 from the course textbook](https://cronkitedata.github.io/djtextbook/start-math.html/): Newsroom math
+* [Chapter 2 from the course textbook](https://cronkitedata.github.io/djtextbook/start-math.html): Newsroom math
 
-* [Chapter 3 from the course textbook](https://cronkitedata.github.io/djtextbook/start-data-def.html/): What is data?  Please watch the embedded video (but feel free to up the speed. He talks pretty slowly.)
+* [Chapter 3 from the course textbook](https://cronkitedata.github.io/djtextbook/start-data-def.html): What is data?  Please watch the embedded video (but feel free to up the speed. He talks pretty slowly.)
 
 * [Chapter 4 from the course textbook](https://cronkitedata.github.io/djtextbook/start-replication.html/): Data integrity and replication in journalism
 
@@ -84,7 +84,10 @@ It may seem that we're taking a long time to get to the hands-on portion of the 
 
 And just few more *short* items to illustrate the different kinds of data in the wild. 
 
-* "[24 million Americans fear missing next rent payment as benefits dry up](https://www.usatoday.com/in-depth/graphics/2020/07/24/24-million-americans-say-they-have-little-no-chance-being-able-pay-next-months-rent-eviction/5497764002/.)", USA Today, by Kevin Crowe, Theresa Diffendal, and Carlie Procell. July 2020.   The Census Bureau does a lot more than the every-10-year canvas that we're most familiar with. During the pandemic, for example, it's created an experimental survey of households and small businesses specifically to monitor how it's affecting Americans. Unlike the "digital trace data" you read about, this one was made for us to analyze.
+* "[24 million Americans fear missing next rent payment as benefits dry up](https://www.usatoday.com/in-depth/graphics/2020/07/24/24-million-americans-say-they-have-little-no-chance-being-able-pay-next-months-rent-eviction/5497764002/.)", USA Today, by Kevin Crowe, Theresa Diffendal, and Carlie Procell. July 2020.   The Census Bureau does a lot more than the every-10-year canvas that we're most familiar with. During the pandemic, for example, it's created an experimental survey of households and small businesses specifically to monitor how it's affecting Americans. Unlike the "digital trace data" you read about, this one was made for us to analyze. 
+
+USA Today has a really aggressive paywall.  I find I can get into it if I'm signed into my subscription for the Arizona Republic. I think you might be able to do that by signing into AZ Central through the library, then navigating to USA Today. 
+{.alert .alert-info}
 
 * ["AP Finds Most Arrested in protests aren't leftist radicals"](https://apnews.com/article/virus-outbreak-race-and-ethnicity-suburbs-health-racial-injustice-7edf9027af1878283f3818d96c54f748) and "[A description of their analysis](http://leads.ap.org/best-of-the-week/analyzing-protest-arrest-records) , Oct. 30, 2020. A great example of developing a story from court records -- creating that "electronic form" of information that can then be analyzed in many different ways. Try to imagine what details the reporters chose to track and which ones they decided to ignore.  Compiling data by examining news stories and court records  are two very common ways that news organizations create data for analysis. They  have flaws but  they're often the best available source. 
 

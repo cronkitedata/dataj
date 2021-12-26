@@ -43,27 +43,21 @@ Monday 1/31
 
 ### Tutorials
 
-#### From the textbook
-
 We went through all of this in the session in boot camp but it went by quickly and you never practiced. For some people, these will take some effort. For others, they're just review. Later in the semester I expect we'll all be closer to the same experience level, so bear with me for this week. 
 
-* [An Excel Refresher](https://cronkitedata.github.io/djtextbook/xl-refresher.html) . 
+*  [An Excel Refresher](https://cronkitedata.github.io/djtextbook/xl-refresher.html) . 
 
-* [Excel formulas]((https://cronkitedata.github.io/djtextbook/xl-formulas.html))
+*  [Excel filter and sort](https://cronkitedata.github.io/djtextbook/xl-filter-sort.html) 
 
-* [Excel filter and sort](https://cronkitedata.github.io/djtextbook/xl-filter-sort.html)
+*  [Excel formulas]((https://cronkitedata.github.io/djtextbook/xl-formulas.html))
 
 * If you don't remember how to work with fractions, percents, etc., review the [Appendix A](https://cronkitedata.github.io/djtextbook/appendix-math.html) to the course textbook
 
 Once you've finished this, you'll be in good shape to do the homework due before class on Monday. 
 
-* This isn't due until Wednesday, but if you're on a roll, go ahead and do the next chapter in the textbook, "Grouping with pivot tables"
-
-
 ### Reading 
 
 * This story will be the basis of our lab on Monday: [Georgia’s small towns continue to shrink, new census estimates show](https://www.ajc.com/news/state--regional/georgia-small-towns-continue-shrink-new-census-estimates-show/UtBP7y33fkDXUZqABgq2BM/), Jennifer Peeples, Atlanta Journal-Constitution,  . We'll take the Census population release and try to replicate the lede and a few sentences in the piece.  She doesn't make wildly clear that she was looking at the change between 2017 and 2018 until the end of the story. It's  a little number-heavy as a written piece so we won't do the whole thing - just a few of the examples and the sweeping arc of it.  
-
 
 * “ [Take an Interviewing Approach to Find Stories in Data](http://mediashift.org/2014/07/take-an-interviewing-approach-to-find-stories-in-data/) ”, by Derek Willis, Mediashift, July 2014.
 
@@ -82,7 +76,3 @@ Here are the sentences from the story I picked out to replicate:
 Data source: Georgia [Governor's Office of Budget and Planning](https://opb.georgia.gov/census-data/population-estimates) (use City and Town estimates, 2018). I [saved a copy of the spreadsheet here](https://cronkitedata.s3.amazonaws.com/xlfiles/ga-city-town-2018.xlsx.xlsx) in case the website changes
 
 I actually don't know if this is the data that was used in the story, or if it's been revised since then. It may not come out exactly the same when we replciate the steps, and it may not be anything that the reporter did wrong. This is often the case when you try to re-compute a story's data after the fact. 
-
-## Going further
-
-“Challenges of Data Journalism” section from Diving into Data Journalism by Samantha Sunne, American Press Institute, 2016 (You only need to read that section. The chapters aren’t well marked.)
