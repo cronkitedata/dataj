@@ -18,6 +18,9 @@ description: Data isn't just numbers. We'll learn how to think broadly about dat
 
 \* in reverse order
 
+
+Some of this may feel abstract to you in the beginning but it will become more important as you start tackling datasets. 
+
 ## Agenda
 
 We have two days' worth of work to do in only one class this week because of the MLK holiday. I suggest getting started on it early. If possible, look ahead a week and get started on that as well. If you don't, this week will sneak up on you really quickly. 
@@ -39,7 +42,7 @@ Friday 1/21
 Sunday, 1/23
 {.text-dark}
 
-* Refresher from boot camp . I suggest you do some of the preparation for next week before  you tackle it if you're not sure of your spreadsheet skills. 
+* Refresher from boot camp . I suggest you do [some of the preparation for next week](/dataj/weeks/week03-1/) before  you tackle it if you're not sure of your spreadsheet skills. 
 
 Friday, 1/28 
 {.text-dark}
@@ -64,15 +67,13 @@ It may seem that we're taking a long time to get to the hands-on portion of the 
 
 * [Chapter 2 from the course textbook](https://cronkitedata.github.io/djtextbook/start-math.html/): Newsroom math
 
-* [Chapter 3 from the course textbook](https://cronkitedata.github.io/djtextbook/start-replication.html/): What is data? 
+* [Chapter 3 from the course textbook](https://cronkitedata.github.io/djtextbook/start-data-def.html/): What is data?  Please watch the embedded video (but feel free to up the speed. He talks pretty slowly.)
 
 * [Chapter 4 from the course textbook](https://cronkitedata.github.io/djtextbook/start-replication.html/): Data integrity and replication in journalism
 
 * ["Basic steps in working with data"](https://datajournalism.com/read/handbook/one/understanding-data/basic-steps-in-working-with-data), the Data Journalism Handbook, Steve Doig, ASU Prof.
 
 ### Reading and viewing
-
-
 
 * Listen to Rob Gebeloff from the New York Times talk about the difference between granular CDC data on infections and the summary data that was used by most reporters throughout the pandemic in The Daily's "[Counting the Infected](https://www.nytimes.com/2020/07/08/podcasts/the-daily/coronavirus-data-united-states.html)"  The Daily, July 8, 2020. The story he references is "[The Fullest Look Yet at the Racial Inequity of Coronavirus](https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html)", Richard A. Oppel Jr., Robert Gebeloff, K.K. Rebecca Lai, Will Wright and Mitch Smith, The New York TImes, July 2020. (His part is the first 20 minutes or so. Pay particular attention to the part beginning at about 8:00 where he talks about the difference between aggregate and granular data, and what it takes to get the latter.)
 
