@@ -3,10 +3,13 @@
   {{if .Params.toc }}
 
   <div class="alert alert-secondary opacity-75 fw-bold">
-    On this page
+   On this page
   </div>
+  <div class="small">
   {{.TableOfContents}}
-
+  </div>
+   
+  
   {{end}}
 
   <div  class="alert alert-secondary opacity-75 fw-bold mb-3">
@@ -26,10 +29,10 @@
   <div  class="alert alert-secondary opacity-75 fw-bold mb-3">
     Weekly pages
   </div>
-  <div class="container sidebar-links">
+  <div class="container sidebar-link small">
    <ul class="list-unstyled">
   {{ range  where .Site.RegularPages "Section" "weeks" }}
-        <li> <a href="{{ .Permalink }}"> {{ .Date.Format "Jan 2" }} - {{ .Title }}</a>  </li>
+        <li> <a href="{{ .Permalink }} '"> {{ .Date.Format "Jan 2" }} - {{ .Title }}</a>  </li>
   {{ end }}
    </ul>
    </div> 

@@ -11,6 +11,6 @@ I'll be posting here from time to time with important announcements, but you'll 
 
 Here's what I expect of you when we gather on Jan. 10: 
 
-* You have done the [first day's preparation](/weeks/week01-1/)
+* You have done the [first day's preparation](/dataj/weeks/week01-1/)
 * You know how to do the most common math found in newsrooms: percents, percent changes, sums, averages and medians - or you know how to look it up. 
 

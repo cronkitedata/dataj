@@ -13,12 +13,12 @@ weight: 2
 --- 
 
 
-Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 / Room 361 Cronkite <br>
+Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 <br>
 M-W 10:00-11:50 Cronkite 404b (behind the elevators)<br>
 **Canvas**: https://asu.instructure.com/courses/92120/<br>
 **Slack Workspace**: https://asu-2217-jmc465-75289.slack.com/
 
-Office hours: Just Slack me. I’m usually around any time between Monday and Wednesday.
+Office hours: I can usually be available M-W except during class. Just Slack me to make sure, but stop by anytime in room 361.
 
 
 <figure class="figure float-end sm-3 ps-4 " width="30%">
@@ -44,29 +44,31 @@ By the end of this semester, you will be able to:
 
 ## Required materials and texts
 
-All of the hardware and software required for class is available in the labs. If you choose to use your own laptop, it must be running Mac OS High Sierra (version 10.13 or newer) or Windows 10 (or newer). All Mac and Windows machines made or updated since 2017 meet these requirements. Please contact Prof. Cohen if you’re not sure if your operating system needs updating. You’ll struggle if you’re trying to do this on a tablet, and I won’t help you if you insist on trying.
+All of the hardware and software required for class is available in the labs. If you choose to use your own laptop, it must be running Mac OS High Sierra (version 10.13 or newer) or Windows 10 (or newer). All Mac and Windows machines made or updated since 2017 meet these requirements. Please contact me if you’re not sure if your operating system needs updating. A tablet just won't work. 
 
 A regular mouse is strongly recommended. A basic wired mouse that connects to your USB port costs about $10 on Amazon.
 
 ### Books and software
 
-You do not need to buy any books or software. This site contains or links to all of the reading, viewing, and texts you need. We are using We are a [bespoke online textbook](https://cronkitedata.github.io/djtextbook/) I made that puts together and updates a lot of handouts and tutorials I've had scattered around various Canvas sites, Google Drive docs and Github repos. It's a work in progress that will be updated throughout the semester as you have questions and ideas. 
+You do not need to buy any books or software. This site contains or links to all of the reading, viewing, and texts you need. We are using a [bespoke online textbook](https://cronkitedata.github.io/djtextbook/) I made that puts together and updates a lot of handouts and tutorials I've had scattered around various Canvas sites, Google Drive docs and Github repos. It's a work in progress that will be updated throughout the semester.
 
 The following free software will be used extensively in this class.
 
 * The Slack app. When possible, use the app rather than the version in your browser. The browser lacks some of the functions that are in the app.
 * A free copy of Microsoft Excel available in https://myapps.asu.edu . When you go to Office 365 there, there will be a link on the upper right to download and install Office. The online version won’t work. We’re only going to use Excel for about two weeks, so you might just want to use the ones in labs if you haven’t already downloaded it.
 * R and RStudio, both free community versions. We’ve tried using the cloud version in the past only to continually run into problems during your project. I don’t recommend it.
-* We might also use OpenRefine (Links to an external site.) for one or two classes. It’s an easy thing to install, but we’ve had mixed success getting it to work in the labs because of permissions. Don’t worry about this until it’s time.
 
+We'll discuss any other software. We may use Github as a repository for some of the assignments, and we may use OpenRefine for data cleaning. Both are free. 
 
-There will be a lot of recommended books and readings in each week’s assignments.
+#### Recommended 
+
+[The Art of Access: Strategies for Acquiring Public Records](https://www.amazon.com/Art-Access-Strategies-Acquiring-Records/dp/1506380700/ref=pd_sbs_14_t_0/141-5195764-7429116), David Cullier and Charles N. Davis, 2nd edition (2018).   This is an invaluable guide for this most important part of your reporting tradecraft, but it's quite expensive. 
+
+[Investigative Reporters' Handbook: A Guide to Documents, Databases, and Techniques](https://store.macmillanlearning.com/us/product/Investigative-Reporters-Handbook/p/1319102840?_ga=2.33227454.1887889074.1629301752-1807901874.1626798218), 6th Edition , by Brant Houston and Mark Horvit, 2021. Available for rent or purchase from MacMillan Learning. I believe this will be a required text elsewhere in your program - if so, I'll make use of it. If not, it's a great guidebook. Be sure not to purchase an earlier edition - the 6th is a major rewrite.
 
 ## Grading
 
-
-
-The class uses a point system that initially adds up to 1,000 points for the semester. In the past, we’ve found that we sometimes have to drop an assignment, making the total add up to something less than 1,000. I hope we can keep on track this semester, but be prepared for it to change.
+The class uses a point system that initially adds up to 1,000 points for the semester.  
 
 * Daily work: 300 points  
 * Spreadsheet assessment: 100 points  
@@ -74,10 +76,8 @@ The class uses a point system that initially adds up to 1,000 points for the sem
 * Final story memo : 250 points  
 * Mini-projects: 150 points 
 
-**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Details are in the Canvas module with your Cronkite Integrity Pledge. This is required within the first month of the class. Materials are provided to you to remind you of the most essential set of math skills. 
+**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Materials are provided to you to remind you of these most essential math skills.
 {.alert .alert-info .opacity-75}
-
-
 
 ### Daily work (300)
 
@@ -88,18 +88,15 @@ Doing well in this class means working slowly, methodically and consistently thr
 <img src="/dataj/img/mwtweet-edited.png" width="100%" class="figure-img img-fluid" ></img>
 </figure>
 
-
 Most weeks, you’ll have group labs to turn in along with some kind of individual homework assignment. These will not be graded individually. They’ll be marked "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality – assignments free of major errors that addressed the asignment’s core instructions. I’ll promptly provide individual feedback on the assignment in Canvas.
 
-These will be graded as a group in three assessments. You’ll provide your own evaluation of aspects of this daily work, including effort, teamwork, attention to feedback, application of the work to journalism, news judgment, and mastery of the material. I will invite you to set up a one-on-one appointment with me to discuss it and agree on the grade.
+Instead, I'll grade these as a group three times during the semester. You’ll provide a self-assessment addressing aspects of this daily work including mastery of the material, application of it to your journalism, effort, teamwork, and attention to feedback. I will invite you to set up a one-on-one appointment with me to discuss it and agree on the grade.
 
 ### Spreadsheet assessment (100)
 
-This assessment tests your ability to apply basic spreadsheet skills to journalism. Some of the questions will ask you how you might go about accomplishing something; some will have questions about what you might find newsworthy in a simple dataset. The only skills that are expected of you are sorting, filtering, basic math formulas, and pivot tables. In the past, people have found the journalism parts of this assessment harder than the Excel parts.
+This assessment tests your ability to apply basic spreadsheet skills to journalism. Some of the questions will ask you how you might go about accomplishing something; some will have questions about what how you might find news in a simple dataset. The only skills that are expected of you are sorting, filtering, basic math formulas, and pivot tables. In the past, people have found the journalism parts of this assessment harder than the Excel parts.
 
-We will NOT have an R assessment, since your two projects are required to be done as R programs.
-
-### Replication project (200)
+### [Replication project](/dataj/replication/) (200)
 
 There are three separate assignments for this project, which challenges you to reproduce some sentences published in real stories using the same data used by the reporters. I’ll provide the stories and the data. Your first job is to identify paragraphs in the story that depended on the dataset that you’ve been given. The second gives you a chance to turn in a draft of your work so that I can help you. The last one is the final version.
 
@@ -115,7 +112,7 @@ This course follows ASU's grading policies:
 
 </div>
 
-### Story memo / pitch (250)
+### [Story memo](/dataj/memo/) / pitch (250)
 
 In this project, you’ll develop a story pitch using a combination of story backgrounding and data analysis. I’ll give you a choice of three datatsets that I know will work for this assignment. You may propose your own, but it must be easy to obtain, relatively clean, and complicated or large enough that there is something for you to analyze beyond a basic statistic. Generally, the dataset will be of individual records (accidents, inspections, deaths or events), not statistical compilations. You’ll understand this better as we move along.
 

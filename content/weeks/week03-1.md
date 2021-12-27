@@ -49,7 +49,7 @@ We went through all of this in the session in boot camp but it went by quickly a
 
 *  [Excel filter and sort](https://cronkitedata.github.io/djtextbook/xl-filter-sort.html) 
 
-*  [Excel formulas]((https://cronkitedata.github.io/djtextbook/xl-formulas.html))
+*  [Excel formulas](https://cronkitedata.github.io/djtextbook/xl-formulas.html)
 
 * If you don't remember how to work with fractions, percents, etc., review the [Appendix A](https://cronkitedata.github.io/djtextbook/appendix-math.html) to the course textbook
 

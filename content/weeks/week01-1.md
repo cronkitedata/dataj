@@ -50,7 +50,7 @@ Tuesday, 1/17
 
 ### Reading / viewing
 
-* [Syllabus](/syllabus/) and [schedule](/schedule). Be prepared to bring questions, comments or complaints to class on Monday.
+* [Syllabus](/dataj/syllabus/) and [schedule](/dataj/schedule). Be prepared to bring questions, comments or complaints to class on Monday.
  
 * Welcome from Ron Nixon, global investigations editor, Associated Press
 

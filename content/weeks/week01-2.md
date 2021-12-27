@@ -62,7 +62,7 @@ We're not going to review newsroom math in class. It's up to you to make sure th
 
 Be careful about picking out advice from random Google results on this topic - in searching for some resources for you, I found many that were just wrong. 
 
-* [Appendix A of the course textbook](https://cronkitedata.github.io/djtextbook/appendix-numbers.html) provides all of the key formulas that you need, shortened from chapter of "Numbers in the Newsroom", a book I wrote many years ago and is still sold by IRE. There is a free copy for ASU students in Canvas, but you don't need to use it.   
+* [Appendix A of the course textbook](https://cronkitedata.github.io/djtextbook/appendix-math.html) provides all of the key formulas that you need, shortened from chapter of "Numbers in the Newsroom", a book I wrote many years ago and is still sold by IRE. There is a free copy for ASU students in Canvas, but you don't need to use it.   
 
 * [Newsroom Math Cribsheet](https://businessjournalism.org/2017/09/newsroom-math-crib-sheet/), by Steve Doig, used in Cronkite's undergraduate program. 
 

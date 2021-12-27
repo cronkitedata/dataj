@@ -63,13 +63,13 @@ Monday 1/31
 
 It may seem that we're taking a long time to get to the hands-on portion of the class. Have no fear, it will start soon. But much of the work in data reporting actually happens away from the keyboard. There are some important first steps before you dig into any dataset. 
 
-### Understanding data and its integrity
+### From the textbook:
 
-* [Chapter 2 from the course textbook](https://cronkitedata.github.io/djtextbook/start-math.html): Newsroom math
+* [Newsroom math](https://cronkitedata.github.io/djtextbook/start-math.html)
 
-* [Chapter 3 from the course textbook](https://cronkitedata.github.io/djtextbook/start-data-def.html): What is data?  Please watch the embedded video (but feel free to up the speed. He talks pretty slowly.)
+* [Defining Data](https://cronkitedata.github.io/djtextbook/start-data-def.html):  Please watch the embedded video (but feel free to up the speed. He talks pretty slowly.)
 
-* [Chapter 4 from the course textbook](https://cronkitedata.github.io/djtextbook/start-replication.html/): Data integrity and replication in journalism
+* [Replication and the data diary](hhttps://cronkitedata.github.io/djtextbook/start-data-diary.html) 
 
 * ["Basic steps in working with data"](https://datajournalism.com/read/handbook/one/understanding-data/basic-steps-in-working-with-data), the Data Journalism Handbook, Steve Doig, ASU Prof.
 
