@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coursedocs on Empirical reporting</title>
+    <link>https://cronkitedata.github.io/dataj/coursedocs/</link>
+    <description>Recent content in Coursedocs on Empirical reporting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/coursedocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replication project details </title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/replication/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/replication/</guid>
+      <description>The aim of this project is to identify and replicate the major findings from a story or series. It will be completed in three parts, which altogether accounts for 15 percent of your final grade.
+How it works You&amp;rsquo;ll study the story and identify the key facts that derived from the primary dataset used. Then, over the course of a couple of weeks, you&amp;rsquo;ll try to replicate those findings using the R skills you will be learning in class.</description>
+    </item>
+    
+    <item>
+      <title>Story memo details</title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/memo/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/memo/</guid>
+      <description>This project makes up 15 percent of your final grade. It involves analyzing a dataset that contains records that would be of interest to a story or feature.
+Key deadlines:
+March 27: A three paragraph description of your proposed story memo April 11: Update #1 - your hypotheses and first stabs at the data April 17 : Update #2: Your nut graf and b-matter April 24: Final story memo and documentation .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Reporting on Empirical reporting</title>
+    <link>https://cronkitedata.github.io/dataj/</link>
+    <description>Recent content in Data Reporting on Empirical reporting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introductions</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week01-1/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week01-1/</guid>
+      <description>Maybe stories are just data with a soul
+ Brené Brown   I’ll use this structure to lay out weely agendas, upcoming deadlines, readings, tutorials and more. The full assignments are in Canvas, listed under modules by month.
+Unless I suggest otherwise, you’re expected to have done more than just skimmed through or reviewed the material. You should read, watch or listen closely and try to follow along on all of the tutorials.</description>
+    </item>
+    
+    <item>
+      <title>The journalistic method</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week01-2/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week01-2/</guid>
+      <description>Here’s a bit of writing advice I often share with students: engineers don’t look at a bridge the same way pedestrians or drivers do. The former understand the bridge as a language of angles and load bearing structures. Writers should read books in that same way.
+&amp;mdash; jelani cobb (@jelani9) December 20, 2021  Agenda  Discussion: Empirical reporting and the journalistic method Lab: Reading the data-driven story  Upcoming deadlines Friday, 1/13</description>
+    </item>
+    
+    <item>
+      <title>Empirical Reporting</title>
+      <link>https://cronkitedata.github.io/dataj/syllabus/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/syllabus/</guid>
+      <description>TLDR: Sorry, you just have to read it.</description>
+    </item>
+    
+    <item>
+      <title>Defining data</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week02-1/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week02-1/</guid>
+      <description>data /ˈdeɪ.tə/ :
+ information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary   * in reverse order
+Some of this may feel abstract to you in the beginning but it will become more important as you start tackling datasets.
+Agenda We have two days&#39; worth of work to do in only one class this week because of the MLK holiday.</description>
+    </item>
+    
+    <item>
+      <title>Preliminary schedule at a glance</title>
+      <link>https://cronkitedata.github.io/dataj/schedule/</link>
+      <pubDate>Mon, 20 Dec 2021 13:21:30 -0500</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/schedule/</guid>
+      <description>TLDR: Sorry, you just have to read it.</description>
+    </item>
+    
+    <item>
+      <title>Spreadsheet review I </title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week03-1/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week03-1/</guid>
+      <description>Agenda  Discuss Census homework Re-introducing the Notice of Claims data Demo: Pivot tables and grouping Lab: Reconstructing a Census story  Upcoming deadlines Sunday, 1/23
+ Refresher from boot camp  Friday, 1/28
+ Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long)  Sunday, 1/30
+ Spreadsheet assessment . If you&amp;rsquo;ve been keeping up, this won&amp;rsquo;t be hard.</description>
+    </item>
+    
+    <item>
+      <title>Spreadsheet review II</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week03-2/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week03-2/</guid>
+      <description>Agenda  Discuss reading Lab: Phoenix notice of claims data (Details here)  Upcoming deadlines Friday, 1/28
+ Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long. It&amp;rsquo;s good practice for this weekend&amp;rsquo;s test anyway)  Sunday, 1/30
+ Spreadsheet assessment . This won&amp;rsquo;t be hard if you&amp;rsquo;ve been keeping up. You don&amp;rsquo;t even turn in a spreadsheet!</description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>https://cronkitedata.github.io/dataj/about/</link>
+      <pubDate>Mon, 20 Dec 2021 13:19:44 -0500</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/about/</guid>
+      <description>Sarah Cohen  This is the poorly named website for my data journalism course at Arizona State University’s Cronkite School. It focuses on documents and data reporting in investigations.
+I began teaching in Arizona in 2018 as the Knight Chair in Journalism. This is my second tour as a Knight chair – the first was at Duke University’s Sanford School of Public Policy, from 2009 to 2012.
+I’ve been a reporter and editor for most of my career, starting out as a beat reporter in Florida covering health care, workplace issues and the local economy.</description>
+    </item>
+    
+    <item>
+      <title>Replication project details </title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/replication/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/replication/</guid>
+      <description>The aim of this project is to identify and replicate the major findings from a story or series. It will be completed in three parts, which altogether accounts for 15 percent of your final grade.
+How it works You&amp;rsquo;ll study the story and identify the key facts that derived from the primary dataset used. Then, over the course of a couple of weeks, you&amp;rsquo;ll try to replicate those findings using the R skills you will be learning in class.</description>
+    </item>
+    
+    <item>
+      <title>Story memo details</title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/memo/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/memo/</guid>
+      <description>This project makes up 15 percent of your final grade. It involves analyzing a dataset that contains records that would be of interest to a story or feature.
+Key deadlines:
+March 27: A three paragraph description of your proposed story memo April 11: Update #1 - your hypotheses and first stabs at the data April 17 : Update #2: Your nut graf and b-matter April 24: Final story memo and documentation .</description>
+    </item>
+    
+    <item>
+      <title>Ready, set...</title>
+      <link>https://cronkitedata.github.io/dataj/updates/welcome/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/updates/welcome/</guid>
+      <description>This site will give you most of what you need, but whenever there is a conflict between Canvas and this site, Canvas is the right one. Please alert me to conflicts, broken links or other mechanical issues as soon as possible via Slack. (Posting in #dj-sos Slack channel will ensure that everyone gets the answer, but you don’t have to. )
+I&amp;rsquo;ll be posting here from time to time with important announcements, but you&amp;rsquo;ll hear everything first in Slack.</description>
+    </item>
+    
+  </channel>
+</rss>
