@@ -62,6 +62,8 @@ We'll discuss any other software. We may use Github as a repository for some of 
 
 #### Recommended 
 
+Both of these are expensive and are not necessary for the course, but are great additions to your bookshelf when you are ready to invest. 
+
 [The Art of Access: Strategies for Acquiring Public Records](https://www.amazon.com/Art-Access-Strategies-Acquiring-Records/dp/1506380700/ref=pd_sbs_14_t_0/141-5195764-7429116), David Cullier and Charles N. Davis, 2nd edition (2018).   This is an invaluable guide for this most important part of your reporting tradecraft, but it's quite expensive. 
 
 [Investigative Reporters' Handbook: A Guide to Documents, Databases, and Techniques](https://store.macmillanlearning.com/us/product/Investigative-Reporters-Handbook/p/1319102840?_ga=2.33227454.1887889074.1629301752-1807901874.1626798218), 6th Edition , by Brant Houston and Mark Horvit, 2021. Available for rent or purchase from MacMillan Learning. I believe this will be a required text elsewhere in your program - if so, I'll make use of it. If not, it's a great guidebook. Be sure not to purchase an earlier edition - the 6th is a major rewrite.
@@ -76,7 +78,7 @@ The class uses a point system that initially adds up to 1,000 points for the sem
 * Final story memo : 250 points  
 * Mini-projects: 150 points 
 
-**Numeracy quiz**: You will must show that you can compute the most common numbers used in news such as fractions, percent changes and averages. Materials are provided to you to remind you of these most essential math skills.
+**Numeracy quiz**: There is a required numeracy quiz confirming that you know how to compute the most common numbers used in news such as fractions, percent changes and averages or know where to look it up. Materials are provided to you to remind you of these most essential math skills. These mainly include arithmetic problems you may not have thought about in a decade or more. There's no shame in having forgotten them. We just can't move forward without refreshing your memory.
 {.alert .alert-info .opacity-75}
 
 ### Daily work (300)
@@ -94,9 +96,9 @@ Instead, I'll grade these as a group three times during the semester. You’ll p
 
 ### Spreadsheet assessment (100)
 
-This assessment tests your ability to apply basic spreadsheet skills to journalism. Some of the questions will ask you how you might go about accomplishing something; some will have questions about what how you might find news in a simple dataset. The only skills that are expected of you are sorting, filtering, basic math formulas, and pivot tables. In the past, people have found the journalism parts of this assessment harder than the Excel parts.
+This assessment tests your ability to apply essential spreadsheet skills to journalism. Some of the questions will ask you how you might go about accomplishing something; some will have questions about what how you might find news in a simple dataset. The only skills that are expected of you are sorting, filtering, basic math formulas, and pivot tables. In the past, people have found the journalism parts of this assessment harder than the Excel parts.
 
-### [Replication project](/dataj/replication/) (200)
+### [Replication project](/dataj/coursedocs/replication/) (200)
 
 There are three separate assignments for this project, which challenges you to reproduce some sentences published in real stories using the same data used by the reporters. I’ll provide the stories and the data. Your first job is to identify paragraphs in the story that depended on the dataset that you’ve been given. The second gives you a chance to turn in a draft of your work so that I can help you. The last one is the final version.
 
@@ -112,7 +114,7 @@ This course follows ASU's grading policies:
 
 </div>
 
-### [Story memo](/dataj/memo/) / pitch (250)
+### [Story memo](/dataj/coursedocs/memo/) / pitch (250)
 
 In this project, you’ll develop a story pitch using a combination of story backgrounding and data analysis. I’ll give you a choice of three datatsets that I know will work for this assignment. You may propose your own, but it must be easy to obtain, relatively clean, and complicated or large enough that there is something for you to analyze beyond a basic statistic. Generally, the dataset will be of individual records (accidents, inspections, deaths or events), not statistical compilations. You’ll understand this better as we move along.
 
@@ -120,24 +122,30 @@ Althouth this is one-quarter of your grade, it’s split among four assignments 
 
 ### Smaller mini-projects (150)
 
-There are three graded assignments sprinkled througout the semester, each work 50 points. They include a close reading of a data journalism project; designing your own database for stories that don’t have data ready-made; and creating a creative explainer about anything you did during the course. These will be explained further as you move ahead.
+There are three graded assignments sprinkled througout the semester, each worth 50 points. They include a close reading of a data journalism project; designing your own database for stories that don’t have data ready-made; and making a creative explainer about anything you did during the course. These will be explained further as you move ahead.
 
 ## Course policies
 
- <blockquote class="blockquote">
+ <blockquote class="blockquote-big ">
     <p>Showing up is 80 percent of life.</p>
     <span> <a href="https://quoteinvestigator.com/2013/06/10/showing-up/" class="text-decoration-none link-secondary">Woody Allen </a></span>
   </blockquote> 
 
-This is an immersioin, in-person class and is not offered via Zoom or ASU Sync.  The minimal requirement is to arrive on time, prepared, and ready to work. Please refrain from eating, napping, using social media, shopping, or working on something else. Be polite to your classmates and any guests by paying attention and respecting their time.
+This is an immersion, in-person class and is not offered via Zoom or ASU Sync. 
+
+The minimal requirement is to arrive on time, prepared, and ready to work. Please refrain from eating, napping, using social media, shopping, or working on something else. I expect you to treat your colleagues with respect and be polite to any guests. 
+
+Disclosure: I get unusually distracted by eating and attending to something on you devices at inappropriate moments. You may not care to pay attention to the work at hand, but I may ask you to leave the classroom until you are willing to do so.
 
 ### Attendance and deadlines
 
-There are no excused absences  in this course, except for true medical or other emergencies or religious observances.  You might decide it’s more important to schedule a job interview, attend a family event, or  interview a source than to attend class or complete your work. You might decide to skip class in order to accommodate another class -- something your professors are not supposed to have you do. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines. 
+There are no excused absences in this course, except for true medical or other emergencies or religious observances. You might decide it’s more important to schedule a job interview, attend a family event, or interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines.
 
-As in all journalism work, you are expected to meet deadlines.  Assignments submitted even one minute past the deadline will not be accepted and will receive zero credit. 
+In rare instances, another professor may try to require you to miss a class. Please inform me right away if this happens - it generally shouldn't but there are some exceptions. 
 
-That said, **give yourself a break**. You may miss one class and get an extension on one routine (ungraded) assignment without penalty. Notify me on Slack when you plan to take it.  
+As in all journalism work, you are expected to meet deadlines. Routine assignments submitted past the deadline will not be accepted. Late graded assignments will be heavily penalized. 
+
+That said, **give yourself a break**. You may miss one class and get an extension on one routine (ungraded) assignment without penalty without question.  
 
 In the event of extreme circumstances, such as a natural disaster, a death in the family or severe illness, notify me right away. I am required to notify the Dean of Students when this happens, who will then coordinate the support services and accommodations needed across the university.
 
@@ -185,23 +193,23 @@ Simple. There is none. Why? This course is made up of a lot of little pieces. Th
 
 **Q: I don’t have any experience. What do I need to succeed?**
 
-For undergraduate and 3+1 graduate students, I expect that you have had exposure to Freedom of Information concepts; the one-credit introduction to programming course and the numeracy exam you had to pass in JMC 201. Beyond that, I expect a minimal familiarity with spreadsheets in general, and Excel in particular. 
+Everyone in this class has gone through the boot camp required of all masters students. We did a spreadsheet reboot during that class -- that day's work is a prerequisite here. You'll have time to review it before you need it. No other coding or data analysis background is expected.
 
 **Q: This looks like a lot of work. How long do I have to spend on it every week?**
 
 I expect that this course will follow the typical ASU time commitment -- approximately 9 total hours per week. That suggests that, on average, you should expect to spend about 5 or 6 hours per week outside of class on preparation, homework and projects. The time commitment is a little front-loaded as we race to get you the skills you need to apply them later in the semester. But please let me know if you are spending considerably more time on it -- that's not the intention. 
 
-**Q: What is the Slack Channel**
+**Q: What is Slack?**
 
-Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including Cronkite News and News 21. You should set up alerts for key channels to be sure you’ll get class announcements. There is an assignment for the first day with guidelines to set it up.
+Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including the Howard Center, Cronkite News and News 21. You should set up alerts for key channels to be sure you’ll get class announcements. There is an assignment for the first day with guidelines to set it up.
 
 **Q: How should I communicate with you?**
 
-Slack or in person is best. All assignments MUST be turned in via Canvas assignments. Do NOT email assignments. There are too many moving parts in this course, and I can’t guarantee I’ll keep track of anything submitted outside Canvas and Slack.
+Slack or in person is best. All assignments must be turned in via Canvas assignments unless I direct you elsewhere. Do NOT email assignments. There are too many moving parts in this course, and I can’t guarantee I’ll keep track of anything submitted outside Canvas and Slack.
 
 **Q: How will I know how I’m doing?**
 
-Pay attention to the feedback on  your routine homework and labs. I'll give you a sense of whether your work is excellent, good or acceptable. If it's not where you'd like it, let's talk about how to improve. 
+Pay attention to the feedback on  your routine homework and labs. I'll give you a sense of where you're excelling and where you might improve. I'm always happy to meet and discuss strategies that will help you get to the next level in your journalism or your data analysis skills.
 
 **Q: How do I ask good questions?**
 
@@ -215,5 +223,5 @@ In technical work, asking a good question is an art. Try to:
 
 Even if you know how to code, I presume you are at Cronkite because you want to apply all of your skills to a journalism career. You probably knew how to use a phone or take a picture before you came to j-school, but you may not have used them the way you do now. That said, talk with me if you’re concerned that you won’t be challenged enough. We’ll find ways to make the time productive and take you to the next level in data reporting.
 
-*Additional Cronkite policies, including the Academic Integrity Policy, are included on the Canvas page for this class. These policies apply to all students in all classes.*
+*Additional Cronkite policies, including the Diversity Principles, disability and religious accommodations, policies on sexual violence and harassment, and the Cronkite Academic Integrity Policy, are included on left-hand menu in the Canvas site for this and all Cronkite classes.  These policies apply to all students in all classes.*
 

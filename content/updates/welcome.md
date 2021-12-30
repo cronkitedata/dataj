@@ -4,13 +4,16 @@ date: "2021-12-15"
 author: "Sarah Cohen"
 --- 
 
-This site will give you most of what you need, but whenever there is a conflict between Canvas and this site, Canvas is the right one. Please alert me to conflicts, broken links or other mechanical issues as soon as possible via Slack. (Posting in #dj-sos Slack channel will ensure that everyone gets the answer, but you don’t have to. )
-
 
 I'll be posting here from time to time with important announcements, but you'll hear everything first in Slack. 
 
-Here's what I expect of you when we gather on Jan. 10: 
+This site will give you most of what you need, but whenever there is a conflict between Canvas and this site, Canvas is the right one. Please alert me to conflicts, broken links or other mechanical issues as soon as possible via Slack. (Posting in #dj-sos Slack channel will ensure that everyone gets the answer, but you don’t have to. )
 
-* You have done the [first day's preparation](/dataj/weeks/week01-1/)
-* You know how to do the most common math found in newsrooms: percents, percent changes, sums, averages and medians - or you know how to look it up. 
 
+You have a few small things to do before we start class on Jan 10:
+
+* [Reading / prep for the first day](/dataj/weeks/week01-1/)
+* Revew some of the most common math found in newsrooms if you're unsure of yourself: percents, percent changes, sums, averages and medians. You can use these materials to remind yourself: 
+
+  * Steve Doig's [cheat sheet](https://businessjournalism.org/2017/09/newsroom-math-crib-sheet/) (The short version but more than you need)
+  * The [math review appendix](https://cronkitedata.github.io/djtextbook/appendix-math.html) in our class "textbook" (The long version but only what you need)

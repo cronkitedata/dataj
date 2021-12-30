@@ -13,7 +13,7 @@ description: Data isn't just numbers. We'll learn how to think broadly about dat
 <blockquote class="blockquote-big">
 <p><strong>data</strong> <code>/ˈdeɪ.tə/</code> :</p>
 <p> information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making </p>
- <span> <a href="https://dictionary.cambridge.org/dictionary/english/data" class="text-decoration-none link-secondary">Cambridge Dictionary </a></span>
+ <span> <a href="https://dictionary.cambridge.org/dictionary/english/data" class="text-decoration-none link-secondary">Cambridge Dictionary -- almost*</a></span>
 </blockquote>
 
 \* in reverse order
@@ -36,28 +36,18 @@ We have two days' worth of work to do in only one class this week because of the
 Friday 1/21 
 {.text-dark}
 
-* The life of a dataset 
+* The life of a dataset (50 points)
 * Confirm your Excel installation 
 
 Sunday, 1/23
 {.text-dark}
 
-* Refresher from boot camp . I suggest you do [some of the preparation for next week](/dataj/weeks/week03-1/) before  you tackle it if you're not sure of your spreadsheet skills. 
+* Census homework (refresher from boot camp). A link to the recording of the boot camp session is on the Canvas assignment.  You might want to do [some of the preparation for next week](/dataj/weeks/week03-1/) before  you tackle it if you're not confident in your spreadsheet skills. 
 
 Friday, 1/28 
 {.text-dark}
 
-* Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long) 
-
-Sunday 1/30
-{.text-dark}
-
-* Spreadsheet assessment . 
-
-Monday 1/31
-{.text-dark}
-
-* Last date to pass the numeracy quiz 
+* Notice of Claims filter and pivot table (I hope to finish this during class but it might go a little long.) 
 
 ## Learning materials
 
@@ -69,13 +59,13 @@ It may seem that we're taking a long time to get to the hands-on portion of the 
 
 * [Defining Data](https://cronkitedata.github.io/djtextbook/start-data-def.html):  Please watch the embedded video (but feel free to up the speed. He talks pretty slowly.)
 
-* [Replication and the data diary](hhttps://cronkitedata.github.io/djtextbook/start-data-diary.html) 
+* [Replication and the data diary](https://cronkitedata.github.io/djtextbook/start-data-diary.html) 
 
 * ["Basic steps in working with data"](https://datajournalism.com/read/handbook/one/understanding-data/basic-steps-in-working-with-data), the Data Journalism Handbook, Steve Doig, ASU Prof.
 
 ### Reading and viewing
 
-* Listen to Rob Gebeloff from the New York Times talk about the difference between granular CDC data on infections and the summary data that was used by most reporters throughout the pandemic in The Daily's "[Counting the Infected](https://www.nytimes.com/2020/07/08/podcasts/the-daily/coronavirus-data-united-states.html)"  The Daily, July 8, 2020. The story he references is "[The Fullest Look Yet at the Racial Inequity of Coronavirus](https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html)", Richard A. Oppel Jr., Robert Gebeloff, K.K. Rebecca Lai, Will Wright and Mitch Smith, The New York TImes, July 2020. (His part is the first 20 minutes or so. Pay particular attention to the part beginning at about 8:00 where he talks about the difference between aggregate and granular data, and what it takes to get the latter.)
+* Listen to Rob Gebeloff from the New York Times talk about the difference between granular CDC data on infections and the summary data that was used by most reporters throughout the pandemic in The Daily's "[Counting the Infected](https://www.nytimes.com/2020/07/08/podcasts/the-daily/coronavirus-data-united-states.html)"  The Daily, July 8, 2020. (His part is the first 20 minutes or so. Pay particular attention to the part beginning at about 8:00 where he talks about the difference between aggregate and granular data, and what it takes to get the latter.)
 
 <div class="mx-auto my-3" style="width:220px">
 <iframe style="border: solid 1px #e4edf2;" src="https://www.stitcher.com/embed/129650/75063201" width="220" height="150" frameborder="0" scrolling="no">
@@ -86,10 +76,10 @@ And just few more *short* items to illustrate the different kinds of data in the
 
 * "[24 million Americans fear missing next rent payment as benefits dry up](https://www.usatoday.com/in-depth/graphics/2020/07/24/24-million-americans-say-they-have-little-no-chance-being-able-pay-next-months-rent-eviction/5497764002/.)", USA Today, by Kevin Crowe, Theresa Diffendal, and Carlie Procell. July 2020.   The Census Bureau does a lot more than the every-10-year canvas that we're most familiar with. During the pandemic, for example, it's created an experimental survey of households and small businesses specifically to monitor how it's affecting Americans. Unlike the "digital trace data" you read about, this one was made for us to analyze. 
 
-USA Today has a really aggressive paywall.  I find I can get into it if I'm signed into my subscription for the Arizona Republic. I think you might be able to do that by signing into AZ Central through the library, then navigating to USA Today. 
-{.alert .alert-info}
+  I'll never understand the USA Today firewall. This doesn't appear to be in any of the services ASU library subscribes to, so [here's a pdf of the page](https://cronkitedata.s3.amazonaws.com/docs/usatoday-crowe-rentpayments-covid.pdf) if you can't get to it.
 
-* ["AP Finds Most Arrested in protests aren't leftist radicals"](https://apnews.com/article/virus-outbreak-race-and-ethnicity-suburbs-health-racial-injustice-7edf9027af1878283f3818d96c54f748) and "[A description of their analysis](http://leads.ap.org/best-of-the-week/analyzing-protest-arrest-records) , Oct. 30, 2020. A great example of developing a story from court records -- creating that "electronic form" of information that can then be analyzed in many different ways. Try to imagine what details the reporters chose to track and which ones they decided to ignore.  Compiling data by examining news stories and court records  are two very common ways that news organizations create data for analysis. They  have flaws but  they're often the best available source. 
+
+* ["AP Finds Most Arrested in protests aren't leftist radicals"](https://apnews.com/article/virus-outbreak-race-and-ethnicity-suburbs-health-racial-injustice-7edf9027af1878283f3818d96c54f748), By Alanna Durkin Richer, Colleen Long and Michael Balsamo, October 2020. Also:  "[AP methodology](http://leads.ap.org/best-of-the-week/analyzing-protest-arrest-records) , Oct. 30, 2020. A great example of developing a story from court records -- creating that "electronic form" of information that can then be analyzed in many different ways. Try to imagine what details the reporters chose to track and which ones they decided to ignore.  Compiling data by examining news stories and court records  are two very common ways that news organizations create data for analysis. They  have flaws but  they're often the best available source. 
 
 * We measured pop music’s falsetto obsession, Vox, August 2019:  
 

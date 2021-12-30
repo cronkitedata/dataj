@@ -16,7 +16,7 @@ weight: 1
   </blockquote>
   
 
-I’ll use this structure to lay out weely agendas, upcoming deadlines, readings, tutorials and more.  The full assignments are in Canvas, listed under modules by month. 
+I’ll use this structure to lay out weely agendas, upcoming deadlines, readings, tutorials and more.  The full assignments are in Canvas in the modules by month.  
 
 Unless I suggest otherwise, you’re expected to have done more than just skimmed through or reviewed the material. You should read, watch or listen closely and try to follow along on all of the tutorials.
 
@@ -62,15 +62,19 @@ Tuesday, 1/17
 
 ### Setting up Slack
 
-We’re going to be using Slack for most of our communications during this class. It’s now the de facto communication tool in every newsroom (including the Howard Center, News 21 and Cronkite News) so you’ll have to get used to it at some point.
+We’re going to be using Slack for most of our communications during this class. It’s now the de facto communication tool in every newsroom (including the Howard Center, News 21 and Cronkite News) so you’ll have to get used to it at some point. 
+
+
+Slack is an official ASU application. Don't do anything in Slack that you wouldn't in your ASU email or on ASU Zoom.
+{.alert .alert-warning}
+
 
 <div>
 <iframe style="width: 550px; height: 355px;" title="slackintro.mp4" src="https://player.mediaamp.io/p/U8-EDC/9g3InRHjsuLs/embed/select/media/8xwMqOSYRl_f?form=html" width="550" height="355" sandbox="allow-scripts allow-forms allow-same-origin" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *"></iframe>
 <!-- again, this was in MediaAMP so I don't know how to get at it.-->
 </div>
 
-If you prefer, here’s an [ASU-specific training course for students](https://rise.articulatse.com/share/akWX1-IRl6dsbEPHlaHPXcFoe_AlAnXS#/) with the same information.
-
+OPTIONAL: Some [Slack tutorials](https://slack.com/help/articles/360059976673-Slack-video-tutorials) from the company
 
 ## Going further
 Sometimes, I’ll put some links on this page as a way to go beyond what was required. There aren’t any for today.
