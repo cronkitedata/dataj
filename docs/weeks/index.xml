@@ -6,7 +6,7 @@
     <description>Recent content in Weeks on Empirical reporting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/weeks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introductions</title>
       <link>https://cronkitedata.github.io/dataj/weeks/week01-1/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://cronkitedata.github.io/dataj/weeks/week01-1/</guid>
       <description>Maybe stories are just data with a soul
- Brené Brown   I’ll use this structure to lay out weely agendas, upcoming deadlines, readings, tutorials and more. The full assignments are in Canvas, listed under modules by month.
+ Brené Brown   I’ll use this structure to lay out weely agendas, upcoming deadlines, readings, tutorials and more. The full assignments are in Canvas in the modules by month.
 Unless I suggest otherwise, you’re expected to have done more than just skimmed through or reviewed the material. You should read, watch or listen closely and try to follow along on all of the tutorials.</description>
     </item>
     
@@ -35,8 +35,8 @@ Unless I suggest otherwise, you’re expected to have done more than just skimme
       
       <guid>https://cronkitedata.github.io/dataj/weeks/week02-1/</guid>
       <description>data /ˈdeɪ.tə/ :
- information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary   * in reverse order
-Some of this may feel abstract to you in the beginning but it will become more important as you start tackling datasets.
+ information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary -- almost*  * in reverse order
+Some of this may feel abstract to you in the beginning but it will become more concrete as you start tackling datasets.
 Agenda We have two days&#39; worth of work to do in only one class this week because of the MLK holiday.</description>
     </item>
     
@@ -47,9 +47,8 @@ Agenda We have two days&#39; worth of work to do in only one class this week bec
       
       <guid>https://cronkitedata.github.io/dataj/weeks/week03-1/</guid>
       <description>Agenda  Discuss Census homework Re-introducing the Notice of Claims data Demo: Pivot tables and grouping Lab: Reconstructing a Census story  Upcoming deadlines Sunday, 1/23
- Refresher from boot camp  Friday, 1/28
- Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long)  Sunday, 1/30
- Spreadsheet assessment . If you&amp;rsquo;ve been keeping up, this won&amp;rsquo;t be hard.</description>
+ Census assignment from boot camp  Friday, 1/28
+ From filters to pivot tables using Notice of Claims data (I hope to finish this in the lab, but it might go a little long. You have seen this data system before in our warmup life of a dataset lab.</description>
     </item>
     
     <item>
@@ -61,6 +60,17 @@ Agenda We have two days&#39; worth of work to do in only one class this week bec
       <description>Agenda  Discuss reading Lab: Phoenix notice of claims data (Details here)  Upcoming deadlines Friday, 1/28
  Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long. It&amp;rsquo;s good practice for this weekend&amp;rsquo;s test anyway)  Sunday, 1/30
  Spreadsheet assessment . This won&amp;rsquo;t be hard if you&amp;rsquo;ve been keeping up. You don&amp;rsquo;t even turn in a spreadsheet!</description>
+    </item>
+    
+    <item>
+      <title>Introduction to programming with R</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week04-1/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week04-1/</guid>
+      <description>For the next couple of weeks, it may seem that we&amp;rsquo;ve left the world of reporting and investigative journalism. Most of your work and reading is focused on a getting you started in a programming language without interruption. Usually, I&amp;rsquo;ll provide a demo of the next class&amp;rsquo;s material before I ask you to tackle the reading and tutorials on your own.
+I&amp;rsquo;ll try to keep it relevant.
+Agenda  Install party!</description>
     </item>
     
   </channel>
