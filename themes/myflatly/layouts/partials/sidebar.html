@@ -32,7 +32,7 @@
   <div class="container sidebar-link small">
    <ul class="list-unstyled">
   {{ range  where .Site.RegularPages "Section" "weeks" }}
-        <li> <a href="{{ .Permalink }}"> {{ .Date.Format "Jan 2" }} - {{ .Title }}</a>  </li>
+        <li> <a href="{{.Permalink}}"> {{ .Date.Format "Jan 2" }} - {{ .Title }}</a>  </li>
   {{ end }}
    </ul>
    </div> 
