@@ -118,7 +118,7 @@ This course follows ASU's grading policies:
 
 In this project, you’ll develop a story pitch using a combination of story backgrounding and data analysis. I’ll give you a choice of three datatsets that I know will work for this assignment. You may propose your own, but it must be easy to obtain, relatively clean, and complicated or large enough that there is something for you to analyze beyond a basic statistic. Generally, the dataset will be of individual records (accidents, inspections, deaths or events), not statistical compilations. You’ll understand this better as we move along.
 
-Althouth this is one-quarter of your grade, it’s split among four assignments over more than a month. You’ll build the memo a little at a time, so by the end, it won’t seem like a big lift. I promise.
+Although this is one-quarter of your grade, it’s split among four assignments over more than a month. You’ll build the memo a little at a time, so by the end, it won’t seem like a big lift. I promise.
 
 ### Smaller mini-projects (150)
 

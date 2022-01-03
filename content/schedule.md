@@ -18,7 +18,7 @@ I encourage you to do the "explainer" assignment (50 points) as soon as you come
 | Week No. | Dates | Topics | Deadlines  |
 | ------|------|-------------------|--------------- |
 | 01 | Jan 10-12 |  Intros ; The Journalistic Method; The data-driven story process |  Su 1/9: Pre-class survey ; <br> Fri: Cronkite academic integrity pledge |
-| 02 | Jan 19 |  Where data comes from; replication in data journalism | Su 1/16: Numeracy assessment 1st try; <br> Fri: Life of a dataset (50) |
+| 02 | Jan 19 |  Where data comes from; replication in data journalism |  1/18: Numeracy assessment 1st try; <br> Fri: Life of a dataset (50) |
 | 03 | Jan 24-26 | Spreadsheet review: Common computations; filtering, pivot tables |   
 | 04 | Jan 31-Feb 2 | Getting started with R and R Markdown |  Su 1/30: Spreadsheet assessment (100) <br> M 1/31: Last deadline for numeracy quiz|
 |  05 | Feb 7-9 | R week 1 Import and first verbs |  Fri: 1st self-assessment  (125) |

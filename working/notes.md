@@ -33,3 +33,18 @@ https://apnews.com/article/virus-outbreak-ky-state-wire-ia-state-wire-ap-top-new
 * “ [How Phoenix Explains a Rise in Police Violence: It’s the Civilians’ Fault](https://www.nytimes.com/2018/12/10/us/phoenix-police-shootings.html) ”, by Richard Oppel, The New York Times, Dec. 10, 2018
 * “ [Data on Use of Force by Police across U.S. Proves Almost Useless](https://www.nytimes.com/2015/08/12/us/data-on-use-of-force-by-police-across-us-proves-almost-useless.html) ”, by Matt Apuzzo and Sarah Cohen, The New York Times, Aug. 11, 2015
 * Look at how the [Orlando Police Department](https://data.cityoforlando.net/Orlando-Police/OPD-Officer-Involved-Shootings/6kz6-6c7n/data) releases its use of force data, and an [example of a use of force report](https://www1.cityoforlando.net/opendatadocs/saoletters/17-075014.pdf) linked from that database. Also, the [list of data elements](https://www.fbi.gov/services/cjis/ucr/use-of-force) (highlighted on the left of that page) that the federal government will begin collecting from local agencies this year, on a voluntary basis.
+
+
+Photo by <a href="https://unsplash.com/@sylwiabartyzel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sylwia Bartyzel</a> on <a href="https://unsplash.com/s/photos/relax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+
+  https://www.azcentral.com/story/news/arizona/investigations/2015/02/03/hundreds-arizona-schools-skirting-vaccination-rule/22805897/
+  https://docs.google.com/document/d/1Qp8xvsjjGN4tEOQ0M4GoD7XQ1dDvJh8TAgN3Vv-st0o/edit
+
+  Data file https://cronkitedata.s3.amazonaws.com/xlfiles/vax_data_five_years.xlsx
+
+  https://www.phoenixopendata.com/dataset/hiking-trail-usage/resource/aa4e2a08-c0ad-4fc4-bee9-44c2d85a58fa
+  Good for practicing with dates. 
+
+  

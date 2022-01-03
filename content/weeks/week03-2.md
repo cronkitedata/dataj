@@ -5,7 +5,7 @@ draft: true
 layout: single
 toc: true
 show_date: true
-weight: 6
+weight: 5
 description: Mastering the idea of grouping with pivot tables
 --- 
 
@@ -35,12 +35,9 @@ Monday 1/31
 
 ### Tutorials
 
-* Follow along with the video below  [with a copy of the dataset](https://cronkitedata.s3.amazonaws.com/xlfiles/skittles.xlsx)
+* Watch Mary Jo Webster's great introduction to pivot tables using New Yorker cartoons: 
 
-* Then follow along with the tutorial on [pivot tables from the textbook](https://cronkitedata.github.io/djtextbook/xl-pivot.html) . (Yes, we went a little out of order, but I wanted to make sure we spent a whole day on this.)
+<iframe src="https://www.youtube.com/embed/NjOfLP5s24w" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rv_t1kqSXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Then follow along with the tutorial on [pivot tables from the textbook](https://cronkitedata.github.io/djtextbook/xl-pivot.html) .  
 
-### Reading
-
-* [Philandro Castile's Last Night: Tacos and Laughs, then a Drive](https://www.nytimes.com/2016/07/13/us/philando-castile-minnesota-police-shooting.html) ,  the New York Times, Mitch Smith with contribution from Robert Gebeloff, July 12, 2016. Look for how the data on police stops is used in the middle of the story.   

@@ -66,7 +66,7 @@ h4 {
 
 blockquote {
   border-left: 2px solid $secondary;
-  padding-left: 2rem;
+  padding-left: 4rem;
   color: $gray-700;
   font-style: italic;
 }
@@ -85,7 +85,7 @@ blockquote {
   color: $gray-700;
   }
   
-  .blockquote-big::before{
+.blockquote-big::before{
     content: "\201C";
     color:   $success;
     font-size:  3rem;
@@ -94,7 +94,7 @@ blockquote {
     top:-10px;
   }
   
-  .blockquote-big::after{
+ .blockquote-big::after{
     content: '';
   }
   

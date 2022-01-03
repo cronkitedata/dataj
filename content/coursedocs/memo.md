@@ -12,18 +12,18 @@ This project makes up 15 percent of your final grade. It involves analyzing a da
 Key deadlines:
 
 March 27:  A three paragraph description of your proposed story memo
+
 April 11:  Update #1 - your hypotheses and first stabs at the data
+
 April 17  :  Update #2: Your nut graf and b-matter
-April 24:   Final story memo and documentation . Yes, this is the day before Thanksgiving. You are welcome to submit it earlier, but this is the drop-dead date. 
+
+April 24:   Final story memo and documentation . 
+
 My hope is that much of the work on this project can be done in labs during class time.  
 
 ## The proposal
 
-In your story memo proposal, you should provide the name of a dataset you want to use as a spine for a story idea. This doesn't have to be a "numbers" story, and it can take many forms. You might use a dataset to: 
-
-* Find a place to center your reporting on a topic
-* Create a visual story using charts and narrative form. 
-* Propose the nut graf of an investigative story based on analysis you do from the data. 
+In your story memo proposal, you should provide the name of a dataset you want to use as a spine for a story idea. Don't think of this as a "numbers" story. Instead, consider the range of material that the data could provide to a story including sweeping findings, leads for people or anecdotes, and places to focus your reporting.
 
 You are welcome to propose a dataset of your own, but you should choose one of the ones I add to this page as a back-up.  I also welcome you to talk with me about a topic you'd like to explore but don't know of any readily available data that would fit this project - I might know of one. For example, Census data can be used for a wealth of story ideas; there are readily available datasets on companies that have received federal dollars for pandemic relief and disasters, and those that have applied for visas for their workers under various special programs like agriculture or seasonal workers.   
 
@@ -33,7 +33,7 @@ Your proposal should be about three paragraphs long. It should include one or tw
 
 To do your memo, you should familiarize yourself with what the data contains, how it has been used locally (or something like it elsewhere) so that you know whether your story idea is novel. It's ok if it's not -- localizing or updating an older story is fine. You should just know where your story idea fits in the ecosystem. Review the work we did for the "Life of a dataset" assignment to help guide you. 
 
-## Datasets I've pre-vetted
+### Datasets I've pre-vetted
 
 Here's a preliminary set of datasets that I believe meet the goals of the project and offer some interesting opportunities. I'll try to work on adding some more as we move through the semester. Please let me know if you have or know of one that is a good fit for the project. A good fit means that it's got enough complexity that you can analyze, it's easy to get or is readily available online, and it's not such a mess that you'll spend all of your time trying to understand and clean it. 
 
@@ -63,7 +63,7 @@ You'll have a lot of materials provided that help you craft a great pitch as we 
 
 In this, you will not discuss WHAT YOU DID to get to this point -- you'll actually pitch a story. 
 
-## The documentation
+### The documentation
 
 We talk all semester about the need to be able to document your work and make it replicable. I expect that your work will be done almost entirely in R Markdown documents. The documentation should allow a reader to follow the data cleaning, analysis and other steps you took. 
 

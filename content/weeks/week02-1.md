@@ -19,7 +19,7 @@ description: Data isn't just numbers. We'll learn how to think broadly about dat
 \* in reverse order
 
 
-Some of this may feel abstract to you in the beginning but it will become more important as you start tackling datasets. 
+Some of this may feel abstract to you in the beginning but it will become more concrete as you start tackling datasets. 
 
 ## Agenda
 
