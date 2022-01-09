@@ -37,11 +37,11 @@ Sunday 1/9
 
 * Sign into the [Slack account for the class](https://asu-2221-mco510-23712.slack.com/). You should be automatically added to ```#dj-announcements```, ```#dj-sos``` and ```#dj-classroom``` , but make sure these are in your channel list.  Go to the Canvas assignment in the modules area under "January" and put your user name into the text box to let me know that you've completed this. (This is more important than it sounds. There are a lot of common names out there, and I've sent messages to the wrong people once or twice.)
 
-Friday, 1/13
+Friday, 1/14
 {.text-dark}
 * Cronkite Academic Integrity pledge in Canvas
 
-Tuesday, 1/17
+Tuesday, 1/18
 {.text-dark}
 
 * First try on numeracy assessment. The Canvas quiz will be released once you do the Cronkite Integrity pledge. You'll get two tries, and it has to be done by the end of the month. 
