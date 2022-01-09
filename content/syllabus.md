@@ -14,7 +14,7 @@ weight: 2
 
 
 Sarah Cohen / sarah.h.cohen@asu.edu / 202.213.6980 <br>
-M-W 10:00-11:50 Cronkite 404b (behind the elevators)<br>
+M-W 11:30-1:20p Cronkite 404b (behind the elevators)<br>
 **Canvas**: https://asu.instructure.com/courses/92120/<br>
 **Slack Workspace**: https://asu-2217-jmc465-75289.slack.com/
 
