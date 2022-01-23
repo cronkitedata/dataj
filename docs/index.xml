@@ -86,9 +86,9 @@ Agenda We have two days&#39; worth of work to do in only one class this week bec
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cronkitedata.github.io/dataj/weeks/week04-1/</guid>
-      <description>For the next couple of weeks, it may seem that we&amp;rsquo;ve left the world of reporting and investigative journalism. Most of your work and reading is focused on a getting you started in a programming language without interruption. Usually, I&amp;rsquo;ll provide a demo of the next class&amp;rsquo;s material before I ask you to tackle the reading and tutorials on your own.
-I&amp;rsquo;ll try to keep it relevant.
-Agenda  Install party!</description>
+      <description>For the next couple of weeks, it may seem that we&amp;rsquo;ve left the world of reporting and investigative journalism. Most of your work and reading is focused on a getting you started in a programming language without interruption.
+Generally, each day will go sort of like this:
+ We&amp;rsquo;ll go over the work from the previous class, and probably have a lab. I&amp;rsquo;ll introduce the new material in a demo, which you can follow along with (or not) You&amp;rsquo;ll then do after-class reading, which will make more sense once you&amp;rsquo;ve seen it in action.</description>
     </item>
     
     <item>
@@ -100,6 +100,19 @@ Agenda  Install party!</description>
       <description>Sarah Cohen  This is the poorly named website for my data journalism course at Arizona State University’s Cronkite School. It focuses on documents and data reporting in investigations.
 I began teaching in Arizona in 2018 as the Knight Chair in Journalism. This is my second tour as a Knight chair – the first was at Duke University’s Sanford School of Public Policy, from 2009 to 2012.
 I’ve been a reporter and editor for most of my career, starting out as a beat reporter in Florida covering health care, workplace issues and the local economy.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with R and R Markdown</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week04-2/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week04-2/</guid>
+      <description>Agenda  Create your first markdown document An introduction to (some of) the verbs of the Tidyverse using Billboard top 100 hits.  Upcoming deadlines Wednesday 2/2
+ Markdown lab  Sunday 2/6
+ Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this.  Friday 2/11
+1st self-assessment
+Preparation &amp;amp; learning materials For today  A gentle introduction to programming. Think about how you&amp;rsquo;d make an algorithm for a routine daily chore.</description>
     </item>
     
     <item>

@@ -6,7 +6,7 @@
     <description>Recent content in Weeks on Empirical reporting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/weeks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introductions</title>
       <link>https://cronkitedata.github.io/dataj/weeks/week01-1/</link>
@@ -68,9 +68,22 @@ Agenda We have two days&#39; worth of work to do in only one class this week bec
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cronkitedata.github.io/dataj/weeks/week04-1/</guid>
-      <description>For the next couple of weeks, it may seem that we&amp;rsquo;ve left the world of reporting and investigative journalism. Most of your work and reading is focused on a getting you started in a programming language without interruption. Usually, I&amp;rsquo;ll provide a demo of the next class&amp;rsquo;s material before I ask you to tackle the reading and tutorials on your own.
-I&amp;rsquo;ll try to keep it relevant.
-Agenda  Install party!</description>
+      <description>For the next couple of weeks, it may seem that we&amp;rsquo;ve left the world of reporting and investigative journalism. Most of your work and reading is focused on a getting you started in a programming language without interruption.
+Generally, each day will go sort of like this:
+ We&amp;rsquo;ll go over the work from the previous class, and probably have a lab. I&amp;rsquo;ll introduce the new material in a demo, which you can follow along with (or not) You&amp;rsquo;ll then do after-class reading, which will make more sense once you&amp;rsquo;ve seen it in action.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with R and R Markdown</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week04-2/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week04-2/</guid>
+      <description>Agenda  Create your first markdown document An introduction to (some of) the verbs of the Tidyverse using Billboard top 100 hits.  Upcoming deadlines Wednesday 2/2
+ Markdown lab  Sunday 2/6
+ Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this.  Friday 2/11
+1st self-assessment
+Preparation &amp;amp; learning materials For today  A gentle introduction to programming. Think about how you&amp;rsquo;d make an algorithm for a routine daily chore.</description>
     </item>
     
   </channel>
