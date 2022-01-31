@@ -12,9 +12,9 @@ description: The first of two days' training on spreadsheets. Some of it you may
 ## Agenda
 
 * Discuss Census homework
-* Re-introducing the Notice of Claims data
-* Demo: Pivot tables and grouping 
 * Lab: Reconstructing a Census story 
+* Demo: Pivot tables and grouping 
+
 
 
 ## Upcoming deadlines

@@ -44,4 +44,4 @@ Friday 2/11
 ### After class learning materials
 
 - [Getting and saving data](https://cronkitedata.github.io/djtextbook/r-data-import.html) 
-- *The Verbs of the tidyverse (link tk)*
+- [A quick tour of verbs](https://cronkitedata.github.io/djtextbook/r-verbs.html)
