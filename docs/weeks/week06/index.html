@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="/dataj/css/style.css">
     
     
-    <title>Empirical reporting | Spreadsheet review II</title>
+    <title>Empirical reporting | Verbs in depth part 2: Group, mutate, join</title>
 </head>
 <body style="padding-bottom:4rem;"><nav class="navbar navbar-expand-md navbar-dark bg-primary sticky-top py-0">
   
@@ -119,8 +119,8 @@
 <div id="content" class="container" style="padding-top:3rem;">
         <div class="row">
 
-<h1 id="title">Spreadsheet review II</h1>
-<h3 class="text-muted"> Wednesday January 26 </h3>
+<h1 id="title">Verbs in depth part 2: Group, mutate, join</h1>
+<h3 class="text-muted"> Monday February 14 </h3>
 
 
 <div class="container col-md-9">
@@ -128,33 +128,19 @@
 
 
 <article id="content">
-      <h2 id="agenda">Agenda</h2>
-<ul>
-<li>Discuss reading</li>
-<li>Lab: Phoenix notice of claims data (<a href="https://cronkitedata.github.io/djtextbook/xl-practice-noc.html">Details here</a>)</li>
-</ul>
+      <p>This is our last week of basic verbs. With <code>select</code>, <code>arrange</code>, <code>filter</code>, <code>summarise</code>, <code>group_by</code> and now <code>join</code> , you&rsquo;ll have most of what you need to analyze data in R! Next week we&rsquo;ll start working to put it all into practice in a warm-up story memo project, and you&rsquo;ll start seeing how to make your markdowns and data readable.</p>
+<h2 id="agenda">Agenda</h2>
+<h3 id="monday">Monday</h3>
+<p>Walkthrough on <code>mutate</code> and <code>group_by</code>/<code>summarise</code>.  You&rsquo;ll do the teaching!</p>
+<h3 id="wednesday">Wednesday</h3>
+<p>The last verb: <code>join</code>. Looking at industries, and thinking of stories.</p>
 <h2 id="upcoming-deadlines">Upcoming deadlines</h2>
-<p class="text-dark">Friday, 1/28</p>
-<ul>
-<li>Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long. It&rsquo;s good practice for this weekend&rsquo;s test anyway)</li>
-</ul>
-<p class="text-dark">Sunday, 1/30</p>
-<ul>
-<li>Spreadsheet assessment . This won&rsquo;t be hard if you&rsquo;ve been keeping up. You don&rsquo;t even turn in a spreadsheet! Instead, you&rsquo;ll be asked to look at a dataset of inspections and describe the steps you&rsquo;d take to answer some questions.  We can discuss this at the beginning or end of class.</li>
-</ul>
-<p class="text-dark">Monday 1/31</p>
-<ul>
-<li>Final deadline for numeracy quiz. The dean will be informed if you haven&rsquo;t finished it by now.</li>
-</ul>
-<h2 id="preparation">Preparation</h2>
-<h3 id="tutorials">Tutorials</h3>
-<ul>
-<li>Watch Mary Jo Webster&rsquo;s great introduction to pivot tables using New Yorker cartoons:</li>
-</ul>
-<iframe src="https://www.youtube.com/embed/NjOfLP5s24w" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<ul>
-<li>Then follow along with the tutorial on <a href="https://cronkitedata.github.io/djtextbook/xl-pivot.html">pivot tables from the textbook</a> .</li>
-</ul>
+<p class="text-dark">Sunday 2/20</p>
+<p>Your proposal for the <a href="/dataj/replication/">replication project</a>.</p>
+<p class="text-dark">Friday 3/4</p>
+<p>Update on the replication project.</p>
+<h2 id="preparation-and-learning-materials">Preparation and learning materials</h2>
+<p>We&rsquo;ll be walking through chapters in the textbook this week, and you don&rsquo;t have anything else.  Instead, spend some time looking at the story choices for the replication project so you make a smart choice and study the sentences to come up with the ones you want to replicate.</p>
 
 </article>
 
@@ -162,11 +148,11 @@
 
 <div class="container">
       
-      <a href=" https://cronkitedata.github.io/dataj/weeks/week03-1/ " class="btn btn-outline-primary"> Prev </a>
+      <a href=" https://cronkitedata.github.io/dataj/weeks/week05/ " class="btn btn-outline-primary"> Prev </a>
        
 
       
-      <a href=" https://cronkitedata.github.io/dataj/weeks/week04-1/ " class="btn btn-outline-primary"> Next </a>
+      <a href=" https://cronkitedata.github.io/dataj/weeks/week08/ " class="btn btn-outline-primary"> Next </a>
       
 
 </div>
@@ -183,13 +169,14 @@
   <div class="small">
   <nav id="TableOfContents">
   <ul>
-    <li><a href="#agenda">Agenda</a></li>
-    <li><a href="#upcoming-deadlines">Upcoming deadlines</a></li>
-    <li><a href="#preparation">Preparation</a>
+    <li><a href="#agenda">Agenda</a>
       <ul>
-        <li><a href="#tutorials">Tutorials</a></li>
+        <li><a href="#monday">Monday</a></li>
+        <li><a href="#wednesday">Wednesday</a></li>
       </ul>
     </li>
+    <li><a href="#upcoming-deadlines">Upcoming deadlines</a></li>
+    <li><a href="#preparation-and-learning-materials">Preparation and learning materials</a></li>
   </ul>
 </nav>
   </div>

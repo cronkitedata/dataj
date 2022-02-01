@@ -14,7 +14,7 @@
     
     <title>Empirical reporting | Replication project details </title>
 </head>
-<body><nav class="navbar navbar-expand-md navbar-dark bg-primary sticky-top py-0">
+<body style="padding-bottom:4rem;"><nav class="navbar navbar-expand-md navbar-dark bg-primary sticky-top py-0">
   
   <div class="container">
 
@@ -77,6 +77,16 @@
                                 </a>
                             </li>
                             
+                                <a class="dropdown-item" href="/dataj/coursedocs/builddb/">
+                                   Build Your Own Database
+                                </a>
+                            </li>
+                            
+                                <a class="dropdown-item" href="/dataj/coursedocs/explainer/">
+                                   Explainer
+                                </a>
+                            </li>
+                            
                         </div>
                     </li>
                         
@@ -123,6 +133,7 @@
 <p><strong>Part 1 (50 points)</strong>: Write approximate 500 words identifying the three most important paragraphs from the story that resulted directly from the data analysis, and explain why you chose each of them. In addition, note any characters, locations or other details that you suspect came from the data.</p>
 <p>Once this part is done, I&rsquo;ll pick the findings that I want you to reproduce.</p>
 <p><strong>Part 2 (50 points)</strong>: Turn in a draft R Markdown document that starts trying to recreate the data points we agree on from your story. I don&rsquo;t expect this to be finished, but it should at a minimum have a) loaded the data into R, and b) attempted to answer at least one of the findings that you are trying to reproduce. You shouldn&rsquo;t try them in order. Instead, look for things that you already know how to do.</p>
+<p>UPDATE 2/26: <a href="https://docs.google.com/document/d/15nFfwZme3bJ0wBIrdn8Ptl3eshYfaQg1JbYd23XNnEg/edit?usp=sharing">Here are the sentences I have chosen for each story</a>. These are the ones you should work on &ndash; nothing else.</p>
 <p>The more of the questions you attempt, the more feedback I can give you on your work.</p>
 <p><strong>Part 3 (100 points)</strong> Turn in a final R Markdown document with your attempts at replicating each of the findings. It should contain the code used to load the data, do any cleaning or matching to other datasets, and be self-documenting. It should be well-structured: Use headings to introduce new parts of the data, and write explanations of what you are doing in the analysis. It should be free of factual and grammatical errors, and I should be able to run it without error.</p>
 <h2 id="story--dataset-choices">Story / dataset choices</h2>
@@ -141,15 +152,11 @@ Difficulty: Medium</p>
 <p>Story: &ldquo;<a href="http://www.latimes.com/local/lanow/la-me-ln-city-payouts-20180627-story.html">L.A. is slammed with record costs for legal payouts.</a>&rdquo;. <br>
 <a href="https://github.com/datadesk/la-settlements-analysis">Data</a> Look at &ldquo;input&rdquo; data for list and categories <br>
 Difficulty: Easy</p>
-<h3 id="disasters-washington-post" class="text-blue">Disasters (Washington Post)</h3>
-<p>Story: <a href="https://www.washingtonpost.com/climate-environment/2021/09/04/climate-disaster-hurricane-ida/">&ldquo;Nearly 1 in 3 Americans experienced a weather disaster this summer&rdquo;</a> <br>
-Data: The Post isn&rsquo;t making this data publicly available, but I will create something that will get you close. You may not be able to replicate it exactly, but it will be very close.<br>
-Difficulty: I don&rsquo;t know!</p>
-<h3 id="medicare-wall-street-journal" class="text-blue">Medicare (Wall Street Journal)</h3>
-<p>Story: <a href="https://www.wsj.com/articles/taxpayers-face-big-medicare-tab-for-unusual-doctor-billings-1402364264">Taxpayers Face Big medicare Tab for Unusual Doctor Billings</a>, John Carreyou, Christopher S. Stewart and Rob Barry, June 2014 (Pulitzer Prize winner) <br>
-Data: I will prepare the data for you. It may not end up being exactly what the reporters found, but it will be close. It will be derived from the <a href="https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service">2014 Public Use file</a>  <br>
-<a href="https://data.cms.gov/resources/medicare-physician-other-practitioners-by-provider-and-service-data-dictionary">Documentation</a>: Data dictionary from Centers for Medicare and Medicaid <br>
-Diffulty: Hard</p>
+<h3 id="driving-while-black-new-york-times" class="text-blue">Driving while black (New York Times)</h3>
+<p>You may use the data for the story that we read earlier this semester, but I have already sent you a document with the first part of the project done &ndash; identifying the data points that came from the main database. If you choose this one, please choose one of the other options for Part I of the project, then you can use this one for your actual work.  I have a copy of the data we got from North Carolina via FOIA for this story, but it&rsquo;s in raw form.
+<a href="https://cronkitedata.s3.amazonaws.com/docs/Traffic%20Stop%20Data%20Tables%20Reference%20Key.xlsx">Here is the data dictionary</a>.  If you want to do this one, you will need more space on your hard drive and a little more powerful computer than the rest of our work.
+Difficulty: Medium to hard</p>
+<p>(I removed the Wall Street Journal&rsquo;s Medicare story on 2/15, because it&rsquo;s too late for me to prepare it for you.)</p>
 
 </article>
 </div>
@@ -170,8 +177,7 @@ Diffulty: Hard</p>
         <li><a href="#unsolved-homicides-in-baltimore-washington-post">Unsolved homicides in Baltimore (Washington Post)</a></li>
         <li><a href="#invasive-strip-searches-in-new-york-propublica">Invasive Strip Searches in New York (Propublica)</a></li>
         <li><a href="#la-is-slammed-with-record-payouts-los-angeles-times">LA is slammed with record payouts (Los Angeles Times)</a></li>
-        <li><a href="#disasters-washington-post">Disasters (Washington Post)</a></li>
-        <li><a href="#medicare-wall-street-journal">Medicare (Wall Street Journal)</a></li>
+        <li><a href="#driving-while-black-new-york-times">Driving while black (New York Times)</a></li>
       </ul>
     </li>
   </ul>
@@ -213,6 +219,12 @@ Diffulty: Hard</p>
         <li> <a href="https://cronkitedata.github.io/dataj/weeks/week04-1/"> Jan 31 - Introduction to programming with R</a>  </li>
   
         <li> <a href="https://cronkitedata.github.io/dataj/weeks/week04-2/"> Feb 2 - Getting started with R and R Markdown</a>  </li>
+  
+        <li> <a href="https://cronkitedata.github.io/dataj/weeks/week05/"> Feb 7 - Going further with tidyverse verbs</a>  </li>
+  
+        <li> <a href="https://cronkitedata.github.io/dataj/weeks/week06/"> Feb 14 - Verbs in depth part 2: Group, mutate, join</a>  </li>
+  
+        <li> <a href="https://cronkitedata.github.io/dataj/weeks/week08/"> Feb 28 - Regular expressions, tables and snippets</a>  </li>
   
    </ul>
    </div> 

@@ -6,7 +6,7 @@
     <description>Recent content in Weeks on Empirical reporting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/weeks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introductions</title>
       <link>https://cronkitedata.github.io/dataj/weeks/week01-1/</link>
@@ -81,9 +81,38 @@ Generally, each day will go sort of like this:
       <guid>https://cronkitedata.github.io/dataj/weeks/week04-2/</guid>
       <description>Agenda  Create your first markdown document An introduction to (some of) the verbs of the Tidyverse using Billboard top 100 hits.  Upcoming deadlines Wednesday 2/2
  Markdown lab  Sunday 2/6
- Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this.  Friday 2/11
-1st self-assessment
-Preparation &amp;amp; learning materials For today  A gentle introduction to programming. Think about how you&amp;rsquo;d make an algorithm for a routine daily chore.</description>
+ Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this. Get as far as you can in 3-4 hours of dedicated work. This exercise will give me guidance on where to spend our time, so it&amp;rsquo;s more important that you try to do this on your own than it is that you get the &amp;ldquo;right&amp;rdquo; answer.</description>
+    </item>
+    
+    <item>
+      <title>Going further with tidyverse verbs</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week05/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week05/</guid>
+      <description>This marks the beginning of collapsing each week&amp;rsquo;s work into one page on this website.
+This week, we&amp;rsquo;ll go over some details of how to use the most common five verbs: select, arrange, mutate, summarise, group_by, and filter using a data source more likely to yield interesting stories: The Paycheck Protection Program loans for businesses and projects in Arizona.
+EDIT: I changed the details of what we&amp;rsquo;re doing on Wednesday, when we&amp;rsquo;ll look closer at the filter verb and get an introduction to filtering without an exact match.</description>
+    </item>
+    
+    <item>
+      <title>Verbs in depth part 2: Group, mutate, join</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week06/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week06/</guid>
+      <description>This is our last week of basic verbs. With select, arrange, filter, summarise, group_by and now join , you&amp;rsquo;ll have most of what you need to analyze data in R! Next week we&amp;rsquo;ll start working to put it all into practice in a warm-up story memo project, and you&amp;rsquo;ll start seeing how to make your markdowns and data readable.
+Agenda Monday Walkthrough on mutate and group_by/summarise. You&amp;rsquo;ll do the teaching!</description>
+    </item>
+    
+    <item>
+      <title>Regular expressions, tables and snippets</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week08/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week08/</guid>
+      <description>Agenda Monday   More on regular expressions - A lab that helps you understand more about what you are doing in the str_detect function in filtering and mutating - some of this will not be in R, but will be on a website that helps you write the patterns.
+  Open lab to work on getting started on your replication project. While you may work together in labs to help one another get started, this is intended as an individual, not a team, project.</description>
     </item>
     
   </channel>

@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="/dataj/css/style.css">
     
     
-    <title>Empirical reporting | Spreadsheet review II</title>
+    <title>Empirical reporting | Regular expressions, tables and snippets</title>
 </head>
 <body style="padding-bottom:4rem;"><nav class="navbar navbar-expand-md navbar-dark bg-primary sticky-top py-0">
   
@@ -119,8 +119,8 @@
 <div id="content" class="container" style="padding-top:3rem;">
         <div class="row">
 
-<h1 id="title">Spreadsheet review II</h1>
-<h3 class="text-muted"> Wednesday January 26 </h3>
+<h1 id="title">Regular expressions, tables and snippets</h1>
+<h3 class="text-muted"> Monday February 28 </h3>
 
 
 <div class="container col-md-9">
@@ -129,44 +129,45 @@
 
 <article id="content">
       <h2 id="agenda">Agenda</h2>
+<h3 id="monday">Monday</h3>
 <ul>
-<li>Discuss reading</li>
-<li>Lab: Phoenix notice of claims data (<a href="https://cronkitedata.github.io/djtextbook/xl-practice-noc.html">Details here</a>)</li>
+<li>
+<p>More on regular expressions - A lab that helps you understand more about what you are doing in the <code>str_detect</code> function in filtering and mutating - some of this will not be in R, but will be on a website that helps you write the patterns.</p>
+</li>
+<li>
+<p>Open lab to work on getting started on your replication project. While you may work together in labs to help one another get started, this is intended as an individual, not a team, project. Your work must be your own &ndash; you can&rsquo;t copy and paste from one another.</p>
+</li>
+</ul>
+<h3 id="wednesday">Wednesday</h3>
+<ul>
+<li>Pro tip: Using RStudio snippets to save yourself from having to type so much! (It will also save you from having to remember exactly how a function or verb works &ndash; you&rsquo;ll be prompted for the correct syntax)</li>
+<li>Examples of better-looking tables using two packages : <code>gt</code> for static tables, and <code>reactable</code> for interactive (much less typing if you use snippets!)</li>
 </ul>
 <h2 id="upcoming-deadlines">Upcoming deadlines</h2>
-<p class="text-dark">Friday, 1/28</p>
-<ul>
-<li>Notice of Claims filter and pivot table (I hope to finish this in the lab, but it might go a little long. It&rsquo;s good practice for this weekend&rsquo;s test anyway)</li>
-</ul>
-<p class="text-dark">Sunday, 1/30</p>
-<ul>
-<li>Spreadsheet assessment . This won&rsquo;t be hard if you&rsquo;ve been keeping up. You don&rsquo;t even turn in a spreadsheet! Instead, you&rsquo;ll be asked to look at a dataset of inspections and describe the steps you&rsquo;d take to answer some questions.  We can discuss this at the beginning or end of class.</li>
-</ul>
-<p class="text-dark">Monday 1/31</p>
-<ul>
-<li>Final deadline for numeracy quiz. The dean will be informed if you haven&rsquo;t finished it by now.</li>
-</ul>
-<h2 id="preparation">Preparation</h2>
-<h3 id="tutorials">Tutorials</h3>
-<ul>
-<li>Watch Mary Jo Webster&rsquo;s great introduction to pivot tables using New Yorker cartoons:</li>
-</ul>
-<iframe src="https://www.youtube.com/embed/NjOfLP5s24w" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<ul>
-<li>Then follow along with the tutorial on <a href="https://cronkitedata.github.io/djtextbook/xl-pivot.html">pivot tables from the textbook</a> .</li>
-</ul>
-
+<p>Reminder: There is an &ldquo;explainer&rdquo; due instead of a final exam, which you might want to knock out as soon as you come across something you want to do.</p>
+<p class="text-dark">Friday 3/4</p>
+<p>Update on the <a href="/dataj/coursedocs/replication/">replication project</a>.  The sentences/paragraphs to replicate are on Canvas, under the Replication Project module, which links to <a href="https://docs.google.com/document/d/15nFfwZme3bJ0wBIrdn8Ptl3eshYfaQg1JbYd23XNnEg/edit?usp=sharing">this Google Doc</a>. More details are in the Canvas assignment.</p>
+<p>You should have at least imported the data correctly, done the reading and review to make sure you understand it, and taken a stab at getting to some of the answers for the project. Don&rsquo;t take the paragraphs in order &ndash; instead, look for ones you know how to do to and knock them out. The further you get on this, the more I can help you before the final is due. Please be aware that this project MUST be done using R and R Markdown. You will not get credit for anything done in Excel or any other platform.</p>
+<p>NOTE: Expect that you will forget a lot of what you learned over Spring Break. Be prepared to take some time when you get back to refresh yourself.</p>
+<p class="text-dark">Sunday 3/20</p>
+<p>Final replication project</p>
+<p class="text-dark">Friday 3/25</p>
+<p>2nd self-assessment</p>
+<h2 id="preparation--learning-materials">Preparation &amp; learning materials</h2>
+<p>Spend some time going <a href="https://cronkitedata.s3.amazonaws.com/markdown_templates/ppp_lab_0223_solutions.html">over some of the possible solutions to the lab</a> from last week, and the textbook, to see how the concepts and practices in the textbook translate into real-data questions. Try asking some questions of your own, and see how you might approach them. This is some time for you to do review on your own, as you&rsquo;re expected to be able to apply what we&rsquo;ve spent the last month doing in this project and the next.</p>
+<p>Pro tip: If  you are doing a lot of printing out of data without limiting the number of rows shown, your markdowns might get too large for your computer to handle. Consider using <code>glimpse()</code> or <code>str()</code> to get the number of rows and information about the data you use, or use <code>head()</code>, <code>tail()</code>, or <code>sample_n(100)</code> to look at the beginning, the end, or a randome sample of 100 rows.</p>
+<p>You can also add this line to your setup chunk to limit the number of rows that are used after each command, but it will not show you how many rows were extracted this way &ndash; just what they look like (at the same time avoiding scientific notation on numbers):</p>
+<pre tabindex="0"><code>options (scipen=999, max.print=100)
+</code></pre>
 </article>
 
 
 
 <div class="container">
       
-      <a href=" https://cronkitedata.github.io/dataj/weeks/week03-1/ " class="btn btn-outline-primary"> Prev </a>
+      <a href=" https://cronkitedata.github.io/dataj/weeks/week06/ " class="btn btn-outline-primary"> Prev </a>
        
 
-      
-      <a href=" https://cronkitedata.github.io/dataj/weeks/week04-1/ " class="btn btn-outline-primary"> Next </a>
       
 
 </div>
@@ -183,13 +184,14 @@
   <div class="small">
   <nav id="TableOfContents">
   <ul>
-    <li><a href="#agenda">Agenda</a></li>
-    <li><a href="#upcoming-deadlines">Upcoming deadlines</a></li>
-    <li><a href="#preparation">Preparation</a>
+    <li><a href="#agenda">Agenda</a>
       <ul>
-        <li><a href="#tutorials">Tutorials</a></li>
+        <li><a href="#monday">Monday</a></li>
+        <li><a href="#wednesday">Wednesday</a></li>
       </ul>
     </li>
+    <li><a href="#upcoming-deadlines">Upcoming deadlines</a></li>
+    <li><a href="#preparation--learning-materials">Preparation &amp; learning materials</a></li>
   </ul>
 </nav>
   </div>

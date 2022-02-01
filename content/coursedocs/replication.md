@@ -1,7 +1,7 @@
 ---
 title: "Replication project details "
 date:   2021-12-27
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: false
@@ -20,6 +20,8 @@ We'll spend some time in class on labs so you can get help when you're stuck. I'
 Once this part is done, I'll pick the findings that I want you to reproduce.
 
 **Part 2 (50 points)**: Turn in a draft R Markdown document that starts trying to recreate the data points we agree on from your story. I don't expect this to be finished, but it should at a minimum have a) loaded the data into R, and b) attempted to answer at least one of the findings that you are trying to reproduce. You shouldn't try them in order. Instead, look for things that you already know how to do.
+
+UPDATE 2/26: [Here are the sentences I have chosen for each story](https://docs.google.com/document/d/15nFfwZme3bJ0wBIrdn8Ptl3eshYfaQg1JbYd23XNnEg/edit?usp=sharing). These are the ones you should work on -- nothing else. 
 
 The more of the questions you attempt, the more feedback I can give you on your work.
 
@@ -58,18 +60,11 @@ Story: "[L.A. is slammed with record costs for legal payouts.](http://www.latime
 Difficulty: Easy
 
 
-### Disasters (Washington Post)
+### Driving while black (New York Times)
 {.text-blue}
-
-Story: ["Nearly 1 in 3 Americans experienced a weather disaster this summer"](https://www.washingtonpost.com/climate-environment/2021/09/04/climate-disaster-hurricane-ida/) <br>
-Data: The Post isn't making this data publicly available, but I will create something that will get you close. You may not be able to replicate it exactly, but it will be very close.<br>
-Difficulty: I don't know!
-
-### Medicare (Wall Street Journal)
-{.text-blue}
+You may use the data for the story that we read earlier this semester, but I have already sent you a document with the first part of the project done -- identifying the data points that came from the main database. If you choose this one, please choose one of the other options for Part I of the project, then you can use this one for your actual work.  I have a copy of the data we got from North Carolina via FOIA for this story, but it's in raw form. 
+[Here is the data dictionary](https://cronkitedata.s3.amazonaws.com/docs/Traffic%20Stop%20Data%20Tables%20Reference%20Key.xlsx).  If you want to do this one, you will need more space on your hard drive and a little more powerful computer than the rest of our work. 
+Difficulty: Medium to hard
 
 
-Story: [Taxpayers Face Big medicare Tab for Unusual Doctor Billings](https://www.wsj.com/articles/taxpayers-face-big-medicare-tab-for-unusual-doctor-billings-1402364264), John Carreyou, Christopher S. Stewart and Rob Barry, June 2014 (Pulitzer Prize winner) <br>
-Data: I will prepare the data for you. It may not end up being exactly what the reporters found, but it will be close. It will be derived from the [2014 Public Use file](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service)  <br>
-[Documentation](https://data.cms.gov/resources/medicare-physician-other-practitioners-by-provider-and-service-data-dictionary): Data dictionary from Centers for Medicare and Medicaid <br>
-Diffulty: Hard
+(I removed the Wall Street Journal's Medicare story on 2/15, because it's too late for me to prepare it for you.)

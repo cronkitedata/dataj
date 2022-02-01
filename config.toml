@@ -59,6 +59,22 @@ publishDir = "docs"
     weight =  2
     parent =  "projects"
 
+[[menu.main]]
+    identifier = "explainer"
+    name = "Explainer"
+    url = "/coursedocs/explainer/"
+    weight =  4
+    parent =  "projects"
+
+
+[[menu.main]]
+    identifier = "builddb"
+    name = "Build Your Own Database"
+    url = "/coursedocs/builddb/"
+    weight =  3
+    parent =  "projects"
+
+
 
 [markup]
   [markup.goldmark]

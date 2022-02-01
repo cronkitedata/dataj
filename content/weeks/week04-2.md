@@ -5,7 +5,7 @@ draft: true
 layout: single
 toc: true
 show_date: true
-weight: 
+weight: 11
 description: We'll get a first glance at the R environment and make sure you're ready to start using good data journalism habits. 
 --- 
 
@@ -25,7 +25,8 @@ Wednesday 2/2
 
 Sunday 2/6
 {.text-dark}
-* Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this. 
+* Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this. Get as far as you can in 3-4 hours of dedicated work. This exercise will give me guidance on where to spend our time, so it's more important that you try to do this on your own than it is that you get the "right" answer. Try to avoid the temptation to Google or copy/paste your way out of a problem. Getting god answers from Google is hard, and copy/paste doesn't helpyou understand. Instead, check for typos and try to read the error message. Back up and run one line at a time to see what's happening. But don't struggle for too long -- post anonymously if you'd like on #dj-sos. 
+
 
 Friday 2/11
 {.text-dark}

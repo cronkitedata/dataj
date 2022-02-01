@@ -6,7 +6,27 @@
     <description>Recent content in Updates on Empirical reporting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extra links for working with R</title>
+      <link>https://cronkitedata.github.io/dataj/updates/extra-links/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/updates/extra-links/</guid>
+      <description>I&amp;rsquo;ve thrown a lot of links at you in the last couple of weeks. I&amp;rsquo;ll keep updating this front page that puts them together, and will also pin them to the top of the #dj-sos and #dj-classroom Slack channels. If you need another way to get to them, I&amp;rsquo;m collecting them by month at https://bit.ly/dj2022-startme
+  The boilerplate that you can use to replace the top of an R Markdown document with the options we usually want.</description>
+    </item>
+    
+    <item>
+      <title>Attendance / deadline policy</title>
+      <link>https://cronkitedata.github.io/dataj/updates/attendance/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/updates/attendance/</guid>
+      <description>This is just a reminder that attendng class by Zoom generally isn&amp;rsquo;t an option. Here is what the syllabus says about attendance:
+ &amp;ldquo;There are no excused absences in this course, except for true medical or other emergencies or religious observances. You might decide it’s more important to schedule a job interview, attend a family event, or interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities.</description>
+    </item>
+    
     <item>
       <title>Ready, set...</title>
       <link>https://cronkitedata.github.io/dataj/updates/welcome/</link>

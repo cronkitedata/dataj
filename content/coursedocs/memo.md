@@ -1,7 +1,7 @@
 ---
 title: "Story memo details"
 date:   2021-12-27
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: false
@@ -37,11 +37,14 @@ To do your memo, you should familiarize yourself with what the data contains, ho
 
 Here's a preliminary set of datasets that I believe meet the goals of the project and offer some interesting opportunities. I'll try to work on adding some more as we move through the semester. Please let me know if you have or know of one that is a good fit for the project. A good fit means that it's got enough complexity that you can analyze, it's easy to get or is readily available online, and it's not such a mess that you'll spend all of your time trying to understand and clean it. 
 
-* COVID case and death counts by county from the New York Times; While it does not have population or other demographics, it does have the codes needed to match against  Census.
+* [COVID case and death counts by county](https://github.com/nytimes/covid-19-data) from the New York Times; While it does not have population or other demographics, it does have the codes needed to match against  Census.
 
-* Protests in the US since May 2020 from the Armed Conflict, Location and Event Data Project. The list is done based on the carefully curated definitions the group has been using for years, making it a standardized work. It also includes an approximate latitude and longitude.  Note that you have to register with them to get access to the data. You can explore some of their international curated datasets if you prefer. 
+* [Protests in the US since  2020](https://acleddata.com/data-export-tool/) from the Armed Conflict, Location and Event Data Project. The list is done based on the carefully curated definitions the group has been using for years, making it a standardized work. It also includes an approximate latitude and longitude.  Note that you have to register with them to get access to the data. You can explore some of their international curated datasets if you prefer. 
 
-* Loans from the Paycheck Protection Program, or PPP from the Small Business Administration. This Senate committee overview is a good description of the program.  If you choose this, I ask that you select a region or industry or some other subset of the data so that you don't need to work with all 2 million rows of this dataset.  Review the [record layout](https://data.sba.gov/dataset/ppp-foia) before you make a suggestion, and 
+* For News21 students: One of the datasets that you might use in your project is the Justice Department's census on police training programs, available through its [repository on ICSPR](https://www.icpsr.umich.edu/web/NACJD/studies/38250/datadocumentation) (a standard academic repository for official DOJ datasets). We'll have to determine how many people can join on this, and whether to turn it into a group project. It's pretty straightforward but might involve a lot of typing to get to something useful. Let's discuss when we get closer. 
+
+* Business applications for [foreign labor certifications](https://www.dol.gov/agencies/eta/foreign-labor/performance) from the US Labor Department.  These are very large datasets, so be prepared to work on them at school if your computer might not handle them. You'll choose from H1B (specialty temporary workers), H2A (temporary agricultural workers), H2B (non-agricultural seasonal workers), or PERM (permanent workers). To get a good story, we'll have to piece together the list of applications from before 2020, when the borders effectively closed, with more recent ones.  PLEASE LET ME KNOW WELL BEFORE THE FIRST DEADLINE IF YOU WANT TO USE THIS DATA. I HAVE TO PUT IT TOGEGTHER FOR YOU .
+
 
 
 ## Interim deadlines

@@ -6,7 +6,26 @@
     <description>Recent content in Coursedocs on Empirical reporting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/coursedocs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cronkitedata.github.io/dataj/coursedocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build your own database</title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/builddb/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/builddb/</guid>
+      <description>This is an assignment that challenges you to build a database out of documents or individual items that you collect yourself. I&amp;rsquo;m still deciding which documents to use for this, and will update it after Spring Break. We&amp;rsquo;ll do it partly in a lab, and then you&amp;rsquo;ll finish it up yourself in April.
+If you have documents you want me to consider for this, please let me know.</description>
+    </item>
+    
+    <item>
+      <title>Mini-project: Explainer</title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/explainer/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/explainer/</guid>
+      <description>This assignment involves identifying one thing related to class that you’d like to apply or understand better, and produce an explainer around it. This could be a technique in R that you found confusing, something you decided to teach yourself because you found an interesting example, or a dataset that we didn’t really review in class that you’d like to explore. Run the idea by me before you put too much work into it.</description>
+    </item>
+    
     <item>
       <title>Replication project details </title>
       <link>https://cronkitedata.github.io/dataj/coursedocs/replication/</link>

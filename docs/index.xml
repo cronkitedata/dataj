@@ -92,6 +92,48 @@ Generally, each day will go sort of like this:
     </item>
     
     <item>
+      <title>Getting started with R and R Markdown</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week04-2/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week04-2/</guid>
+      <description>Agenda  Create your first markdown document An introduction to (some of) the verbs of the Tidyverse using Billboard top 100 hits.  Upcoming deadlines Wednesday 2/2
+ Markdown lab  Sunday 2/6
+ Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this. Get as far as you can in 3-4 hours of dedicated work. This exercise will give me guidance on where to spend our time, so it&amp;rsquo;s more important that you try to do this on your own than it is that you get the &amp;ldquo;right&amp;rdquo; answer.</description>
+    </item>
+    
+    <item>
+      <title>Going further with tidyverse verbs</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week05/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week05/</guid>
+      <description>This marks the beginning of collapsing each week&amp;rsquo;s work into one page on this website.
+This week, we&amp;rsquo;ll go over some details of how to use the most common five verbs: select, arrange, mutate, summarise, group_by, and filter using a data source more likely to yield interesting stories: The Paycheck Protection Program loans for businesses and projects in Arizona.
+EDIT: I changed the details of what we&amp;rsquo;re doing on Wednesday, when we&amp;rsquo;ll look closer at the filter verb and get an introduction to filtering without an exact match.</description>
+    </item>
+    
+    <item>
+      <title>Verbs in depth part 2: Group, mutate, join</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week06/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week06/</guid>
+      <description>This is our last week of basic verbs. With select, arrange, filter, summarise, group_by and now join , you&amp;rsquo;ll have most of what you need to analyze data in R! Next week we&amp;rsquo;ll start working to put it all into practice in a warm-up story memo project, and you&amp;rsquo;ll start seeing how to make your markdowns and data readable.
+Agenda Monday Walkthrough on mutate and group_by/summarise. You&amp;rsquo;ll do the teaching!</description>
+    </item>
+    
+    <item>
+      <title>Regular expressions, tables and snippets</title>
+      <link>https://cronkitedata.github.io/dataj/weeks/week08/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/weeks/week08/</guid>
+      <description>Agenda Monday   More on regular expressions - A lab that helps you understand more about what you are doing in the str_detect function in filtering and mutating - some of this will not be in R, but will be on a website that helps you write the patterns.
+  Open lab to work on getting started on your replication project. While you may work together in labs to help one another get started, this is intended as an individual, not a team, project.</description>
+    </item>
+    
+    <item>
       <title> </title>
       <link>https://cronkitedata.github.io/dataj/about/</link>
       <pubDate>Mon, 20 Dec 2021 13:19:44 -0500</pubDate>
@@ -103,16 +145,42 @@ I’ve been a reporter and editor for most of my career, starting out as a beat 
     </item>
     
     <item>
-      <title>Getting started with R and R Markdown</title>
-      <link>https://cronkitedata.github.io/dataj/weeks/week04-2/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Build your own database</title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/builddb/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://cronkitedata.github.io/dataj/weeks/week04-2/</guid>
-      <description>Agenda  Create your first markdown document An introduction to (some of) the verbs of the Tidyverse using Billboard top 100 hits.  Upcoming deadlines Wednesday 2/2
- Markdown lab  Sunday 2/6
- Billboard Top 100 introductory tutorial. Do the after-class reading before you tackle this.  Friday 2/11
-1st self-assessment
-Preparation &amp;amp; learning materials For today  A gentle introduction to programming. Think about how you&amp;rsquo;d make an algorithm for a routine daily chore.</description>
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/builddb/</guid>
+      <description>This is an assignment that challenges you to build a database out of documents or individual items that you collect yourself. I&amp;rsquo;m still deciding which documents to use for this, and will update it after Spring Break. We&amp;rsquo;ll do it partly in a lab, and then you&amp;rsquo;ll finish it up yourself in April.
+If you have documents you want me to consider for this, please let me know.</description>
+    </item>
+    
+    <item>
+      <title>Mini-project: Explainer</title>
+      <link>https://cronkitedata.github.io/dataj/coursedocs/explainer/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/coursedocs/explainer/</guid>
+      <description>This assignment involves identifying one thing related to class that you’d like to apply or understand better, and produce an explainer around it. This could be a technique in R that you found confusing, something you decided to teach yourself because you found an interesting example, or a dataset that we didn’t really review in class that you’d like to explore. Run the idea by me before you put too much work into it.</description>
+    </item>
+    
+    <item>
+      <title>Extra links for working with R</title>
+      <link>https://cronkitedata.github.io/dataj/updates/extra-links/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/updates/extra-links/</guid>
+      <description>I&amp;rsquo;ve thrown a lot of links at you in the last couple of weeks. I&amp;rsquo;ll keep updating this front page that puts them together, and will also pin them to the top of the #dj-sos and #dj-classroom Slack channels. If you need another way to get to them, I&amp;rsquo;m collecting them by month at https://bit.ly/dj2022-startme
+  The boilerplate that you can use to replace the top of an R Markdown document with the options we usually want.</description>
+    </item>
+    
+    <item>
+      <title>Attendance / deadline policy</title>
+      <link>https://cronkitedata.github.io/dataj/updates/attendance/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cronkitedata.github.io/dataj/updates/attendance/</guid>
+      <description>This is just a reminder that attendng class by Zoom generally isn&amp;rsquo;t an option. Here is what the syllabus says about attendance:
+ &amp;ldquo;There are no excused absences in this course, except for true medical or other emergencies or religious observances. You might decide it’s more important to schedule a job interview, attend a family event, or interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities.</description>
     </item>
     
     <item>

@@ -22,7 +22,7 @@
   
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     <div class="row">
-      {{ range first 1 (where .Site.RegularPages "Section" "updates") }}
+      {{ range first 2 (where .Site.RegularPages "Section" "updates") }}
         <h2 class="ms-0 ">{{.Title}} <br>
         <span class="fw-light text-muted fs-6">{{ .Date.Format "January 2"}} </span> </h2>
         <div>
@@ -31,10 +31,10 @@
         </div>
       {{ end }}
 
-      {{ range after 2 (where .Site.RegularPages "Section" "updates")}}       
+      {{ range after 3 (where .Site.RegularPages "Section" "updates")}}       
 
         <p>
-           {{ .Date.Format "January 2"}} : <a href="{{.PermaLink}}"> {{.Title}}  </a>
+           {{ .Date.Format "January 2"}} : <a href="{{.RelPermaLink}}"> {{.Title}}  </a>
         <p>
 
       {{ end }}
