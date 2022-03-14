@@ -19,7 +19,7 @@ Monday:
 
 Wednesday:
 
--  Team lab: The Data Hunt. Finding and evaluating data on your beat on deadline. 
+-  Team lab: The Data Hunt. Finding and evaluating data on your beat on deadline.  A guide to a data hunt is in the class textbook: [Finding the right data for your story](https://cronkitedata.github.io/djtextbook/start-hunt.html), and a template with an old example that won't work anymore is in [this google doc](https://docs.google.com/document/d/14nxUPMIAmIGm1hwWhSBYqoVF3HSlFyk6XWiozXjeO5w/edit) . (These are the same links shared with News21 students earlier this semester.)
 
 ## Upcoming deadlines
 
