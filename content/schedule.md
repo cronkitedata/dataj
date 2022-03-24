@@ -27,12 +27,12 @@ Expect to have other assignments and labs due every week. This just lists those 
 |  08 | Feb 28-Mar 2| R week 4: Advanced topics: Advanced regular expressions, data tables & formats  | Fri: Replication update (50)  |
 |  |||Spring break |   |
 |  09 | Mar 14-16 |  Intro to data viz |   |
-|  10 | Mar 21-23 | Data hunt / data cleaning |  Su 3/20: Replication project (100); Fri: 2nd self assessment (125) ;   |
-|  11 | Mar 28-30 | Scraping 101  | Su 3/27: Memo proposal (25)   |
+|  10 | Mar 21-23 | data cleaning / Scraping 101 |  Su 3/20: Replication project (100); Fri: 2nd self assessment (125) ;   |
+|  11 | Mar 28-30 | Scraping in-depth  | Su 3/27: Memo proposal (25)   |
 |  12 | Apr 4-6 |  Build your own database | Fri 4/9: Build your own assignment (50)   |
-|  13 | Apr 11-13 | Catch up / memo labs; tentative: Intro to GIS (maps)  | Su 4/11: 1st memo update (50)  |
-|  14 | Apr 18-20 | Ethics in data journalism; Student choice #1 |  Su 4/17: 2nd memo update (75)  |
-|  15 | Apr 25-27 | Discuss final projects ; Student choice #2 / AMA |   Su 4/24 : Memo (100) ; Wed : Last self-assessment on participation, engagement, etc. (50)  |
+|  13 | Apr 11-13 | Intro to GIS (maps)  | Su 4/11: 1st memo update (50)  |
+|  14 | Apr 18-20 | More on GIS  |  Su 4/17: 2nd memo update (75)  |
+|  15 | Apr 25-27 | Ethics in data journalism; creating your public Github repo  |   Su 4/24 : Memo (100) ; Wed : Last self-assessment on participation, engagement, etc. (50)  |
 {.table .table-striped}
  
 

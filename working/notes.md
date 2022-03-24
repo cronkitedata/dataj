@@ -1,5 +1,8 @@
 have something to do with the biases. 
 
+command for doing the hugo server locally: hugo server -D -E -F --cleanDestinationDir --debug -v
+to commit new version, just do the same thing without the word "server". For some reason I thought you had to "build", but it doesn't seem so. 
+
 My examples: 
 
 * Confirmation bias - On every story, I try to say, “why is what I’m saying wrong? Who would disagree and why? Is there another way to look at this, or to analyze this data?”  I don’t have to change anything, but I need to DISPROVE my findings. And example on the data we worked on in examples: phoenix claims. I found that the police spend more than others. Why might that be wrong? If I changed the years I looked at , would the answer be different? If I excluded one large case, would the answer change? 
