@@ -1,42 +1,55 @@
 ---
-title: Data cleaning with Open Refine 
-date:  2022-03-21
+title: ... and we're almost done!
+date:  2022-04-04
 draft: true
 layout: single
 toc: true
 show_date: true
-weight:  16
-description: You've seen it's hard to fix little mistakes in R, and that we don't have a good set of tools to it in Excel. Enter [OpenRefine](https://operefine.org), a small little program you put on your computer that is designed to help find and fix inconsistencies and difficult problems in your data. We'll also touch on extracting data from PDFs. 
+weight:  17
+description: I'll use this week to lay out the rest of the semester, since there aren't many deliverables. But please keep an eye on this for readings. 
 --- 
 
 
-## Agenda
-
-Monday: 
-
-- Review the replication project as a whole. 
-- Intro to OpenRefine to clean data
-
-Wednesday:
-
--  Team lab: The Data Hunt. Finding and evaluating data on your beat on deadline.  A guide to a data hunt is in the class textbook: [Finding the right data for your story](https://cronkitedata.github.io/djtextbook/start-hunt.html), and a template with an old example that won't work anymore is in [this google doc](https://docs.google.com/document/d/14nxUPMIAmIGm1hwWhSBYqoVF3HSlFyk6XWiozXjeO5w/edit) . (These are the same links shared with News21 students earlier this semester.)
-
 ## Upcoming deadlines
 
-Sunday 3/20
+Friday 4/8
 {.text-dark}
-Final replication project
+* Your database design for the "building a database" assignment. Turn in a link to an Airtable, and be sure you've shared it with me (shcohen1@asu.edu)
 
-Friday 3/25
+Sunday 4/11
 {.text-dark}
-Second self-assessment
+* First update to story memo
 
-Sunday 3/27 
+Sunday 4/17
 {.text-dark}
-Story memo proposal
+* Second update to story memo
+
+Sunday 4/24
+{.text-dark}
+* Final version of story memo and documentation
+
+Friday 5/4
+{.text-dark}
+* Explainer 
+
+## Reading and agenda by class date
+
+### Monday April 4
+
+* "A drumbeat of multiple shootings, but America isn't listening" , by Sharon LaFraniere , Daniela Porat  and Agustin Armendariz, New York Times, May 2016. NOTE: Daniela will be a guest speaker on April 6 so be sure to read it carefully. 
+
+* Textbook chapter : "Building your own database", which will be copied from an [older version](https://cronkitedata.github.io/cronkite-docs/general/09-build-own.html). It's the same material - I just haven't integrated it into the textbook yet. 
+
+* Sign into Airtable - we'll do a tutorial on it on Monday. Be sure you know how to sign in. 
+
+### Wednesday April 20
+
+I'm thinking of moving the ethics day to April 20, so that you don't have a lot of reading the same weekend your memo is due. I'll list the reading here. 
+
 
 ## Preparation & learning materials
 
-If you want to follow along in class, you can either use the computers in the lab, or install [OpenRefine](https://openrefine.org/download.html) on your computer -- it doesn't take up much space. Just unzip it and drag it into your applications or anywhere else you want to launch it from. I'm by no means an expert in using this, but it's invaluable for fixing city names and standardizing company names. (Windows folks: Use the "Windows kit with embedded java". )
+I'll add to the textbook as we go along, but here is some software you might want to install if you want to play along on your own laptop. All of it is installed in the classroom, so don't do this if you don't want to:
 
-I'll have a chapter in the textbook on it by the time we get to this section. 
+* OpenRefine
+* QGIS 

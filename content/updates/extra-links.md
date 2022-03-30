@@ -14,3 +14,7 @@ I've thrown a lot of links at you in the last couple of weeks. I'll keep updatin
 *  The [start.me](https://bit.ly/dj2022-startme) page with all of the links we use in class. 
 
 * The [Cronkite R Cheat Sheet](https://cronkitedata.s3.amazonaws.com/docs/cronkite_cheat_v2.html) 
+
+* The [list of sentences](https://docs.google.com/document/d/15nFfwZme3bJ0wBIrdn8Ptl3eshYfaQg1JbYd23XNnEg/edit?usp=sharing) to replicate, by story, and links to the datasets.
+
+* 
