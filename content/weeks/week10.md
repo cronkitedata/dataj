@@ -34,22 +34,43 @@ Friday 5/4
 
 ## Reading and agenda by class date
 
-### Monday April 4
+### Monday, April 4
+
+* Textbook chapter : "[Building your own database](https://cronkitedata.github.io/djtextbook/start-build-own.html") 
+
+* Sign into Airtable - we'll do a tutorial on it on Monday. Be sure you know how to sign in. 
+
+* Re-review the chapter in the textbook on "[A gentle introduction to programming](https://cronkitedata.github.io/djtextbook/appendix-program.html)". We're going to introduce looping on Monday, which is exemplified by the restaurant example. 
+
+
+### Wednesday April 6
+
+We'll be joined by Daniela Porat, senior reporter for Law360 covering employment law, who has been building databases for her stories since she began her reporting career in 2016. Read a couple of her examples (or watch the second one while she shivers in front of the Niagara River).
 
 * "A drumbeat of multiple shootings, but America isn't listening" , by Sharon LaFraniere , Daniela Porat  and Agustin Armendariz, New York Times, May 2016. NOTE: Daniela will be a guest speaker on April 6 so be sure to read it carefully. 
 
-* Textbook chapter : "Building your own database", which will be copied from an [older version](https://cronkitedata.github.io/cronkite-docs/general/09-build-own.html). It's the same material - I just haven't integrated it into the textbook yet. 
+* "[Training , equipment deficient in Police Drowning](https://urldefense.com/v3/__https:/www.investigativepost.org/2018/02/13/training-equipment-deficient-in-police-drowning/)", Daniela Porat, Investigative Post and WGRZ in Buffalo. A little context : The Niagara River feeds into Niagara Falls just a short distance from where the police officer drowned -- those rapids are among most dangerous in the world. Everyone in their audience already knows that. 
 
-* Sign into Airtable - we'll do a tutorial on it on Monday. Be sure you know how to sign in. 
 
 ### Wednesday April 20
 
 I'm thinking of moving the ethics day to April 20, so that you don't have a lot of reading the same weekend your memo is due. I'll list the reading here. 
 
 
-## Preparation & learning materials
 
-I'll add to the textbook as we go along, but here is some software you might want to install if you want to play along on your own laptop. All of it is installed in the classroom, so don't do this if you don't want to:
 
-* OpenRefine
-* QGIS 
+## Recommendations for going further 
+
+### OpenRefine
+
+People who work in digital humanities, such as historians or experts in literature, often need to do many of the data cleaning chores that reporters do. That community has taken to OpenRefine, and there are a ton of good tutorials in that space. Here are a few: 
+
+* [UCLA's Digital Humanities 201 course](http://miriamposner.com/classes/dh201w19/tutorials-guides/data-cleaning-and-manipulation/getting-started-with-openrefine/) , by Miriam Posner
+* Digital humanities OpenRefine lesson from [Data Carpentry](https://data-lessons.github.io/dh-openrefine/)
+
+
+### Scraping
+
+Try doing a couple of the other tutorials listed in the textbook. Also, when you sign up for your free DataCamp account, you'll see some assignments from me. The two that relate to scraping are particularly good. 
+
+
