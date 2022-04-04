@@ -16,7 +16,7 @@ Friday 4/8
 {.text-dark}
 * Your database design for the "building a database" assignment. Turn in a link to an Airtable, and be sure you've shared it with me (shcohen1@asu.edu)
 
-Sunday 4/11
+Sunday 4/10
 {.text-dark}
 * First update to story memo
 
@@ -36,7 +36,7 @@ Friday 5/4
 
 ### Monday, April 4
 
-* Textbook chapter : "[Building your own database](https://cronkitedata.github.io/djtextbook/start-build-own.html") 
+* Textbook chapter : "[Building your own database](https://cronkitedata.github.io/djtextbook/start-build-own.html)"
 
 * Sign into Airtable - we'll do a tutorial on it on Monday. Be sure you know how to sign in. 
 
