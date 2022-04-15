@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheet review II"
 date:   "2022-01-26"
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

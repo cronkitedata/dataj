@@ -1,7 +1,7 @@
 ---
 title:  Going further with tidyverse verbs
 date:  "2022-02-07"
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

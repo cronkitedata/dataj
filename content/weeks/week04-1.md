@@ -1,7 +1,7 @@
 ---
 title: Introduction to programming with R
 date:  2022-01-31
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

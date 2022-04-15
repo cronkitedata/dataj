@@ -3,7 +3,7 @@ title: "Story memo details"
 date:   2021-12-27
 draft: false
 layout: single
-toc: true
+toc: false
 show_date: false
 --- 
 

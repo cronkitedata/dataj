@@ -1,7 +1,7 @@
 ---
 title: "Defining data"
 date:  "2022-01-19"
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

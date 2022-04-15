@@ -46,7 +46,7 @@ Unless I suggest otherwise, you’re expected to have done more than just skimme
       <description>data /ˈdeɪ.tə/ :
  information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary -- almost*  * in reverse order
 Some of this may feel abstract to you in the beginning but it will become more concrete as you start tackling datasets.
-Agenda We have two days&amp;rsquo; worth of work to do in only one class this week because of the MLK holiday.</description>
+Agenda We have two days&#39; worth of work to do in only one class this week because of the MLK holiday.</description>
     </item>
     
     <item>
@@ -145,17 +145,6 @@ Agenda Monday 3/14   Presentation on visualization as a reporting tool
     </item>
     
     <item>
-      <title>Data cleaning with Open Refine</title>
-      <link>https://cronkitedata.github.io/dataj/weeks/week11/</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cronkitedata.github.io/dataj/weeks/week11/</guid>
-      <description>Agenda Monday:
- Review the replication project as a whole. Intro to OpenRefine to clean data  Wednesday:
-- Team lab: The Data Hunt. Finding and evaluating data on your beat on deadline. A guide to a data hunt is in the class textbook: Finding the right data for your story, and a template with an old example that won&amp;rsquo;t work anymore is in this google doc . (These are the same links shared with News21 students earlier this semester.</description>
-    </item>
-    
-    <item>
       <title>... and we&#39;re almost done!</title>
       <link>https://cronkitedata.github.io/dataj/weeks/week10/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
@@ -178,16 +167,6 @@ Agenda Monday 3/14   Presentation on visualization as a reporting tool
       <description>Sarah Cohen  This is the poorly named website for my data journalism course at Arizona State University’s Cronkite School. It focuses on documents and data reporting in investigations.
 I began teaching in Arizona in 2018 as the Knight Chair in Journalism. This is my second tour as a Knight chair – the first was at Duke University’s Sanford School of Public Policy, from 2009 to 2012.
 I’ve been a reporter and editor for most of my career, starting out as a beat reporter in Florida covering health care, workplace issues and the local economy.</description>
-    </item>
-    
-    <item>
-      <title>Build your own database</title>
-      <link>https://cronkitedata.github.io/dataj/coursedocs/builddb/</link>
-      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cronkitedata.github.io/dataj/coursedocs/builddb/</guid>
-      <description>This is an assignment that challenges you to build a database out of documents or individual items that you collect yourself. I&amp;rsquo;m still deciding which documents to use for this, and will update it after Spring Break. We&amp;rsquo;ll do it partly in a lab, and then you&amp;rsquo;ll finish it up yourself in April.
-If you have documents you want me to consider for this, please let me know.</description>
     </item>
     
     <item>

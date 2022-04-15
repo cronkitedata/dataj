@@ -22,3 +22,8 @@ Also that any images, etc. are linked off of /dataj/....
 Found the addDate function and found out how to make a simple comparison for range. It's very confusing language! 
 
 Github PAT: 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
+
+
+Ethics readings.
+https://www.youtube.com/watch?v=kcfRe15I47I&ab_channel=Vallis%7CVideoEssays
+

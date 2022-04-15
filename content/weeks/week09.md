@@ -1,7 +1,7 @@
 ---
 title: Visualization as a reporting tool
 date:  2022-03-14
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

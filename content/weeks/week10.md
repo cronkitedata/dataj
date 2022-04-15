@@ -1,7 +1,7 @@
 ---
 title: ... and we're almost done!
 date:  2022-04-04
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true
@@ -54,7 +54,41 @@ We'll be joined by Daniela Porat, senior reporter for Law360 covering employment
 
 ### Wednesday April 20
 
-I'm thinking of moving the ethics day to April 20, so that you don't have a lot of reading the same weekend your memo is due. I'll list the reading here. 
+Ethics in data journalism. There is some easy reading  and viewing to get ready for this class - it shouldn't take more than two hours, most of it in the videos. We'll look at some common cognitive biases that you should consider when working on a data-driven project, and look at some of the best practices to avoid common pitfalls. 
+
+#### Posting raw data on your website
+
+- "[Public information doesn't always want to be free](https://source.opennews.org/articles/public-info-doesnt-always-want-be-free/)", by Matt Waite, 2013
+
+- Pages 174 to 181 in "[To Post or Not to Post](https://www.researchgate.net/profile/Mohammad-Yousuf-2/publication/312187007_To_Post_or_Not_to_Post_Online_Discussion_of_Gun_Permit_Mapping_and_the_Development_of_Ethical_Standards_in_Data_Journalism/links/5b1f1b60a6fdcc69745bfe4a/To-Post-or-Not-to-Post-Online-Discussion-of-Gun-Permit-Mapping-and-the-Development-of-Ethical-Standards-in-Data-Journalism.pdf?origin=publication_detail)", by David Craig, Stan Ketterer, and Mohammad Yousuf, Journalism & Mass Communications Quarterly, 2017, via ResearchGate.  
+
+#### Ethics in scraping
+
+- "[To scrape or not to scrape: technical and ethical challenges to collecting data off the web](https://www.storybench.org/to-scrape-or-not-to-scrape-the-technical-and-ethical-challenges-of-collecting-data-off-the-web/)" Sophie Chou, Storybench, April 2016
+
+
+#### Common cognitive biases in data journalism
+
+- ["How to prevent confirmation bias affecting your journalism"](https://onlinejournalismblog.com/2020/04/07/how-to-prevent-confirmation-bias-affecting-your-journalism/) Paul Bradshaw, Online Journalism Blog. This is a particularly big problem in data journalism, since we often seek out stories in databases based on tips or broad ideas, and can often find them. If you're interested (not required),  read "[A journalist’s guide to cognitive bias (and how to avoid it](https://onlinejournalismblog.com/2020/03/24/a-journalists-guide-to-cognitive-bias-and-how-to-avoid-it/)" for other kinds of biases that we might bring to our reporting.  These include common problems in newsrooms, such as a "sunk-cost" bias or a negativity bias.
+
+- BBC Worklife, [How ‘survivorship bias’ can cause you to make mistakes](https://www.bbc.com/worklife/article/20200827-how-survivorship-bias-can-cause-you-to-make-mistakes) (just watch the video)
+
+- The videos # 1-4  from the Knight Center for the Americas on "Equity and Ethics in Data Journalism's" module 3.  I'm not thrilled with the pace or specific content with these videos, but they're the best single spot I've found for these common problems. Feel free to speed this up considerably. I found that 1.75 was the right speed for me! (She talks about writing data journalism stories, but she's never been a journalist of any kind. Sigh.)
+
+   * [Common mistakes in data analysis](https://youtu.be/4ndrF2cSqVo)
+   * [Causal mistakes in data](https://youtu.be/9nKs7mJukSk)
+   * [Simpson's paradox in data journalism](https://youtu.be/f5gMwGfZL3g)
+   * [Prosecutor's Fallacy in data journalism](https://youtu.be/0y3sco0lKzc) OR [this piece on prosecutor's fallacy](https://towardsdatascience.com/the-prosecutors-fallacy-cb0da4e9c039) by Ray Johns, 2019. 
+
+"[Fighter pilots and firing coaches](https://faculty.mccombs.utexas.edu/carlos.carvalho/teaching/regression_to_the_mean.pdf)", Brian Burke, 2009, in Advanced Football Analytics, with an explanation of regression to the mean. (This link is to a printout of the original piece, since the website version is a little bit of a mess.) It isn't very well written, but it eventually gets around to an anecdote about fighter pilots and the concept we care about: "regression to the mean". 
+
+#### Accuracy as the ultimate in ethics
+
+There are a lot of bulletproofing pieces out there,  but this [email from me to Criag Silverman](https://cronkitedata.s3.amazonaws.com/docs/bulletproof-email.pdf), who at the time wrote "Regret the Error" for Poynter, goes over most of them. (The piece he wrote is no longer on the web.)
+
+#### Additional optional reading: 
+
+* "[Distrust your data](https://source.opennews.org/articles/distrust-your-data/)", by Jacob Harris, The Source, 2014. At the time, Harris was a news developer at The New York Times. 
 
 
 

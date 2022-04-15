@@ -3,7 +3,7 @@ title: " "
 date:   2021-12-20T13:19:44-05:00
 #classdate: "2022-01-11"
 #publishDate: 
-draft: true
+draft: false
 layout: single
 toc: false
 show_date: false

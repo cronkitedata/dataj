@@ -67,15 +67,6 @@ publishDir = "docs"
     parent =  "projects"
 
 
-[[menu.main]]
-    identifier = "builddb"
-    name = "Build Your Own Database"
-    url = "/coursedocs/builddb/"
-    weight =  3
-    parent =  "projects"
-
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]

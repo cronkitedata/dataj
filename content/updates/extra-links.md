@@ -1,7 +1,7 @@
 ---
 title: "Extra links for working with R"
 date:   2022-02-09
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

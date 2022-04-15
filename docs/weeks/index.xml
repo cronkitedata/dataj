@@ -37,7 +37,7 @@ Unless I suggest otherwise, you’re expected to have done more than just skimme
       <description>data /ˈdeɪ.tə/ :
  information in an electronic form that can be stored and used by a computer*, or information, especially facts or numbers, collected to be examined and considered and used to help decision-making  Cambridge Dictionary -- almost*  * in reverse order
 Some of this may feel abstract to you in the beginning but it will become more concrete as you start tackling datasets.
-Agenda We have two days&amp;rsquo; worth of work to do in only one class this week because of the MLK holiday.</description>
+Agenda We have two days&#39; worth of work to do in only one class this week because of the MLK holiday.</description>
     </item>
     
     <item>
@@ -124,17 +124,6 @@ Agenda Monday Walkthrough on mutate and group_by/summarise. You&amp;rsquo;ll do 
       <description>From now on, you won&amp;rsquo;t have a lot of homework - most of your work will be either in-class labs or projects on your own, so you don&amp;rsquo;t have a lot of preparation for any classes. I&amp;rsquo;ll start listing in the agenda links to any presentations or other materials we use in class.
 Agenda Monday 3/14   Presentation on visualization as a reporting tool
   Knight Center&amp;rsquo;s online course on visualization from Alberto Cairo</description>
-    </item>
-    
-    <item>
-      <title>Data cleaning with Open Refine</title>
-      <link>https://cronkitedata.github.io/dataj/weeks/week11/</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cronkitedata.github.io/dataj/weeks/week11/</guid>
-      <description>Agenda Monday:
- Review the replication project as a whole. Intro to OpenRefine to clean data  Wednesday:
-- Team lab: The Data Hunt. Finding and evaluating data on your beat on deadline. A guide to a data hunt is in the class textbook: Finding the right data for your story, and a template with an old example that won&amp;rsquo;t work anymore is in this google doc . (These are the same links shared with News21 students earlier this semester.</description>
     </item>
     
     <item>

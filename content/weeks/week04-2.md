@@ -1,7 +1,7 @@
 ---
 title: Getting started with R and R Markdown
 date:  "2022-02-02"
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true

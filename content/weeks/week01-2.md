@@ -1,7 +1,7 @@
 ---
 title: "The journalistic method"
 date:  "2022-01-12"
-draft: true
+draft: false
 layout: single
 toc: true
 show_date: true
