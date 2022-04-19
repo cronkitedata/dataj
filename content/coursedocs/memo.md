@@ -60,6 +60,8 @@ This project is done in four discrete sections, which will help you pace your wo
 
 ### The pitch
 
+PLEASE SEE CANVAS FOR A DETAILED DESCRIPTION AND RUBRIC. 
+
 The final memo should be a story pitch of approximately 1,000 words. It should include:
 
 * A nut graf or lede that clearly relates the theme of the story and the results of your analysis so far.
@@ -72,12 +74,12 @@ In this pitch, you will not discuss WHAT YOU DID to get to this point -- you'll 
 
 ### The documentation
 
+
 We talk all semester about the need to be able to document your work and make it replicable. I expect that your work will be done almost entirely in R Markdown documents. The documentation should allow a reader to follow the data cleaning, analysis and other steps you took. 
 
 I'll provide a template for you, and you might want to have multiple documents -- say, one for data loading , cleaning, and sourcing; and another for the actual analysis.  Generally, though, you'll have sections that include:
 
-* Documentation about the data, including sourcing, vetting and a data dictionary of the parts you are using. 
-* Loading and cleaning the data. 
+* Documentation about the data, including sourcing, vetting and a data dictionary of the parts you are using. As part of your methodology (either the top or the bottom), you'll described the work you did to clean the data. The code will be there, but it will likely only produce interim data frames, not printouts.
 * The actual analysis, including the motivating questions you're trying to answer, the code you used, and your interpretation of the results. 
 
 You should have a lot of draft documents before you edit it for this step. In this, you'll include only the parts of your analysis that were important to your memo, not every single thing you did. Think of it as a published white paper on the data analysis you did. 

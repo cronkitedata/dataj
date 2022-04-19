@@ -52,7 +52,7 @@ We'll be joined by Daniela Porat, senior reporter for Law360 covering employment
 * "[Training , equipment deficient in Police Drowning](https://urldefense.com/v3/__https:/www.investigativepost.org/2018/02/13/training-equipment-deficient-in-police-drowning/)", Daniela Porat, Investigative Post and WGRZ in Buffalo. A little context : The Niagara River feeds into Niagara Falls just a short distance from where the police officer drowned -- those rapids are among most dangerous in the world. Everyone in their audience already knows that. 
 
 
-### Wednesday April 20
+### Wednesday April 27
 
 Ethics in data journalism. There is some easy reading  and viewing to get ready for this class - it shouldn't take more than two hours, most of it in the videos. We'll look at some common cognitive biases that you should consider when working on a data-driven project, and look at some of the best practices to avoid common pitfalls. 
 
@@ -60,7 +60,7 @@ Ethics in data journalism. There is some easy reading  and viewing to get ready 
 
 - "[Public information doesn't always want to be free](https://source.opennews.org/articles/public-info-doesnt-always-want-be-free/)", by Matt Waite, 2013
 
-- Pages 174 to 181 in "[To Post or Not to Post](https://www.researchgate.net/profile/Mohammad-Yousuf-2/publication/312187007_To_Post_or_Not_to_Post_Online_Discussion_of_Gun_Permit_Mapping_and_the_Development_of_Ethical_Standards_in_Data_Journalism/links/5b1f1b60a6fdcc69745bfe4a/To-Post-or-Not-to-Post-Online-Discussion-of-Gun-Permit-Mapping-and-the-Development-of-Ethical-Standards-in-Data-Journalism.pdf?origin=publication_detail)", by David Craig, Stan Ketterer, and Mohammad Yousuf, Journalism & Mass Communications Quarterly, 2017, via ResearchGate.  
+- Pages 174 to 181 in "[To Post or Not to Post](https://cronkitedata.s3.amazonaws.com/docs/post-or-not.pdf  )", by David Craig, Stan Ketterer, and Mohammad Yousuf, Journalism & Mass Communications Quarterly, 2017, via ResearchGate.  
 
 #### Ethics in scraping
 
